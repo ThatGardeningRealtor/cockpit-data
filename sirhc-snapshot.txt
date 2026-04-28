@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, April 28, 2026 at 5:38 PM
+Date: Tuesday, April 28, 2026 at 5:39 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -62,8 +62,9 @@ Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Connect to
 [    ] Gather tax info for wife [Urgent]
 
 --- EXPENSES (2026-04) ---
-Total Miles: 32 · Total Spent: $0.00
+Total Miles: 32 · Total Spent: $75.00
 2026-04-28 | 32 mi | 8527 green bliss rental listing and lunch Brandon Moran
+2026-04-28 | $75 Meals | 8527 green bliss rental listing and lunch Brandon Moran to discuss listing for sheep dad's brother and his mom's new construction purchase.
 
 --- MESSAGE FOR SIRHC ---
 (none)
