@@ -1,18 +1,14 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, April 28, 2026 at 1:58 PM
+Date: Tuesday, April 28, 2026 at 1:59 PM
 Day Type: IN
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] Coughran Rd — follow up with Alyssa on closing schedule — Fernando signed and delivered to Alyssa at Chicago Title. Joy signing at UPS Store when title clears. Thank you basket for Michael + UPS Store.
+[DONE] Coughran Rd — follow up with Alyssa on closing schedule — Fernando signed and delivered to Alyssa at Chicago Title. Joy signing at UPS Store when title clears. Thank you basket for Michael + UPS Store.
 [    ] 340 Sollock — broker call first, then three paths with sellers — Seller finance (Gilberto) dead. Talk to broker about short sale protocol and subbing out Devine listing BEFORE calling Matt/Chandler.
 [    ] Mill Path — get listing agreement signed — Referral from Isaac Linares. Foundation crack needs pre-inspection (Coach Ricky Smith). Payoff discrepancy — sellers to verify with lender.
 
 --- ACTIVE DEALS ---
-8449 Coughran Rd | — | Stage: 3 | Lien release signed by Fernando Castillo + delivered to Alyssa at Chicago Title Apr 21 ✓ · Buyer agent: Sam VanDenheuvel (Exquisite SA) · Joy signing at UPS Store when title clears · Thank you basket planned for Michael + UPS Store
-  Log (Apr 28, 2026 10:12 AM): Title cleared and we signed on Friday. All funds disbursed to parties Friday and yesterday. We can set this file to closed.
-  Log (Apr 21): Fernando signed lien release — delivered to Alyssa at Chicago Title ✓. Joy confirmed as conservator — will sign at UPS Store when ready. Alyssa coordinating.
-  Log (Apr 19): Chicago Title underwriting: full lien release required — no workaround. Lien was prepared at Deeds.com, not Reliable Title.
 181 CR 7751 | — | Stage: 0 | Bank took home back Dec — damage was after bank possession (not prior occupant). Kendall pricing high — shopping alternatives. Self-manage option (dumpster + coordination fee) being explored. Pedro = hold referrals (bad Nextdoor report).
   Log (Apr 16): Kelly confirmed damage was after bank possession — liability shifts away from son. Matt Van Gorder site visit + police report with Deputy Munoz. Kendall pricing flagged high.
   Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage. Deputy Munoz took info — bank or lawyer needs to initiate formal report.
