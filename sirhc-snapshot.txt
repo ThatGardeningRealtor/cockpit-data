@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, April 28, 2026 at 5:20 PM
+Date: Tuesday, April 28, 2026 at 5:36 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -73,30 +73,83 @@ Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Connect to
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: J. J. Harrison, Chris darling, he's really gonna really like his homes. Like, I really like his home still decent Randall crossing community. He just took over that community. So neither ones are what Randolph and Randolph crossing Rose Valley gray's garden but they're finishing off so like bridge. Got you gotta make sure you get a jj home now. Harryson is doing cadence Springs by himself. Those are the high-end homes now. But he's doing all of those for Renee, you can get Renee, because he's like one investor bought a hot community because he's just doing them all just for him, but if you need more detail, freshmen, because I'm just on the fly right now, yeah,  CONVERSATION WITH BRANDON MORAN ON LENNAR NEW CONSTRUCTION COMMUNITIES WITH BIG COMISSIONS
-[Sirhc]: Got it — sounds like you're working intel on new construction opportunities with Brandon Moran at Lennar. Let me parse this:
+[Agent Green Thumb]: I need to either update or create a new hot lead for Brandon Moran's stepdad. His brother bought a new lenar, home that he's gonna rent out for 2 years.And here's some context...
+[Sirhc]: Hold up — you're giving me the context clues but not the actual details yet.
 
-**What I'm hearing:**
-- J.J. Harrison has homes in Randall Crossing / Rose Valley (finishing soon) — potential bridge listings
-- Cadence Springs is high-end, J.J. doing those solo for an investor named Renee
-- These are commission opportunities if we can get Renee in the mix
+**What I need to log this properly:**
 
-**What I need from you:**
-- Clarify: Is the ask to reach out to Renee directly, or work through J.J.?
-- What communities are actually open/ready for showing?
-- Do you have Renee's contact or should I note this as "follow up with Brandon Moran for Renee intro"?
+- **Stepdad's name?** (Brandon Moran's stepdad)
+- **Brother's name?** (the one who bought the Lennar)
+- **Property address or community?** (which Lennar?)
+- **Timeline:** 2-year rental plan — so what's the play? Sell after 2 years? Refinance? Just gathering intel?
+- **Contact info?** (phone, email for the stepdad)
 
-Right now it's a bit scrambled (no judgment — field notes are field notes). Hit me back with specifics when you have bandwidth, or we can sync at EOD and I'll organize the play.
+Give me those pieces and I'll create the hot lead file. What else?
+[Agent Green Thumb]: On this one, I'm replying to my buddy. Brandon, who I just met out at his stepdad's brother's house. They plan to rent it for 2 years before they move from California to occupy the house themselves. In the meantime, I have an opportunity to put together the rental listing and help them sort out the details with property management. And all of that, since they're just getting into it on a side note, his mom is also looking to purchase a new construction home to do the same thing. In the meantime, I want to the shine up this message back to him. Keep it simple. What the quick punch if that makes sense like you did on the last one: I could get you some options with a few property management companies and a way that we or I could help with that to save some money on the fees.
 
-Is this a "add to prospect outreach" or "move to active tracking"?
-[Agent Green Thumb]: We'll go ahead and look into those communities when we get back to the house. Brandon was just telling me some backstory on best communities. I should be working in
-[Sirhc]: Copy. You're gathering intel on where the best commission opportunities are — Brandon's your guide on that.
+I'll work on it this week and we can catch up on it. There's not much in it for anyone on the rental listing, but I know we can get it rented pretty quick, and I'm happy to help in any way.
+[Sirhc]: **Quick punch back to Brandon:**
 
-**Action:** Research those communities (Randall Crossing, Rose Valley, Cadence Springs) when you're back at the house.
+---
 
-**I'll be ready to:**
-- Map out which ones are actually move-able for you right now
-- Figure out the Renee angle if it's worth pursuing
-- Slot them into your pipeline accordingly
+Hey Brandon — I can get you solid options on property management companies + show you how we can structure it to keep fees down. Let me work some options this week and we'll connect.
 
-See you at debrief.
+Rental listing moves fast, happy to help however makes sense. Let's sync up soon.
+
+---
+
+**That's it.** Direct, helpful, no fluff. You're positioning yourself as the problem-solver without overselling. The mom's new construction play is the real opportunity — that's where the commission lives. Keep that door open.
+[Agent Green Thumb]: On the details for it, let's just put it under Brandon Moran, the property address is 8523 green bliss, san antonio, texas 78222
+[Sirhc]: **Logged:**
+
+**HOT LEAD — Brandon Moran**
+- Property: 8523 Green Bliss, San Antonio TX 78222
+- Opportunity: Rental listing + property management coordination (2-year hold before owner occupancy from California)
+- Secondary: Mom looking to buy new construction (same rental strategy)
+- Action: Message sent; follow up this week with PM company options
+- Commission play: New construction purchase (mom's deal) is the real money
+
+Got it filed. Sync when you're done for the day.
+[Agent Green Thumb]: As for the 2 year timeline, they plan to rent it out for 2 years. And then they are going to move into the home from California. And hold the property
+[Sirhc]: **Updated:**
+
+**HOT LEAD — Brandon Moran**
+- Property: 8523 Green Bliss, San Antonio TX 78222
+- Plan: Rent 2 years → move in from California → **hold long-term** (not a flip)
+- Opportunity: Rental listing + property management coordination + ongoing relationship
+- Secondary: Mom buying new construction (same strategy — rent then occupy)
+- Action: PM company options this week
+
+Long-term hold = better relationship play. You're building trust for future deals, not just one transaction.
+
+Noted.
+[Agent Green Thumb]: Brandon and I go way back and I kinda got him started in the real estate. So let's create this file for the green bliss property, and then we will also create another hot lead for his mom to we narrow down the communities she would like to purchase in with options. And incentives laid out, we'll have to put together a big game plan on what we should ask to get all the information we need.
+[Sirhc]: **Got it — two files incoming:**
+
+---
+
+**FILE 1: GREEN BLISS RENTAL (Brandon Moran)**
+- 8523 Green Bliss, San Antonio TX 78222
+- Rent 2 years → move in from CA → hold long-term
+- Your play: PM coordination + rental listing
+- Relationship: Long-standing — he's a legacy contact
+
+**FILE 2: BRANDON'S MOM — NEW CONSTRUCTION BUYER**
+- Goal: Find community + structure rental/occupy strategy
+- Commission opportunity: This is the real one
+- Status: Need to narrow communities + present options with incentives
+
+---
+
+**Questions we need answered from Mom:**
+
+1. Budget range?
+2. Timeline to purchase?
+3. Rental strategy same as Brandon's (2-year rent then occupy)?
+4. California-based too, or local?
+5. Which communities interest her? (Cadence Springs? Randall Crossing? Others?)
+6. Does she want turnkey or help with property management setup?
+
+**Game plan:** Get those answers first, then layer in community options + incentive packages.
+
+When you ready to reach out to her, let me know. What's her name/contact?
