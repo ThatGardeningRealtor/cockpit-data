@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, April 28, 2026 at 7:27 PM
+Date: Tuesday, April 28, 2026 at 10:19 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -82,32 +82,6 @@ Total Miles: 32 · Total Spent: $75.00
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: I need to either update or create a new hot lead for Brandon Moran's stepdad. His brother bought a new lenar, home that he's gonna rent out for 2 years.And here's some context...
-[Sirhc]: Hold up — you're giving me the context clues but not the actual details yet.
-
-**What I need to log this properly:**
-
-- **Stepdad's name?** (Brandon Moran's stepdad)
-- **Brother's name?** (the one who bought the Lennar)
-- **Property address or community?** (which Lennar?)
-- **Timeline:** 2-year rental plan — so what's the play? Sell after 2 years? Refinance? Just gathering intel?
-- **Contact info?** (phone, email for the stepdad)
-
-Give me those pieces and I'll create the hot lead file. What else?
-[Agent Green Thumb]: On this one, I'm replying to my buddy. Brandon, who I just met out at his stepdad's brother's house. They plan to rent it for 2 years before they move from California to occupy the house themselves. In the meantime, I have an opportunity to put together the rental listing and help them sort out the details with property management. And all of that, since they're just getting into it on a side note, his mom is also looking to purchase a new construction home to do the same thing. In the meantime, I want to the shine up this message back to him. Keep it simple. What the quick punch if that makes sense like you did on the last one: I could get you some options with a few property management companies and a way that we or I could help with that to save some money on the fees.
-
-I'll work on it this week and we can catch up on it. There's not much in it for anyone on the rental listing, but I know we can get it rented pretty quick, and I'm happy to help in any way.
-[Sirhc]: **Quick punch back to Brandon:**
-
----
-
-Hey Brandon — I can get you solid options on property management companies + show you how we can structure it to keep fees down. Let me work some options this week and we'll connect.
-
-Rental listing moves fast, happy to help however makes sense. Let's sync up soon.
-
----
-
-**That's it.** Direct, helpful, no fluff. You're positioning yourself as the problem-solver without overselling. The mom's new construction play is the real opportunity — that's where the commission lives. Keep that door open.
 [Agent Green Thumb]: On the details for it, let's just put it under Brandon Moran, the property address is 8523 green bliss, san antonio, texas 78222
 [Sirhc]: **Logged:**
 
@@ -162,3 +136,16 @@ Noted.
 **Game plan:** Get those answers first, then layer in community options + incentive packages.
 
 When you ready to reach out to her, let me know. What's her name/contact?
+[Agent Green Thumb]: This is post explains very well a parallel system that is what im working to design this app into.
+[Sirhc]: I'm not seeing a post attached or linked — did it get cut off?
+
+Drop the link or the key details when you get a chance. If it's about parallel systems or workflow design, I'm all ears. Might inform how we structure the hot lead tracking or deal pipeline.
+[Agent Green Thumb]: https://www.instagram.com/p/DV5HkfuDH11/?igsh=cTk2Z3Z6NWg1Mngw
+[Sirhc]: I can't access Instagram links directly, but I'm picking up what you're putting down — you're designing a parallel system for how deals/leads flow through your operation.
+
+**Give me the cliff notes:**
+- What's the system doing that resonates with how you want to work?
+- Is it about lead routing, deal staging, or something else?
+- How does it change what I should be tracking/alerting on?
+
+Once I understand the framework, I can align how I'm logging Brandon's files, the active deals, and everything else to match your actual workflow. Right now I'm working off what makes sense — but if there's a better architecture, let's lock it in.
