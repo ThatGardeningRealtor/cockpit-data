@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Wednesday, April 29, 2026 at 6:27 PM
+Date: Wednesday, April 29, 2026 at 8:01 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -82,60 +82,6 @@ Total Miles: 32 · Total Spent: $75.00
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: On the details for it, let's just put it under Brandon Moran, the property address is 8523 green bliss, san antonio, texas 78222
-[Sirhc]: **Logged:**
-
-**HOT LEAD — Brandon Moran**
-- Property: 8523 Green Bliss, San Antonio TX 78222
-- Opportunity: Rental listing + property management coordination (2-year hold before owner occupancy from California)
-- Secondary: Mom looking to buy new construction (same rental strategy)
-- Action: Message sent; follow up this week with PM company options
-- Commission play: New construction purchase (mom's deal) is the real money
-
-Got it filed. Sync when you're done for the day.
-[Agent Green Thumb]: As for the 2 year timeline, they plan to rent it out for 2 years. And then they are going to move into the home from California. And hold the property
-[Sirhc]: **Updated:**
-
-**HOT LEAD — Brandon Moran**
-- Property: 8523 Green Bliss, San Antonio TX 78222
-- Plan: Rent 2 years → move in from California → **hold long-term** (not a flip)
-- Opportunity: Rental listing + property management coordination + ongoing relationship
-- Secondary: Mom buying new construction (same strategy — rent then occupy)
-- Action: PM company options this week
-
-Long-term hold = better relationship play. You're building trust for future deals, not just one transaction.
-
-Noted.
-[Agent Green Thumb]: Brandon and I go way back and I kinda got him started in the real estate. So let's create this file for the green bliss property, and then we will also create another hot lead for his mom to we narrow down the communities she would like to purchase in with options. And incentives laid out, we'll have to put together a big game plan on what we should ask to get all the information we need.
-[Sirhc]: **Got it — two files incoming:**
-
----
-
-**FILE 1: GREEN BLISS RENTAL (Brandon Moran)**
-- 8523 Green Bliss, San Antonio TX 78222
-- Rent 2 years → move in from CA → hold long-term
-- Your play: PM coordination + rental listing
-- Relationship: Long-standing — he's a legacy contact
-
-**FILE 2: BRANDON'S MOM — NEW CONSTRUCTION BUYER**
-- Goal: Find community + structure rental/occupy strategy
-- Commission opportunity: This is the real one
-- Status: Need to narrow communities + present options with incentives
-
----
-
-**Questions we need answered from Mom:**
-
-1. Budget range?
-2. Timeline to purchase?
-3. Rental strategy same as Brandon's (2-year rent then occupy)?
-4. California-based too, or local?
-5. Which communities interest her? (Cadence Springs? Randall Crossing? Others?)
-6. Does she want turnkey or help with property management setup?
-
-**Game plan:** Get those answers first, then layer in community options + incentive packages.
-
-When you ready to reach out to her, let me know. What's her name/contact?
 [Agent Green Thumb]: This is post explains very well a parallel system that is what im working to design this app into.
 [Sirhc]: I'm not seeing a post attached or linked — did it get cut off?
 
@@ -149,3 +95,68 @@ Drop the link or the key details when you get a chance. If it's about parallel s
 - How does it change what I should be tracking/alerting on?
 
 Once I understand the framework, I can align how I'm logging Brandon's files, the active deals, and everything else to match your actual workflow. Right now I'm working off what makes sense — but if there's a better architecture, let's lock it in.
+[Agent Green Thumb]: I need a solid TikTok post for art Tilden. Listing removing mountains with this property as well. And just had the entire drive cleared for ease of use and access. This property should not still be on the market. We're showcasing a lot of the game camera pictures clearing pictures. Etc with some of my content as far as a business card, contact info et. Cetera, I'll also be dropping this link into the message is well so that they can click into the property.For more details pictures and pricing
+[Sirhc]: **TikTok Post — Art Tilden Property:**
+
+---
+
+🚜 **CLEARED & READY** 
+
+Just removed mountains of brush. Entire driveway cleared for easy access. Game camera footage + before/afters showing the transformation.
+
+This property should NOT still be available.
+
+📍 [Property Link]
+💼 Chris Drawdy | That Gardening Realtor
+📱 [Your contact info]
+
+🔗 Click link for full details, photos & pricing
+
+---
+
+**Content stack:**
+- Game camera clips (before clearing)
+- Your clearing footage (the work)
+- Property showcase (after)
+- Business card frame / contact info overlay
+- CTA to link
+
+**Vibe:** Show the work, show the transformation, make it obvious this is a VALUE-ADD play. The clearing *is* the story.
+
+Hook 'em in 3 seconds with before/after. Done.
+
+Want me to adjust the angle or copy?
+[Agent Green Thumb]: https://myre.io/0dkSZhuNBCDq
+[Sirhc]: I can't click external links, but I'm tracking what you're doing — you're building a content strategy around Art Tilden's property with multimedia proof of the clearing work.
+
+**What I need from you:**
+
+- Is that link the property listing you want me to reference when you drop the TikTok?
+- Should I file this as an active deal for Art Tilden's property, or just content/marketing play?
+- What's the property address so I can log it properly?
+
+Once you confirm, I'll add it to tracking and make sure the link strategy stays sharp.
+[Agent Green Thumb]: I wanna lean into the fact that we're moving mountains with this again. Just the catchphrase, after we cleared the property for miss joy in Pleasanton with the house, we've brought out the big guns and cleared some more property to set this listing up for success. Let's go into it with some good attitudes. Some spunk, it's a fast TikTok post that I want it to match. It doesn't need to be long, but let's go ahead. And just dial it in for tiktok, with any necessary hashtags, and let's run it
+[Sirhc]: **TikTok Post — Art Tilden Property:**
+
+---
+
+🏔️ **WE'RE MOVING MOUNTAINS**
+
+Just cleared Miss Joy's Pleasanton property. Now we brought out the BIG GUNS for Art Tilden.
+
+Mountain of brush → game-changing listing. 
+
+This one's NOT staying on the market. 🚜
+
+📍 [Link in bio]
+💼 Chris Drawdy | That Gardening Realtor
+📱 [Your contact]
+
+#MovingMountains #LandClearing #SanAntonioRealEstate #LandForSale #BeforeAndAfter #RealEstateMarketing #ThatGardeningRealtor #ListingReady
+
+---
+
+**Vibe:** Spunk, energy, proof of work. Fast. Direct. The catchphrase does the heavy lifting.
+
+Post it. 🎬
