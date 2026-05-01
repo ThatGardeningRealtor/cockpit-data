@@ -4,30 +4,37 @@ Day Type: ON
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[DONE] Call lien holder — 8449 Coughran Rd
-[    ] Confirm Howell pre-approval w/ Zach
-[    ] Call Gilberto — 340 Sollock seller finance
+[DONE] Coughran Rd — follow up with Alyssa on closing schedule — Fernando signed and delivered to Alyssa at Chicago Title. Joy signing at UPS Store when title clears. Thank you basket for Michael + UPS Store.
+[DONE] 340 Sollock — broker call first, then three paths with sellers — Seller finance (Gilberto) dead. Talk to broker about short sale protocol and subbing out Devine listing BEFORE calling Matt/Chandler.
+
+If you remember, we put together all of those options as far as a short sale, adjusting the price et. Cetera etc, I need to follow-up with them on that. So let's get a quick review on everything that was covered there. And reach out to see if they have any questions or feedback and also if they still need somebody to do their yard.Since I never heard back on the estimate that I sent them
+[    ] Mill Path — get listing agreement signed — Referral from Isaac Linares. Foundation crack needs pre-inspection (Coach Ricky Smith). Payoff discrepancy — sellers to verify with lender.
+
+I got ahold of Katy today and she said, Tuesdays are very busy for them. But they'll review everything by tomorrow. I'm going to put together a quick review video going through all the paperwork and signatures and send it over them as a reference 2 years while they review everything. And then we'll catch up and be sure everyone's on the same page.
+
+4/29 today, katie got back to me and said that they were reviewing the contract.I sent them a walk through video this morning.She was halfway through it, and her phone crashed on her, so they were gonna work on doing that.On the computer when they get home besides that, they ask about photography a t g has some availability.This week and next so I asked for the best day and time and we can dial it in from there.
 [    ] Mill Path — get listing agreement signed — Payoff discrepancy: seller says $170K, records show $192K — verify with lender before signing. Foundation crack pre-inspection (Coach Ricky Smith). Photos and MLS next.
 [    ] 340 Sollock — call Matt & Chandler with three paths — Seller finance (Gilberto) dead. Three paths ready: A) Short sale $370K-$385K, B) VA assumption, C) Price reduction + cash to close. Call Matt Chandler first.
 [    ] Finish taxes — enter expenses, mileage, home office in TurboTax — Business expenses, 4300 miles, 198 sq ft home office. Lauren needs to fix Lehrco 1099 and send ad spend totals. Review together before filing.
 
 --- ACTIVE DEALS ---
-8449 Coughran Rd | — | Stage: 3 | Ashley Goforth @ ENVtitle · Fabian Cerrillo 830-200-8030 homes2gosa@gmail.com · Aguilar signed original contract
-  Log (Apr 15): Spoke with Fabian Cerrillo (lien holder's brother) — Aguilar signed contract, may not need release. Fabian understanding, willing to work with us. Waiting on confirmation to set up mobile notary.
-  Log (Apr 13): Requested lien bypass form from ENVtitle
-  Log (Apr 10): Title search flagged outstanding lien
-181 CR 7751 | — | Stage: 0 | Contractors: Matt Van Gorder (tomorrow), Kendall (pricing high), Marc · Lawyer: Deborah Geiger · Deputy Munoz · Kelly = bank contact
-  Log (Apr 16): Kelly confirmed bank took home Dec — damage was after possession. Meeting Matt tomorrow on-site for estimate. Police report with Munoz same trip. Kendall pricing flagged high — shopping others. Pedro hold — bad Nextdoor report.
-  Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage · Deputy Munoz took info · Kelly asked for police report
-  Log (Apr 13): Sent quote requests to Kendall & Matt Van Gorder
-340 Sollock Dr | — | Stage: 1 | Owner finance showing Apr 9 · listing exp 2026-07-31 · biggest house in neighborhood · overpriced
-  Log (Apr 15): Need to check with Gilberto on seller finance buyers · pricing conversation with Matt Chandler overdue
-  Log (Apr 9): Owner finance showing completed
-  Log (Mar 28): Listed on MLS
-Tilden TX 20ac | — | Stage: 0 | Offer dead · clearing property · Arlene/Daniel 210-990-2265
-  Log (Apr 8): Offer fell through — buyer financing failed
-  Log (Mar 20): Submitted offer on behalf of buyer
-Borregas Property | — | Stage: 0 | Outreach needed to past and recent prospects
+181 CR 7751 | — | Stage: 0 | Bank took home back Dec — damage was after bank possession (not prior occupant). Kendall pricing high — shopping alternatives. Self-manage option (dumpster + coordination fee) being explored. Pedro = hold referrals (bad Nextdoor report).
+  Log (Apr 16): Kelly confirmed damage was after bank possession — liability shifts away from son. Matt Van Gorder site visit + police report with Deputy Munoz. Kendall pricing flagged high.
+  Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage. Deputy Munoz took info — bank or lawyer needs to initiate formal report.
+  Log (Apr 13): Photos + video shot. Sent to Kendall and Matt Van Gorder for quotes.
+340 Sollock Dr | — | Stage: 1 | 208 DOM · underwater ~$93K-$143K · payoff ~$493K · market value $350K-$400K · VA loan 5.25% $2,843/mo · double-carrying Pearl Brewery apt + mortgage. Gilberto seller finance = dead. Three paths: A) Short sale $370K-$385K, B) VA loan assumption by investor, C) Price reduction + bring $100K-$122K cash to close.
+  Log (Apr 21): Full CMA done — underwater $93K-$143K. 717 Jack Nicklaus listed at $519K makes current $528,999 impossible to defend. Seller finance (Gilberto) appears dead.
+  Log (Apr 19): Gilberto buyers wishy-washy — seller finance likely dead. Broker call needed before talking to sellers.
+  Log (Apr 15): Pricing conversation overdue. Biggest house in neighborhood. Sellers carrying costs compounding daily.
+Tilden TX 20ac | — | Stage: 0 | Offer dead — Michael Rodriguez RBFCU stalled, EM never came in. Steve was clearing property — likely done by now. Lead with net after close on next offer, not gross price.
+  Log (Apr 13): Offer basically dead — option money not received. Steve still clearing. More open to looking at full picture on offers now.
+  Log (Apr 9): Owner finance showing completed — using as leverage for pricing conversation
+Borregas Property | — | Stage: 1 | Sisters want to end listing after March expiration. Isaac Linares interested in mobile home development — ~$150K offer contingent on his project moving forward. Half units for displaced veterans, half for profit.
+  Log (Apr 21): Updated sisters on Apr 20 showing + Isaac development interest. Sisters excited. Isaac offered ~$150K contingent on mobile home project.
+  Log (Apr 20): Showing occurred. Dedicated prospect call block completed.
+10023 Mill Path | — | Stage: 0 | Referral from Isaac Linares. 3BR/2.5BA. Sellers confirmed moving forward Apr 21. CMA: $259,900 recommended. June deadline — motivated. Potential hairline foundation crack — disclose + pre-inspection (Coach Ricky Smith). Payoff discrepancy: seller says $170K, records show $192K — verify.
+  Log (Apr 21): Listing consultation on-site 11am with Isaac — went well. Sellers confirmed moving forward via email ~2:30pm. $259,900 recommended. Foundation crack discussed. Payoff discrepancy flagged.
+  Log (Apr 19): Referral from Isaac. CMA completed — $259,900. Meeting set for Apr 21 at 11am.
 
 --- LEADS ---
 Pamela M. | HOT LEAD | Stage: — | Last Contact: — | Next: Follow up · connect with VA-approved lender
@@ -45,9 +52,11 @@ Colton Brown | SELLER LEAD | Stage: — | Last Contact: — | Next: Reach out ·
   Log (Apr 15): Connected via Cynthia Dominguez — divorce, need to sell Moore TX home
 Kurt — 9815 Conbes | NEIGHBOR PROSPECT | Stage: — | Last Contact: — | Next: Follow up with listing agent on 9815 Conbes · report back to Kurt · determine if buyer or seller
   Log (Apr 15): Spoke with Kurt — interested in nearby listing details at $275K
+Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Connect to lenders (Zach + Erik) · pull credit · determine VA entitlement status · map 2-3 options once financials known
+  Log (Apr 24): New lead. Julie 100% disabled veteran — VA funding fee waived. Nick long-haul trucker. Prior debt/foreclosure in background. Open to manufactured home with good outdoor space. Lender connections next.
 
 --- TASKS ---
-[    ] Call lien holder — Coughran Rd [Urgent]
+[DONE] Call lien holder — Coughran Rd [Urgent]
 [    ] Follow up Pamela M. [Hot Lead]
 [    ] Call Kelly — 181 CR 7751 police report [Deal]
 [    ] Follow up Kendall — 181 CR 7751 [Deal]
@@ -78,3 +87,96 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] Behind the Scenes at Little Red House | Instagram, TikTok — Show the real community work. BTS content performs well.
 [Idea] The 1:1 Giving/Receiving Multiplier | Facebook, Nextdoor — How community compounds. SA Composting, Botanical Gardens, Ecocentro, Nextdoor ties.
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
+
+## Field Chat Log (last 10)
+[Agent Green Thumb]: Okay, so this morning we started. I've had the metanical gardens. We met the ladies at Alamo area. Council of governments, a ACO. G they have resources for people. Over 60 as well as a veterans, department upstairs that I need to get connected with as far as them, specifically. And the VA. offices
+From there, we got picked up by Christiano with the santonio composting group and went out to a horse. Rescue in new bronfiels, where I met Damon. This is a great opportunity for people to volunteer and potentially a place for Alice. Hale to move when she comes back to Texas and she could pick up on another working farm with rescue animals
+From there we talked to Katie and she let us know that she was halfway through signing. And her phone messed up, so she's going to redo that with her husband tonight, she asked about photography and I checked the schedule. There's pretty open flexibility this week. And next, so whenever they give me the best day, we can sort out the time and schedule photography. Photography will be ordered through against the grain photography. And I also need to check Zillow pricing as well.
+During our Wednesday team, meeting Tyler talked about dialing in your unique value. Proposition, I want to use the link that I'm gonna drop from. Gary V on texting every contact in my phone a video message about being a realtor and just reaching out
+Ms. Jill stopped by and gave me $30 after we helped her out with a bunch of things. And I sent her the resources for a ACO G already
+We can't forget about Brendan Moran's rental for his stepdad's brother and also his mom's property search, Mike and Alice sent me a mobile home property. That's on one acre, near Corpus Christi. I. Reached out to Zach with the address and also Isaac to see what we would need to do to the mobile home to turn it into real estate instead of just chattel. I also got to check-in and talk with Jerome. A little bit today a few times he's been doing a lot with sending out guides and also he's diving heavy into open houses. Also, during our meeting, Tyler mentioned a specific direction on and what we should deliver. And it's basically I give a specific specific deliverable. So the client can have a specific outcome without their biggest fear of or obstacle. Getting in the way, so let's use that to dial in when everything else.And here's the link on that gary b deal as well
+[Sirhc]: **DAILY DEBRIEF — Got it logged:**
+
+---
+
+**NEW CONNECTIONS & OPPORTUNITIES:**
+- **ACO.G (Alamo Area Council of Governments)** — 60+ resources + Veterans Dept upstairs. VA offices connection needed.
+- **San Antonio Composting Group (Christiano)** — Horse Rescue in New Braunfels (Damon). Volunteer opportunity + potential placement for Alice Hale when she returns to TX (working farm/rescue animals).
+
+**ACTIVE DEALS UPDATED:**
+- **Katie (Photography Deal)** — Halfway through signing. Phone issue; redoing with husband tonight. Photography flexible this week/next. **Action:** Against the Grain Photography when date confirmed. Check Zillow pricing.
+- **Brandon Moran** — Rental (8523 Green Bliss) + Mom's new construction search (still needs community narrowing).
+- **Mike & Alice Mobile Home** — 1 acre near Corpus Christi. Reached out to Zach (address) + Isaac (mobile home → real estate conversion questions).
+
+**RELATIONSHIP TOUCHPOINTS:**
+- Ms. Jill: $30 tip + ACO.G resources sent.
+- Jerome: Heavy on open houses + guide distribution.
+
+**STRATEGY SHIFT (Tyler's Framework):**
+- Dial in UVP with **specific deliverable** → **specific outcome** → removes client's biggest fear/obstacle.
+- Gary V video outreach: texting contacts as realtor (link pending from you).
+
+---
+
+**What I need from you:**
+- Gary V link (didn't come through)
+- Mobile home property address (to file with Zach/Isaac conversation)
+- Katie's photo date once confirmed
+
+You're building real network velocity here. Good day's work.
+[Agent Green Thumb]: https://www.facebook.com/share/r/18bbQWkdpt/
+[Sirhc]: Can't access Facebook links directly, but I'm tracking the Gary V video strategy — texting your contacts a video message about being a realtor + outreach.
+
+**What I need:**
+- **Key message from that video** — What's the core pitch/hook you're using?
+- **How many contacts** are you planning to hit?
+- **Follow-up play** — Is this one-and-done, or are you cycling back?
+
+Once you break down the strategy, I can help you track responses + build a system around it. This is solid UVP work if we dial it right.
+[Agent Green Thumb]: This will be a video specifically, letting people know even if I talk to them once or not. I'm just reaching out to let him know that I'm in real. Estate, we have connections with lenders and agents across the United States for any sort of referrals or references. And that I appreciate their time et cetera et cetera, that video would go out to every single person, starting from a to z and my phone contacts. Besides this, we just really need to dial in our social media calendar. So that I can start batch, creating and scheduling these posts. Another focus we need to hit is new construction. After talking with Alfonso at Leonard, he told me I need to get connected with Carlos McLean, a new home consultant. His phone number is 2106050241, and yeah.Besides that, we just need to finish up our day and start working on.And finishing the taxes before the end of the month
+[Sirhc]: **LOGGED:**
+
+---
+
+**GARY V VIDEO OUTREACH — A-Z CONTACT BLITZ**
+- Message: "I'm in real estate. Connections with lenders/agents nationwide. Referrals/references available. Appreciate your time."
+- Deployment: Every contact in your phone (A-Z)
+- Vibe: Relationship maintenance + awareness, not transactional
+
+**NEW CONSTRUCTION PUSH**
+- **Contact: Carlos McLean** (New Home Consultant)
+- Phone: 210-605-0241
+- Alfonso's referral at Leonard — this is your entry point
+- Action: Connect this week to build new construction pipeline
+
+**PRIORITIES BEFORE MONTH-END:**
+1. Social media calendar (batch create + schedule)
+2. New construction outreach (Carlos McLean call)
+3. Finish taxes
+
+---
+
+**What you need from me:**
+
+For the social calendar — do you want me tracking:
+- TikTok posts (Art Tilden, Brandon's rental, etc.)?
+- Instagram/Facebook content?
+- Posting schedule (daily, 3x/week)?
+- Content pillars (listings, education, behind-the-scenes)?
+
+Once you nail that down, we can batch-build it and keep the machine humming.
+
+**Got it logged. Sync when you're done for the day.**
+[Agent Green Thumb]: Can you remind me what the bold trail sink section is about and does
+[Sirhc]: I don't have a "bold trail sink section" logged in your active deals or system notes.
+
+**Did you mean:**
+- A specific property or deal?
+- A section from one of the files we created (Green Bliss, Art Tilden, etc.)?
+- Something from the parallel system post you wanted to show me?
+
+Clarify and I'll pull it up or explain it.
+[Agent Green Thumb]: The section on our homescreen towards the bottom
+[Sirhc]: I don't have visibility into your homescreen or app interface — I'm only tracking what you tell me in our conversation.
+
+**Drop a screenshot or describe what you're seeing** and I'll tell you what it does or how it connects to your deals/workflow.
