@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Friday, May 1, 2026 at 12:21 PM
+Date: Friday, May 1, 2026 at 12:22 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -71,7 +71,7 @@ Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Connect to
 [    ] Gather tax info for wife [Urgent]
 [    ] Follow up Pamela M. [Hot Lead] — Spoke Apr 29 — sick grandkid. Warm conversation. Follow up Apr 30.
 [    ] Mill Path — record Zoom walkthrough [Deal] — Walk through $259,900 CMA, foundation crack disclosure, payoff discrepancy, listing agreement next steps.
-[    ] Brandon Moran — PM company options [Deal] — 2-3 PM companies with fee comparison. Keep it simple. Mom new construction deal is the real commission play.
+[DONE] Brandon Moran — PM company options [Deal] — 2-3 PM companies with fee comparison. Keep it simple. Mom new construction deal is the real commission play.
 [    ] Joy gift basket — Coughran Rd [Deal] — Thank you basket for Michael (notary) + UPS Store staff too.
 
 --- EXPENSES (2026-05) ---
