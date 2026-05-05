@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, May 5, 2026 at 9:31 AM
+Date: Tuesday, May 5, 2026 at 9:32 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -83,11 +83,3 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] Behind the Scenes at Little Red House | Instagram, TikTok — Show the real community work. BTS content performs well.
 [Idea] The 1:1 Giving/Receiving Multiplier | Facebook, Nextdoor — How community compounds. SA Composting, Botanical Gardens, Ecocentro, Nextdoor ties.
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
-
-## Field Chat Log (last 10)
-[Agent Green Thumb]: Whats our github token? Paste it for me
-[Sirhc]: I don't have access to GitHub tokens or any API credentials—and I wouldn't share them if I did. That's a security line we don't cross.
-
-If you need to work with GitHub for something deal-related, talk to your tech support or command center. They handle that infrastructure.
-
-What are you actually trying to do? Might be a faster path.
