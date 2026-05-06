@@ -4,7 +4,7 @@ Day Type: ON
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] Mill Path — get listing agreement signed — Payoff discrepancy: seller says $170K, records show $192K — verify with lender before signing. Foundation crack pre-inspection (Coach Ricky Smith). Photos and MLS next.
+[DONE] Mill Path — get listing agreement signed — Payoff discrepancy: seller says $170K, records show $192K — verify with lender before signing. Foundation crack pre-inspection (Coach Ricky Smith). Photos and MLS next.  
 [    ] 340 Sollock — call Matt & Chandler with three paths — Seller finance (Gilberto) dead. Three paths ready: A) Short sale $370K-$385K, B) VA assumption, C) Price reduction + cash to close. Call Matt Chandler first.
 [    ] Finish taxes — enter expenses, mileage, home office in TurboTax — Business expenses, 4300 miles, 198 sq ft home office. Lauren needs to fix Lehrco 1099 and send ad spend totals. Review together before filing.
 
