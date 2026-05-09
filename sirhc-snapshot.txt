@@ -1,34 +1,32 @@
 [SIRHC — APP SNAPSHOT]
-Date: Saturday, May 9, 2026 at 5:12 PM
+Date: Saturday, May 9, 2026 at 5:20 PM
 Day Type: IN
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[DONE] Mill Path — get listing agreement signed — Payoff discrepancy: seller says $170K, records show $192K — verify with lender before signing. Foundation crack pre-inspection (Coach Ricky Smith). Photos and MLS next.  
-[    ] 340 Sollock — call Matt & Chandler with three paths — Seller finance (Gilberto) dead. Three paths ready: A) Short sale $370K-$385K, B) VA assumption, C) Price reduction + cash to close. Call Matt Chandler first.
-[    ] Finish taxes — enter expenses, mileage, home office in TurboTax — Business expenses, 4300 miles, 198 sq ft home office. Lauren needs to fix Lehrco 1099 and send ad spend totals. Review together before filing.
+[    ] Mill Path — MLS launch — Pre-inspection done May 2. Listing agreement signed. ATG Photography booked May 6 4pm, Zillow Package, promo 20OFF = $289. Next: send property details to ATG, set up MLS listing, prep Zillow Showcase.
+[    ] 340 Sollock — showing today + options for Matt & Chandler — Showing May 5 at 2pm. Express Offers showed $550K value — much better than traditional gap. Three paths: A) Short sale, B) VA assumption, C) Price cut + cash to close. Express Offers route is cleanest.
+[    ] Taxes — get SSFCU statements and file — Credit card deductions still need entry in TurboTax. SSFCU yearly bank statement needed. Financial advisor call scheduled. After that, file return and set up $650/quarter estimated payments starting June 15.
+[    ] 181 CR 7751 — get contractor answers to bank — T&T Kendall responded — cabinets reusable, full HVAC confirmed with warranty, windows $650-850/unit if needed, start 2-3 weeks out. Waiting on HouzzPro/Matt Toney response. Then send compiled answers to Jerry Sadler and Ray Stidham at Priority Bank.
+[    ] Brandon's mom — Grace Gardens new construction — Brandon's uncle has rental at 8523 Green Bliss (Grace Gardens Lennar). Mom wants to buy new construction same strategy. Builder rep not on site May 4. Chris shot content at Lennar, DR Horton, MI Homes.
 
 --- ACTIVE DEALS ---
-181 CR 7751 | — | Stage: 0 | Bank took home back Dec — damage was after bank possession (not prior occupant). Kendall pricing high — shopping alternatives. Self-manage option (dumpster + coordination fee) being explored. Pedro = hold referrals (bad Nextdoor report).
-  Log (May 6, 2026 8:49 PM): We're set to start next monday with dumpsters, electricians and cleanup crew.  Need to visit Colton while im out there.
-  Log (May 6, 2026 1:56 PM): Bank took Matt's estimate.  I'm headed to his office to discuss scope and next steps.  Will report back to Jerry.
-  Log (Apr 16): Kelly confirmed damage was after bank possession — liability shifts away from son. Matt Van Gorder site visit + police report with Deputy Munoz. Kendall pricing flagged high.
-340 Sollock Dr | — | Stage: 1 | 208 DOM · underwater ~$93K-$143K · payoff ~$493K · market value $350K-$400K · VA loan 5.25% $2,843/mo · double-carrying Pearl Brewery apt + mortgage. Gilberto seller finance = dead. Three paths: A) Short sale $370K-$385K, B) VA loan assumption by investor, C) Price reduction + bring $100K-$122K cash to close.
-  Log (Apr 21): Full CMA done — underwater $93K-$143K. 717 Jack Nicklaus listed at $519K makes current $528,999 impossible to defend. Seller finance (Gilberto) appears dead.
-  Log (Apr 19): Gilberto buyers wishy-washy — seller finance likely dead. Broker call needed before talking to sellers.
-  Log (Apr 15): Pricing conversation overdue. Biggest house in neighborhood. Sellers carrying costs compounding daily.
-Tilden TX 20ac | — | Stage: 0 | Offer dead — Michael Rodriguez RBFCU stalled, EM never came in. Steve was clearing property — likely done by now. Lead with net after close on next offer, not gross price.
-  Log (Apr 13): Offer basically dead — option money not received. Steve still clearing. More open to looking at full picture on offers now.
-  Log (Apr 9): Owner finance showing completed — using as leverage for pricing conversation
-Borregas Property | — | Stage: 1 | Sisters want to end listing after March expiration. Isaac Linares interested in mobile home development — ~$150K offer contingent on his project moving forward. Half units for displaced veterans, half for profit.
-  Log (Apr 21): Updated sisters on Apr 20 showing + Isaac development interest. Sisters excited. Isaac offered ~$150K contingent on mobile home project.
-  Log (Apr 20): Showing occurred. Dedicated prospect call block completed.
-10023 Mill Path | — | Stage: 0 | Referral from Isaac Linares. 3BR/2.5BA. Sellers confirmed moving forward Apr 21. CMA: $259,900 recommended. June deadline — motivated. Potential hairline foundation crack — disclose + pre-inspection (Coach Ricky Smith). Payoff discrepancy: seller says $170K, records show $192K — verify.
-  Log (May 6, 2026 8:35 AM): Today : pictures and set up listing.
-  Log (Apr 28): Zoom walkthrough scheduled for Apr 29 morning — recording for sellers to review paperwork tonight before signing.
-  Log (Apr 21): Listing consultation on-site 11am with Isaac — went well. Sellers confirmed moving forward via email ~2:30pm. $259,900 recommended. Foundation crack discussed. Payoff discrepancy flagged.
-8523 Green Bliss | — | Stage: 0 | Stepdad's brother bought Lennar — renting 2 years then moving from California to occupy. Long-term hold. Chris helping set up rental listing + property management. Brandon is a legacy contact Chris helped get started in RE.
-  Log (Apr 28): Met Brandon at property. Rental plan confirmed — 2yr hold then owner occupy from CA. Sent quick punch message. PM options coming this week. Mom also looking to buy new construction (see leads).
+8449 Coughran Rd | — | Stage: 3 | Ashley Goforth @ ENVtitle · Fabian Cerrillo 830-200-8030 homes2gosa@gmail.com · Aguilar signed original contract
+  Log (Apr 15): Spoke with Fabian Cerrillo (lien holder's brother) — Aguilar signed contract, may not need release. Fabian understanding, willing to work with us. Waiting on confirmation to set up mobile notary.
+  Log (Apr 13): Requested lien bypass form from ENVtitle
+  Log (Apr 10): Title search flagged outstanding lien
+181 CR 7751 | — | Stage: 0 | Contractors: Matt Van Gorder (tomorrow), Kendall (pricing high), Marc · Lawyer: Deborah Geiger · Deputy Munoz · Kelly = bank contact
+  Log (Apr 16): Kelly confirmed bank took home Dec — damage was after possession. Meeting Matt tomorrow on-site for estimate. Police report with Munoz same trip. Kendall pricing flagged high — shopping others. Pedro hold — bad Nextdoor report.
+  Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage · Deputy Munoz took info · Kelly asked for police report
+  Log (Apr 13): Sent quote requests to Kendall & Matt Van Gorder
+340 Sollock Dr | — | Stage: 1 | Owner finance showing Apr 9 · listing exp 2026-07-31 · biggest house in neighborhood · overpriced
+  Log (Apr 15): Need to check with Gilberto on seller finance buyers · pricing conversation with Matt Chandler overdue
+  Log (Apr 9): Owner finance showing completed
+  Log (Mar 28): Listed on MLS
+Tilden TX 20ac | — | Stage: 0 | Offer dead · clearing property · Arlene/Daniel 210-990-2265
+  Log (Apr 8): Offer fell through — buyer financing failed
+  Log (Mar 20): Submitted offer on behalf of buyer
+Borregas Property | — | Stage: 0 | Outreach needed to past and recent prospects
 
 --- LEADS ---
 Pamela M. | HOT LEAD | Stage: — | Last Contact: — | Next: Follow up · connect with VA-approved lender
@@ -46,24 +44,10 @@ Colton Brown | SELLER LEAD | Stage: — | Last Contact: — | Next: Reach out ·
   Log (Apr 15): Connected via Cynthia Dominguez — divorce, need to sell Moore TX home
 Kurt — 9815 Conbes | NEIGHBOR PROSPECT | Stage: — | Last Contact: — | Next: Follow up with listing agent on 9815 Conbes · report back to Kurt · determine if buyer or seller
   Log (Apr 15): Spoke with Kurt — interested in nearby listing details at $275K
-Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Follow up with Zach — FHA or creative route · Nick getting income docs to Zach · Zach connecting with Mia (financial advisor) · confirm if Nick talked to someone quoting $1,600 · check Neo as option
-  Log (Apr 27): Met with Zach — initial figures started. May need FHA or creative route based on credit/late payments. Nick getting income docs to Zach. Zach → Mia financial advisor. Julie mentioned Nick reached out to someone quoting $1,600 — confirm if done and whether Neo is more realistic.
-  Log (Apr 24): New lead. Julie 100% disabled veteran — VA funding fee waived. Nick long-haul trucker. Prior debt/foreclosure in background. Open to manufactured home with good outdoor space.
-Brandon's Mom | NEW CONSTRUCTION BUYER | Stage: — | Last Contact: — | Next: Get from Brandon: mom's name + contact · budget range · timeline · community preferences · CA-based or local?
-  Log (May 7, 2026 1:51 PM): No puedes aplicar y hacerle saber al chico que lo vas a alquilar. Porque van a ser como, está bien, ahora tienes que ir al mejor partido. Así que nunca quiero decir eso esta noche. ¿Así que puedo llevarte al punto de contacto? Donde puedan ayudarte con esto. Porque desafortunadamente puedo ayudar porque va a ser un escenario de empresa en la cima. Pero nunca quieres decirles que lo vas a alquilar. Está bien. Si planeas hacer un hogar primario, ¿de acuerdo? Así que cambio mis 2 centavos. ¿Eso va a ser como? No, ahora tienes que hacer mi mejor hombre. Y las tasas de I'll son más altas, y luego tienes que poner más dinero de tu bolsillo. ¿Así que esa es mi opinión? No, no, no.
-Motorcast, comercio, producto de inversión. ¿Está bien? Sí, en interés de la inversión. Es un nivel comercial. Ayer estuve observando mi ubicación. La Casa Chicago Bixby no, no es cierto, ayer trabajaron como Duffy en padres científicos. Bien, el mundo musulmán está completo. Es la literatura política. Es la misma fortuna en Snapchat verde. Aquí hay un cuanto Sevilla. Estos valores pueden estar bien. Sí, estas son esas piezas. Fije la mezcla de espaciado en oceanografía. Bueno, son dos historias. Subangabos era amissano estableció muchos caballos, novacali Carper y la reina en comparación con la princesa. Bueno, definitivamente el impacto cuántico.
-Bueno, sí, Bixby es la solidificación de aminoácidos de video de sufangamo. Bueno, no vende aplicaciones.
-Posible, está bien, así que Subanga también está diciendo que la gente del establecimiento de salones. Bueno, necesariamente un resumen mayor.
-Inversión, porque también está trabajando más. Y tienen otra casa que están financiando. Tiene que ser una inversión. ¿Y cuál no es como primaria? ¿Cómo no hay forma de estar bien? ¿Quiénes representan el porcentaje de ingresos de la ESA?
-Este no es nuestro capital personal que no necesitamos conocer. Es tan complicado y cuando hay un escenario de desempleo, porque cuando aplicamos como cuando solicito, se enviará a otra persona, no se le envió a un brazo. Así que no sé qué especiales tienen allí. Así que probablemente no verás Coca-Cola y todo sucede con ellos. Vamos, cantar 5.9 será algo ideal. Está bien.
-Ayer temprano, hoy he servido. Ayer, aunque...
-Estoy en el Leonardo. Véanlo. Pero voy a simplificar, ¿puedes tirar algún paquete? Así que Bixby no se amontone en una. Lista, ¿no lo hacen los filósofos de la NCM almendra de El? Puccina, así que no estoy presente de esa manera. Bueno, no tiene un mínimo de inventario polar. Así que rápidamente, así que en la semilla única, veamos cuál es el momento. Así que estás preparando un suno paralelo OK está bien, está bien, se detuvieron, así que me importa. Bueno, somos perfectos y parecen múltiples visitas. Soy un buen Nokia, Kendrick, que es el estrabismo. Cada vez que visite la aplicación para que no sepan quién trabaja para la empresa. No hay forma de evitar hacer esa información. Lo tengo. Pero puedes, porque lo van a ver cada vez que saquen crédito. Así que ahora deberían ser las casas porque estuviste aquí y luego si quieres tomar fotos. Pero hay un punto de contacto que tengo que conseguirte para un empleo. Para ofertas de empleados y cosas por el estilo. Bueno, solo quiero asegurarme de que obtengamos toda la información. Así que vamos a ver estas dos casas. Bien desde allí.
-  Log (May 5, 2026 8:52 PM): Meeting brandon and his mom at greenville.On thursday, between ten and eleven, make sure we set this up with carlos.So that he's there to speak with us.
-  Log (Apr 28): Lead identified through Brandon Moran meeting. Mom wants new construction, same rent-then-occupy strategy. Real commission play. Need intake details from Brandon.
 
 --- TASKS ---
-[DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
-[    ] Follow up Pamela M. [Hot Lead] — Spoke Apr 29 — sick grandkid. Warm conversation. Follow up Apr 30.
+[    ] Call lien holder — Coughran Rd [Urgent]
+[    ] Follow up Pamela M. [Hot Lead]
 [    ] Call Kelly — 181 CR 7751 police report [Deal]
 [    ] Follow up Kendall — 181 CR 7751 [Deal]
 [    ] Call Gilberto — 340 Sollock seller finance [Deal]
@@ -75,6 +59,7 @@ Estoy en el Leonardo. Véanlo. Pero voy a simplificar, ¿puedes tirar algún paq
 [    ] Essie shout out — video post [Team]
 [    ] Pull James Drause from Bold Trail [Investor]
 [    ] Gather tax info for wife [Urgent]
+[    ] Follow up Pamela M. [Hot Lead] — Spoke Apr 29 — sick grandkid. Warm conversation. Follow up Apr 30.
 [    ] Mill Path — record Zoom walkthrough [Deal] — Walk through $259,900 CMA, foundation crack disclosure, payoff discrepancy, listing agreement next steps.
 [    ] Brandon Moran — PM company options [Deal] — 2-3 PM companies with fee comparison. Keep it simple. Mom new construction deal is the real commission play.
 [    ] Joy gift basket — Coughran Rd [Deal] — Thank you basket for Michael (notary) + UPS Store staff too.
@@ -92,95 +77,3 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] Behind the Scenes at Little Red House | Instagram, TikTok — Show the real community work. BTS content performs well.
 [Idea] The 1:1 Giving/Receiving Multiplier | Facebook, Nextdoor — How community compounds. SA Composting, Botanical Gardens, Ecocentro, Nextdoor ties.
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
-
-## Field Chat Log (last 10)
-[Agent Green Thumb]: Can you give me a ticktock post that is asking for community volunteers to help local, in our communities. We have neighbors in need and a community that need a little organization and someone to get the ball rolling. I can't do this on my own, and I have so many people that would be interested in helping. In my opinion, we're also tying in a little bit of real estate. With the branding at the end, but all in all that's what community is about.I am who I am who we are.Who we are
-[Sirhc]: # TikTok Post Draft
-
----
-
-**[Open on you, genuine, real estate context optional]**
-
-"Hey community — real talk. I see neighborhoods that *need* something. Neighbors who could use a hand. Infrastructure that's been overlooked. Problems that won't fix themselves.
-
-I can't do this alone. But I know *you're* out there — the ones who actually care. The ones who want to see our community stronger, safer, more connected.
-
-So here's the ask: **Step up.** Help me organize this. Help me get the ball rolling. Whether it's showing up, sharing ideas, or just believing it's possible — we need you.
-
-Because at the end of the day, community isn't built by realtors or politicians or one person with a vision. It's built by *neighbors*. By *us*.
-
-Who's in?
-
-**That Gardening Realtor** — *Growing communities, one neighborhood at a time.*
-
----
-
-**Why this works:**
-- Raw, not polished (TikTok loves authentic)
-- Clear ask (volunteers needed)
-- Ties real estate naturally (neighborhood care = what you do)
-- Community-first message
-- Your voice — "who we are"
-
-Post it, tag local groups, let it breathe. People respond to genuine calls.
-
-Want me to adjust the tone or angle?
-[Agent Green Thumb]: Cool, five me the description for the post. Theres also a button if theyre interested in warren information.
-[Sirhc]: # TikTok Post Description
-
----
-
-Our neighbors deserve better. Our communities deserve intentional care.
-
-I can't do this alone — and honestly, I don't want to. If you're someone who believes in showing up for your community, we need you.
-
-🌱 Interested in volunteering or learning more? Tap the link below for details.
-
-**That Gardening Realtor** | Building communities together
-
-#CommunityFirst #LocalVolunteers #NeighborhoodCare #SanAntonioTX #MakingADifference
-
----
-
-**Notes:**
-- Keeps it short (TikTok favors brief descriptions)
-- Calls out the volunteer angle clearly
-- "Tap the link" directs to your Warren info button
-- Hashtags are searchable, local + action-oriented
-- Stays mission-focused, not salesy
-
-Ready to post?
-[Agent Green Thumb]: Write it as the ticktock trending expert. What will grind the algorithm?
-[Sirhc]: # TikTok Post Description — Algorithm Optimized
-
----
-
-**Hook them in the first line:**
-
-Our neighbors are struggling. Our communities are fragmented. And honestly? I'm tired of watching problems go unsolved.
-
-I can't fix this alone. But *you* can help me change that.
-
-🌱 **Are you the type who actually shows up?** If you're ready to organize. To lead. To be the spark your community needs — tap the link. Let's build something real together.
-
-**That Gardening Realtor** | Growing communities, one neighborhood at a time
-
----
-
-**#CommunityLeaders #LocalVolunteers #NeighborhoodHeroes #SanAntonioTX #MakingADifference #CommunityFirst #GetInvolved #RealestateWithPurpose**
-
----
-
-**Why this grinds the algorithm:**
-
-✅ **Emotional hook** — "struggling," "tired" = relatability (keep-watching signal)  
-✅ **Direct question** — "Are you the type..." = engagement bait (comments, shares)  
-✅ **Specificity** — "organize," "lead," "spark" = clear value prop  
-✅ **Call-to-action clarity** — "tap the link" is direct, no confusion  
-✅ **Hashtag strategy** — Mix high-volume (#CommunityFirst) + niche (#LocalVolunteers)  
-✅ **Short description** — Thumb-stopping, not essay-length  
-✅ **Problem + solution frame** — Algorithm loves conflict resolution
-
-**The video itself needs:** Raw footage, genuine energy, maybe show the "problem" first (neglected neighborhood), then pivot to "here's what's possible." No filters. No BS. Authenticity is *currency* on TikTok right now.
-
-Post this at 6-9pm on a weeknight. Watch the saves and shares roll in.
