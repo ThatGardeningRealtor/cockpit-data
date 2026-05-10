@@ -1,64 +1,89 @@
 [SIRHC — APP SNAPSHOT]
-Date: Saturday, May 9, 2026 at 11:39 PM
-Day Type: IN
+Date: Sunday, May 10, 2026 at 12:02 AM
+Day Type: REST
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] 
-[    ] 
-[    ] 
-[    ] 
-[    ] 
+[    ] Mill Path — go live Wednesday May 13 — Listing agreement signed May 6. Photos in from ATG. Going live Wednesday May 13. Sellers leave second week of June.
+[    ] Moran Mom — lender intro before first builder visit — Buyer rep signed May 7. She is not committed to Grace Gardens or any one builder. Budget: $50K down, ~$1K/month. Pull options from all area builders. Lender intro must happen before any builder visit.
+[    ] Make your calls — David Roth + Pamela M. — David Roth referred Armando — employee buyer program. Call to get Armando contact info. Pamela M. is a hot VA buyer carrying all week.
+[    ] 340 Sollock — showing feedback + lawn + sign — Showing happened May 5. Need feedback from buyer agent before updating Matt and Chandler on path. Grass unresolved — check Devine clubhouse for references.
+[    ] 181 CR 7751 — check on work progress — Matt Toney connected to Jerry Sadler May 6. Work starting this weekend. Swing by when in Devine to check progress and look for local resources at clubhouse.
 
 --- ACTIVE DEALS ---
-181 CR 7751 — Priority Bank | — | Stage: 1
-  Log (May 9): Matt Toney connected to Jerry Sadler. Dumpsters dropping this weekend. Swing by when in Devine.
-340 Sollock Dr | — | Stage: 1
-  Log (May 9): Showing May 5. Sign and lockbox dropping this week. Grass still unresolved. Need showing feedback before updating Matt and Chandler on next path.
-Tilden TX 20ac | — | Stage: 1
-  Log (May 9): Steve sent new photos. New prospect wants to show and subdivide or alternate use. Land-only cash deal approach recommended.
-Borregas — Elmendorf | — | Stage: 1
-  Log (May 9): Correction Deed in progress with Van Hutchins and ENV Title. Monitor.
-10023 Mill Path | — | Stage: 1
-  Log (May 9): Listing agreement signed May 6. Photos in from ATG. Going live Wednesday May 13. Canvassing neighborhood. Sign and lockbox dropping.
-Moran New Construction | — | Stage: 0
-  Log (May 9): Buyer rep signed May 7. Not set on one neighborhood. 50K down, target 1K per month payment. Pull options from all area builders. Lender intro before first builder visit.
+181 CR 7751 | — | Stage: 1 | Matt Toney (HouzzPro/SA Remodelers) connected directly with Jerry Sadler at Priority Bank on May 6. Dumpsters dropping this weekend. Work is beginning. Chris to swing by when in Devine to check progress.
+  Log (May 9): Matt Toney connected to Jerry Sadler May 6. Dumpsters dropping this weekend. Work starting.
+  Log (May 6): Met with Matt Toney in his office. Connected him directly with Jerry Sadler on a call. Goal: work starts by Monday.
+  Log (Apr 16): Kelly confirmed damage was after bank possession. Kendall pricing flagged high — HouzzPro selected as contractor.
+340 Sollock Dr | — | Stage: 1 | Underwater ~$93K-$143K. Showing happened May 5 at 2pm. Sign and lockbox dropping this week when in Devine. Grass still unresolved — need Devine clubhouse references. Need showing feedback before next path conversation with Matt and Chandler. Three paths: A) Short sale, B) VA assumption, C) Price cut + cash to close.
+  Log (May 9): Sign and lockbox dropping when in Devine. Grass unresolved — check clubhouse. Need showing agent feedback before updating sellers on path decision.
+  Log (May 5): Outside agent showed property at 2pm. Morales Tree Trimming and AM Lawn Care contacted for grass quotes.
+  Log (Apr 21): Full CMA done — underwater $93K-$143K. Three paths identified: short sale, VA assumption, or price cut with cash to close.
+Tilden TX 20ac | — | Stage: 1 | Steve sent new photos May 9 — green screen content opportunity. New prospect wants to show, interested in subdividing or alternate use. Strategy: land-only cash deal, buyer does what they need after close. Quick over-and-done approach.
+  Log (May 9): Steve sent new photos. New prospect interested in showing and possible subdivision. Land-only cash deal approach explained and sent.
+  Log (Apr 29): Clearing complete. Photos on social. Drone footage flagged as next content priority.
+  Log (Apr 13): First offer dead — RBFCU stalled, no earnest money. Lead with net after close on next offer.
+Borregas Property | — | Stage: 1 | Sisters want to end listing after March expiration. Isaac Linares interested in mobile home development — ~$150K offer contingent on his project moving forward. Half units for displaced veterans, half for profit.
+  Log (Apr 21): Updated sisters on Apr 20 showing + Isaac development interest. Sisters excited. Isaac offered ~$150K contingent on mobile home project.
+  Log (Apr 20): Showing occurred. Dedicated prospect call block completed.
+10023 Mill Path | — | Stage: 1 | Listing agreement signed May 6. Pre-inspection done May 2. Photos in from ATG. Going live Wednesday May 13. Sellers leave second week of June — motivated. $259,900. Canvassing neighborhood before launch. Sign and lockbox dropping.
+  Log (May 9): Neighborhood canvass planned before launch. Sign and lockbox dropping this week.
+  Log (May 6): Listing agreement signed. ATG photos in.
+  Log (May 2): Pre-inspection completed — Coach Ricky Smith.
+Moran — New Construction | — | Stage: 0 | Buyer rep signed May 7. Brandon mom is not set on one neighborhood or builder. Budget: $50K down, target ~$1,000/month payment. Need to pull options from all area builders — DR Horton, MI Homes, Lennar, and others. Lender intro must happen before first builder visit.
+  Log (May 9): Not locked into Grace Gardens. Pulling options from all builders. 50K down, 1K per month target.
+  Log (May 7): Buyer rep agreement signed.
 
 --- LEADS ---
-Pamela M. | — | Stage: — | Last Contact: —
-  Log (Apr 29): VA buyer. Spoke — sick grandkid. Warm conversation. Follow up.
-Mike & Alice Howell | — | Stage: — | Last Contact: —
-  Log (Apr 15): Rental being sold. New construction, no HOA. Working with Zach on financing.
-James Drause (Rhett) | — | Stage: — | Last Contact: —
-  Log (?): Pull from Bold Trail. First call needed.
-Sallie Mae F. | — | Stage: — | Last Contact: —
-  Log (Apr 15): Memory garden for daughter she lost. Very warm. Connected on Nextdoor.
-Colton Brown | — | Stage: — | Last Contact: —
-  Log (Apr 15): Divorce. Need to sell Moore TX home. Via Cynthia Dominguez.
-Kurt — 9815 Conbes | — | Stage: — | Last Contact: —
-  Log (Apr 15): Interested in nearby listing at 275K.
-Julie & Nick | — | Stage: — | Last Contact: —
-  Log (Apr 27): Julie 100% disabled veteran. VA funding fee waived. Working with Zach.
-Armando — Employee Buyer | — | Stage: — | Last Contact: —
-  Log (May 9): Referred by David Roth. 50K down, 1K per month target. Not locked to one neighborhood. Get contact from David Roth. Lender intro before first builder visit.
-Carroll Reese — Vacant Home | — | Stage: — | Last Contact: —
-  Log (May 9): Vacant 8 years. Reached out. Schedule call or walkthrough.
-Isaac — Church Listing Leads | — | Stage: — | Last Contact: —
+Pamela M. | HOT LEAD | Stage: — | Last Contact: — | Next: Follow up · connect with VA-approved lender
+  Log (Apr 12): Initial contact via Nextdoor — very interested
+  Log (Apr 12): Flagged VA loan eligibility
+Mike & Alice Howell | URGENT BUYER | Stage: — | Last Contact: — | Next: Confirm pre-approval w/ Zach · set up new construction search · no HOA
+  Log (Apr 15): Rental being sold · duplex renovating · rents going up · pivoting to new construction
+  Log (Jan 7): Paid off remaining debt — ready for pre-approval
+  Log (Dec 15): Met at Little Red House pop-up
+James Drause (Rhett) | INVESTOR LEAD | Stage: — | Last Contact: — | Next: Pull contact from Bold Trail · first call · understand buy box
+Sallie Mae F. | COMMUNITY | Stage: — | Last Contact: — | Next: Follow up this week · get her to next plant share · offer 3 starter plants · ask permission for her story
+  Log (Apr 15): New message — wants to create memory garden for her daughter she lost
+  Log (Apr 14): Connected on Nextdoor — very warm, shared garden share info
+Colton Brown | SELLER LEAD | Stage: — | Last Contact: — | Next: Reach out · confirm they want to list · get property details · check if Moore TX needs referral agent
+  Log (Apr 15): Connected via Cynthia Dominguez — divorce, need to sell Moore TX home
+Kurt — 9815 Conbes | NEIGHBOR PROSPECT | Stage: — | Last Contact: — | Next: Follow up with listing agent on 9815 Conbes · report back to Kurt · determine if buyer or seller
+  Log (Apr 15): Spoke with Kurt — interested in nearby listing details at $275K
+Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Follow up with Zach — FHA or creative route · Nick getting income docs to Zach · Zach connecting with Mia (financial advisor) · confirm if Nick talked to someone quoting $1,600 · check Neo as option
+  Log (Apr 27): Met with Zach — initial figures started. May need FHA or creative route based on credit/late payments. Nick getting income docs to Zach. Zach → Mia financial advisor. Julie mentioned Nick reached out to someone quoting $1,600 — confirm if done and whether Neo is more realistic.
+  Log (Apr 24): New lead. Julie 100% disabled veteran — VA funding fee waived. Nick long-haul trucker. Prior debt/foreclosure in background. Open to manufactured home with good outdoor space.
+Brandon's Mom — Moran | NEW CONSTRUCTION BUYER | Stage: — | Last Contact: — | Next: Lender intro ASAP · pull builder options that fit 50K down + 1K/mo payment
+  Log (May 9): Not locked to Grace Gardens. Pulling all builder options that fit budget. Lender intro needed before any visit.
+  Log (May 7): Buyer rep signed. Officially a client.
+Armando — Employee Buyer | BUYER | Stage: — | Last Contact: — | Next: Get contact from David Roth · lender intro before first builder visit · pull builder options
+  Log (May 9): Referred by David Roth. Employee buyer program. 50K down, 1K per month target. Not locked to one neighborhood.
+Carroll Reese — Vacant Home | SELLER PROSPECT | Stage: — | Last Contact: — | Next: Schedule call or walkthrough to assess the situation
+  Log (May 9): Vacant property 8 years. Reached out. Schedule call or walkthrough.
+Isaac — Church Listing Leads | LISTING PROSPECT | Stage: — | Last Contact: — | Next: Follow up with Isaac on church community leads
   Log (May 9): 1 to 2 listing opportunities from his church community.
-Brandon Rental Relative | — | Stage: — | Last Contact: —
-  Log (May 9): Info in Brandon text. Rental info and PM options first.
-Christina Shine — Tangle Tree | — | Stage: — | Last Contact: —
-  Log (May 9): 13810 Tangle Tree St. Met at garden. 90% complete, has realtor, pre-market opportunity. May sell as-is.
-Miss Pat Neighbor — Son | — | Stage: — | Last Contact: —
-  Log (May 9): Neighbor passed, son owns the house. Potential listing. Lead with empathy. Get info from Miss Pat first.
+Christina Shine — Tangle Tree | SELLER PROSPECT | Stage: — | Last Contact: — | Next: Stay in touch · offer to find a pre-market buyer · follow up on completion status
+  Log (May 9): Met at garden. 13810 Tangle Tree St. 90% complete, has realtor, pre-market opp. May sell as-is.
+Miss Pat Neighbor — Son | LISTING PROSPECT | Stage: — | Last Contact: — | Next: Get more info from Miss Pat — son name and contact · reach out with empathy first
+  Log (May 9): Miss Pat mentioned neighbor passed. Son owns house. Previous owner avid gardener. Potential listing. Lead with empathy.
 
 --- TASKS ---
-[    ] Call David Roth
-[    ] Call Pamela M.
-[    ] Mill Path — photos up + go live
-[    ] Moran mom — lender intro
-[    ] SSFCU — yearly bank statement
-[    ] Joy gift basket — Coughran Rd
+[DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
+[    ] Follow up Pamela M. [Hot Lead] — Spoke Apr 29 — sick grandkid. Warm conversation. Follow up Apr 30.
+[    ] Call Kelly — 181 CR 7751 police report [Deal]
+[    ] Send contractor answers to Jerry & Ray — 181 CR 7751 [Deal] — T&T answered May 4. HouzzPro/Matt Toney to reply in morning. Send compiled answers to jerry.sadler@prioritybank.com + ray.stidham@prioritybank.com.
+[    ] 340 Sollock — showing May 5 2pm + call Matt Chandler [Deal] — Showing today at 2pm. Express Offers $550K is the strongest angle. Call Matt Chandler 803-514-4693 after.
+[    ] Call Pamela M. [Deal] — Spoke Apr 29 — sick grandkid. Warm conversation. VA loan eligible. Follow up today.
+[    ] Howell — new construction search [Urgent]
+[    ] Follow up Sallie Mae F. [Community]
+[    ] Follow up Kurt — 9815 Conbes [Prospect]
+[    ] Reach out to Colton Brown [Seller Lead]
+[    ] Essie shout out — video post [Team]
+[    ] Pull James Drause from Bold Trail [Investor]
+[    ] Gather tax info for wife [Urgent]
+[    ] Mill Path — send details to ATG + set up MLS [Deal] — Listing agreement signed. Photos May 6 4pm with ATG Photography, Zillow Package, promo 20OFF = $289. Need to send property details to ATG before shoot and set up MLS listing draft.
+[    ] Brandon Moran — PM company options [Deal] — 2-3 PM companies with fee comparison. Keep it simple. Mom new construction deal is the real commission play.
+[    ] Joy gift basket — Coughran Rd [Deal] — Thank you basket for Michael (notary) + UPS Store staff too.
 
 --- EXPENSES (2026-05) ---
 Total Miles: 0 · Total Spent: $0.00
@@ -67,6 +92,12 @@ Total Miles: 0 · Total Spent: $0.00
 (none)
 
 --- CONTENT PIPELINE ---
-[Filmed] New Construction Tour Grace Gardens | TikTok, Instagram, YouTube — Footage from May 4. Lennar, DR Horton, MI Homes.
-[Idea] Lennar vs DR Horton vs MI Homes | TikTok, YouTube — Grace Gardens comparison from May 4 site visit.
-[Idea] What is a Garden Share Group | Facebook, Nextdoor — Inviting post for total beginners. From Sallie Mae conversation.
+[Idea] What is a Garden Share Group? | Facebook, Nextdoor — Explainer post — from Sallie Mae conversation. Make it inviting for total beginners.
+[Idea] Healing Through Gardens — Sallie Mae's Story | Facebook, Instagram — Need permission from Sallie Mae. Grief → healing → community through plants.
+[Idea] You Don't Need to Know Anything About Plants to Start | Facebook, Nextdoor, Instagram — Beginner-friendly. Lower the barrier. Connect to garden share group.
+[Idea] Behind the Scenes at Little Red House | Instagram, TikTok — Show the real community work. BTS content performs well.
+[Idea] The 1:1 Giving/Receiving Multiplier | Facebook, Nextdoor — How community compounds. SA Composting, Botanical Gardens, Ecocentro, Nextdoor ties.
+[Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
+[Filmed] New Construction Tour — Grace Gardens | TikTok, Instagram, YouTube — Footage shot May 4 at Grace Gardens. Lennar, DR Horton and MI Homes all in area. Show the community, the product, the value.
+[Idea] Lennar vs DR Horton vs MI Homes — Which Builder Wins? | TikTok, YouTube — Grace Gardens area — great opportunity to compare all three side by side. Content from May 4 site visit.
+[Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
