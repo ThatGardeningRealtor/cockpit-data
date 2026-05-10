@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Saturday, May 9, 2026 at 7:14 PM
+Date: Saturday, May 9, 2026 at 7:23 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -11,22 +11,26 @@ Calls Made: 0 / 5
 [    ] Brandon's mom — Grace Gardens new construction — Brandon's uncle has rental at 8523 Green Bliss (Grace Gardens Lennar). Mom wants to buy new construction same strategy. Builder rep not on site May 4. Chris shot content at Lennar, DR Horton, MI Homes.
 
 --- ACTIVE DEALS ---
-8449 Coughran Rd | — | Stage: 3 | Ashley Goforth @ ENVtitle · Fabian Cerrillo 830-200-8030 homes2gosa@gmail.com · Aguilar signed original contract
-  Log (May 9 18:01): test [No change]
-  Log (Apr 15): Spoke with Fabian Cerrillo (lien holder's brother) — Aguilar signed contract, may not need release. Fabian understanding, willing to work with us. Waiting on confirmation to set up mobile notary.
-  Log (Apr 13): Requested lien bypass form from ENVtitle
-181 CR 7751 | — | Stage: 0 | Contractors: Matt Van Gorder (tomorrow), Kendall (pricing high), Marc · Lawyer: Deborah Geiger · Deputy Munoz · Kelly = bank contact
-  Log (Apr 16): Kelly confirmed bank took home Dec — damage was after possession. Meeting Matt tomorrow on-site for estimate. Police report with Munoz same trip. Kendall pricing flagged high — shopping others. Pedro hold — bad Nextdoor report.
-  Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage · Deputy Munoz took info · Kelly asked for police report
-  Log (Apr 13): Sent quote requests to Kendall & Matt Van Gorder
-340 Sollock Dr | — | Stage: 1 | Owner finance showing Apr 9 · listing exp 2026-07-31 · biggest house in neighborhood · overpriced
-  Log (Apr 15): Need to check with Gilberto on seller finance buyers · pricing conversation with Matt Chandler overdue
-  Log (Apr 9): Owner finance showing completed
-  Log (Mar 28): Listed on MLS
-Tilden TX 20ac | — | Stage: 0 | Offer dead · clearing property · Arlene/Daniel 210-990-2265
-  Log (Apr 8): Offer fell through — buyer financing failed
-  Log (Mar 20): Submitted offer on behalf of buyer
-Borregas Property | — | Stage: 0 | Outreach needed to past and recent prospects
+181 CR 7751 | — | Stage: 0 | Bank took home back Dec — damage was after bank possession (not prior occupant). Kendall pricing high — shopping alternatives. Self-manage option (dumpster + coordination fee) being explored. Pedro = hold referrals (bad Nextdoor report).
+  Log (Apr 16): Kelly confirmed damage was after bank possession — liability shifts away from son. Matt Van Gorder site visit + police report with Deputy Munoz. Kendall pricing flagged high.
+  Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage. Deputy Munoz took info — bank or lawyer needs to initiate formal report.
+  Log (Apr 13): Photos + video shot. Sent to Kendall and Matt Van Gorder for quotes.
+340 Sollock Dr | — | Stage: 1 | 208 DOM · underwater ~$93K-$143K · payoff ~$493K · market value $350K-$400K · VA loan 5.25% $2,843/mo · double-carrying Pearl Brewery apt + mortgage. Gilberto seller finance = dead. Three paths: A) Short sale $370K-$385K, B) VA loan assumption by investor, C) Price reduction + bring $100K-$122K cash to close.
+  Log (Apr 21): Full CMA done — underwater $93K-$143K. 717 Jack Nicklaus listed at $519K makes current $528,999 impossible to defend. Seller finance (Gilberto) appears dead.
+  Log (Apr 19): Gilberto buyers wishy-washy — seller finance likely dead. Broker call needed before talking to sellers.
+  Log (Apr 15): Pricing conversation overdue. Biggest house in neighborhood. Sellers carrying costs compounding daily.
+Tilden TX 20ac | — | Stage: 0 | Offer dead — Michael Rodriguez RBFCU stalled, EM never came in. Steve was clearing property — likely done by now. Lead with net after close on next offer, not gross price.
+  Log (Apr 13): Offer basically dead — option money not received. Steve still clearing. More open to looking at full picture on offers now.
+  Log (Apr 9): Owner finance showing completed — using as leverage for pricing conversation
+Borregas Property | — | Stage: 1 | Sisters want to end listing after March expiration. Isaac Linares interested in mobile home development — ~$150K offer contingent on his project moving forward. Half units for displaced veterans, half for profit.
+  Log (Apr 21): Updated sisters on Apr 20 showing + Isaac development interest. Sisters excited. Isaac offered ~$150K contingent on mobile home project.
+  Log (Apr 20): Showing occurred. Dedicated prospect call block completed.
+10023 Mill Path | — | Stage: 0 | Referral from Isaac Linares. 3BR/2.5BA. Sellers confirmed moving forward Apr 21. CMA: $259,900 recommended. June deadline — motivated. Potential hairline foundation crack — disclose + pre-inspection (Coach Ricky Smith). Payoff discrepancy: seller says $170K, records show $192K — verify.
+  Log (Apr 28): Zoom walkthrough scheduled for Apr 29 morning — recording for sellers to review paperwork tonight before signing.
+  Log (Apr 21): Listing consultation on-site 11am with Isaac — went well. Sellers confirmed moving forward via email ~2:30pm. $259,900 recommended. Foundation crack discussed. Payoff discrepancy flagged.
+  Log (Apr 19): Referral from Isaac. CMA completed — $259,900. Meeting set for Apr 21 at 11am.
+8523 Green Bliss | — | Stage: 0 | Stepdad's brother bought Lennar — renting 2 years then moving from California to occupy. Long-term hold. Chris helping set up rental listing + property management. Brandon is a legacy contact Chris helped get started in RE.
+  Log (Apr 28): Met Brandon at property. Rental plan confirmed — 2yr hold then owner occupy from CA. Sent quick punch message. PM options coming this week. Mom also looking to buy new construction (see leads).
 
 --- LEADS ---
 Pamela M. | HOT LEAD | Stage: — | Last Contact: — | Next: Follow up · connect with VA-approved lender
@@ -44,14 +48,19 @@ Colton Brown | SELLER LEAD | Stage: — | Last Contact: — | Next: Reach out ·
   Log (Apr 15): Connected via Cynthia Dominguez — divorce, need to sell Moore TX home
 Kurt — 9815 Conbes | NEIGHBOR PROSPECT | Stage: — | Last Contact: — | Next: Follow up with listing agent on 9815 Conbes · report back to Kurt · determine if buyer or seller
   Log (Apr 15): Spoke with Kurt — interested in nearby listing details at $275K
+Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Follow up with Zach — FHA or creative route · Nick getting income docs to Zach · Zach connecting with Mia (financial advisor) · confirm if Nick talked to someone quoting $1,600 · check Neo as option
+  Log (Apr 27): Met with Zach — initial figures started. May need FHA or creative route based on credit/late payments. Nick getting income docs to Zach. Zach → Mia financial advisor. Julie mentioned Nick reached out to someone quoting $1,600 — confirm if done and whether Neo is more realistic.
+  Log (Apr 24): New lead. Julie 100% disabled veteran — VA funding fee waived. Nick long-haul trucker. Prior debt/foreclosure in background. Open to manufactured home with good outdoor space.
+Brandon's Mom | NEW CONSTRUCTION BUYER | Stage: — | Last Contact: — | Next: Get from Brandon: mom's name + contact · budget range · timeline · community preferences · CA-based or local?
+  Log (Apr 28): Lead identified through Brandon Moran meeting. Mom wants new construction, same rent-then-occupy strategy. Real commission play. Need intake details from Brandon.
 
 --- TASKS ---
-[    ] Call lien holder — Coughran Rd [Urgent]
-[    ] Follow up Pamela M. [Hot Lead]
+[DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
+[    ] Follow up Pamela M. [Hot Lead] — Spoke Apr 29 — sick grandkid. Warm conversation. Follow up Apr 30.
 [    ] Call Kelly — 181 CR 7751 police report [Deal]
-[    ] Follow up Kendall — 181 CR 7751 [Deal]
-[    ] Call Gilberto — 340 Sollock seller finance [Deal]
-[    ] Call Matt Chandler — 340 Sollock pricing [Deal]
+[    ] Send contractor answers to Jerry & Ray — 181 CR 7751 [Deal] — T&T answered May 4. HouzzPro/Matt Toney to reply in morning. Send compiled answers to jerry.sadler@prioritybank.com + ray.stidham@prioritybank.com.
+[    ] 340 Sollock — showing May 5 2pm + call Matt Chandler [Deal] — Showing today at 2pm. Express Offers $550K is the strongest angle. Call Matt Chandler 803-514-4693 after.
+[    ] Call Pamela M. [Deal] — Spoke Apr 29 — sick grandkid. Warm conversation. VA loan eligible. Follow up today.
 [    ] Howell — new construction search [Urgent]
 [    ] Follow up Sallie Mae F. [Community]
 [    ] Follow up Kurt — 9815 Conbes [Prospect]
@@ -59,8 +68,7 @@ Kurt — 9815 Conbes | NEIGHBOR PROSPECT | Stage: — | Last Contact: — | Next
 [    ] Essie shout out — video post [Team]
 [    ] Pull James Drause from Bold Trail [Investor]
 [    ] Gather tax info for wife [Urgent]
-[    ] Follow up Pamela M. [Hot Lead] — Spoke Apr 29 — sick grandkid. Warm conversation. Follow up Apr 30.
-[    ] Mill Path — record Zoom walkthrough [Deal] — Walk through $259,900 CMA, foundation crack disclosure, payoff discrepancy, listing agreement next steps.
+[    ] Mill Path — send details to ATG + set up MLS [Deal] — Listing agreement signed. Photos May 6 4pm with ATG Photography, Zillow Package, promo 20OFF = $289. Need to send property details to ATG before shoot and set up MLS listing draft.
 [    ] Brandon Moran — PM company options [Deal] — 2-3 PM companies with fee comparison. Keep it simple. Mom new construction deal is the real commission play.
 [    ] Joy gift basket — Coughran Rd [Deal] — Thank you basket for Michael (notary) + UPS Store staff too.
 
@@ -77,3 +85,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] Behind the Scenes at Little Red House | Instagram, TikTok — Show the real community work. BTS content performs well.
 [Idea] The 1:1 Giving/Receiving Multiplier | Facebook, Nextdoor — How community compounds. SA Composting, Botanical Gardens, Ecocentro, Nextdoor ties.
 [Idea] VA Rate Buy-Down — The Math | Facebook, Instagram — Visual showing nothing down + rate buy-down vs 3% down. Use the math box data.
+[Filmed] New Construction Tour — Grace Gardens | TikTok, Instagram, YouTube — Footage shot May 4 at Grace Gardens. Lennar, DR Horton and MI Homes all in area. Show the community, the product, the value.
+[Idea] Lennar vs DR Horton vs MI Homes — Which Builder Wins? | TikTok, YouTube — Grace Gardens area — great opportunity to compare all three side by side. Content from May 4 site visit.
+[Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
