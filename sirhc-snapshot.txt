@@ -1,39 +1,38 @@
 [SIRHC — APP SNAPSHOT]
-Date: Sunday, May 10, 2026 at 12:05 AM
+Date: Sunday, May 10, 2026 at 12:06 AM
 Day Type: REST
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] Mill Path — MLS launch — Pre-inspection done May 2. Listing agreement signed. ATG Photography booked May 6 4pm, Zillow Package, promo 20OFF = $289. Next: send property details to ATG, set up MLS listing, prep Zillow Showcase.
-[    ] 340 Sollock — showing today + options for Matt & Chandler — Showing May 5 at 2pm. Express Offers showed $550K value — much better than traditional gap. Three paths: A) Short sale, B) VA assumption, C) Price cut + cash to close. Express Offers route is cleanest.
-[    ] Taxes — get SSFCU statements and file — Credit card deductions still need entry in TurboTax. SSFCU yearly bank statement needed. Financial advisor call scheduled. After that, file return and set up $650/quarter estimated payments starting June 15.
-[    ] 181 CR 7751 — get contractor answers to bank — T&T Kendall responded — cabinets reusable, full HVAC confirmed with warranty, windows $650-850/unit if needed, start 2-3 weeks out. Waiting on HouzzPro/Matt Toney response. Then send compiled answers to Jerry Sadler and Ray Stidham at Priority Bank.
-[    ] Brandon's mom — Grace Gardens new construction — Brandon's uncle has rental at 8523 Green Bliss (Grace Gardens Lennar). Mom wants to buy new construction same strategy. Builder rep not on site May 4. Chris shot content at Lennar, DR Horton, MI Homes.
 [    ] Mill Path — go live Wednesday May 13 — Listing agreement signed May 6. Photos in from ATG. Going live Wednesday May 13. Sellers leave second week of June.
 [    ] Moran Mom — lender intro before first builder visit — Buyer rep signed May 7. She is not committed to Grace Gardens or any one builder. Budget: $50K down, ~$1K/month. Pull options from all area builders. Lender intro must happen before any builder visit.
 [    ] Make your calls — David Roth + Pamela M. — David Roth referred Armando — employee buyer program. Call to get Armando contact info. Pamela M. is a hot VA buyer carrying all week.
+[    ] 340 Sollock — showing feedback + lawn + sign — Showing happened May 5. Need feedback from buyer agent before updating Matt and Chandler on path. Grass unresolved — check Devine clubhouse for references.
+[    ] 181 CR 7751 — check on work progress — Matt Toney connected to Jerry Sadler May 6. Work starting this weekend. Swing by when in Devine to check progress and look for local resources at clubhouse.
 
 --- ACTIVE DEALS ---
-181 CR 7751 | — | Stage: 0 | Bank took home back Dec — damage was after bank possession (not prior occupant). Kendall pricing high — shopping alternatives. Self-manage option (dumpster + coordination fee) being explored. Pedro = hold referrals (bad Nextdoor report).
-  Log (Apr 16): Kelly confirmed damage was after bank possession — liability shifts away from son. Matt Van Gorder site visit + police report with Deputy Munoz. Kendall pricing flagged high.
-  Log (Apr 15): Lawyer Deborah Geiger confirmed son caused damage. Deputy Munoz took info — bank or lawyer needs to initiate formal report.
-  Log (Apr 13): Photos + video shot. Sent to Kendall and Matt Van Gorder for quotes.
-340 Sollock Dr | — | Stage: 1 | 208 DOM · underwater ~$93K-$143K · payoff ~$493K · market value $350K-$400K · VA loan 5.25% $2,843/mo · double-carrying Pearl Brewery apt + mortgage. Gilberto seller finance = dead. Three paths: A) Short sale $370K-$385K, B) VA loan assumption by investor, C) Price reduction + bring $100K-$122K cash to close.
-  Log (Apr 21): Full CMA done — underwater $93K-$143K. 717 Jack Nicklaus listed at $519K makes current $528,999 impossible to defend. Seller finance (Gilberto) appears dead.
-  Log (Apr 19): Gilberto buyers wishy-washy — seller finance likely dead. Broker call needed before talking to sellers.
-  Log (Apr 15): Pricing conversation overdue. Biggest house in neighborhood. Sellers carrying costs compounding daily.
-Tilden TX 20ac | — | Stage: 0 | Offer dead — Michael Rodriguez RBFCU stalled, EM never came in. Steve was clearing property — likely done by now. Lead with net after close on next offer, not gross price.
-  Log (Apr 13): Offer basically dead — option money not received. Steve still clearing. More open to looking at full picture on offers now.
-  Log (Apr 9): Owner finance showing completed — using as leverage for pricing conversation
+181 CR 7751 | — | Stage: 1 | Matt Toney (HouzzPro/SA Remodelers) connected directly with Jerry Sadler at Priority Bank on May 6. Dumpsters dropping this weekend. Work is beginning. Chris to swing by when in Devine to check progress.
+  Log (May 9): Matt Toney connected to Jerry Sadler May 6. Dumpsters dropping this weekend. Work starting.
+  Log (May 6): Met with Matt Toney in his office. Connected him directly with Jerry Sadler on a call. Goal: work starts by Monday.
+  Log (Apr 16): Kelly confirmed damage was after bank possession. Kendall pricing flagged high — HouzzPro selected as contractor.
+340 Sollock Dr | — | Stage: 1 | Underwater ~$93K-$143K. Showing happened May 5 at 2pm. Sign and lockbox dropping this week when in Devine. Grass still unresolved — need Devine clubhouse references. Need showing feedback before next path conversation with Matt and Chandler. Three paths: A) Short sale, B) VA assumption, C) Price cut + cash to close.
+  Log (May 9): Sign and lockbox dropping when in Devine. Grass unresolved — check clubhouse. Need showing agent feedback before updating sellers on path decision.
+  Log (May 5): Outside agent showed property at 2pm. Morales Tree Trimming and AM Lawn Care contacted for grass quotes.
+  Log (Apr 21): Full CMA done — underwater $93K-$143K. Three paths identified: short sale, VA assumption, or price cut with cash to close.
+Tilden TX 20ac | — | Stage: 1 | Steve sent new photos May 9 — green screen content opportunity. New prospect wants to show, interested in subdividing or alternate use. Strategy: land-only cash deal, buyer does what they need after close. Quick over-and-done approach.
+  Log (May 9): Steve sent new photos. New prospect interested in showing and possible subdivision. Land-only cash deal approach explained and sent.
+  Log (Apr 29): Clearing complete. Photos on social. Drone footage flagged as next content priority.
+  Log (Apr 13): First offer dead — RBFCU stalled, no earnest money. Lead with net after close on next offer.
 Borregas Property | — | Stage: 1 | Sisters want to end listing after March expiration. Isaac Linares interested in mobile home development — ~$150K offer contingent on his project moving forward. Half units for displaced veterans, half for profit.
   Log (Apr 21): Updated sisters on Apr 20 showing + Isaac development interest. Sisters excited. Isaac offered ~$150K contingent on mobile home project.
   Log (Apr 20): Showing occurred. Dedicated prospect call block completed.
-10023 Mill Path | — | Stage: 0 | Referral from Isaac Linares. 3BR/2.5BA. Sellers confirmed moving forward Apr 21. CMA: $259,900 recommended. June deadline — motivated. Potential hairline foundation crack — disclose + pre-inspection (Coach Ricky Smith). Payoff discrepancy: seller says $170K, records show $192K — verify.
-  Log (Apr 28): Zoom walkthrough scheduled for Apr 29 morning — recording for sellers to review paperwork tonight before signing.
-  Log (Apr 21): Listing consultation on-site 11am with Isaac — went well. Sellers confirmed moving forward via email ~2:30pm. $259,900 recommended. Foundation crack discussed. Payoff discrepancy flagged.
-  Log (Apr 19): Referral from Isaac. CMA completed — $259,900. Meeting set for Apr 21 at 11am.
-8523 Green Bliss | — | Stage: 0 | Stepdad's brother bought Lennar — renting 2 years then moving from California to occupy. Long-term hold. Chris helping set up rental listing + property management. Brandon is a legacy contact Chris helped get started in RE.
-  Log (Apr 28): Met Brandon at property. Rental plan confirmed — 2yr hold then owner occupy from CA. Sent quick punch message. PM options coming this week. Mom also looking to buy new construction (see leads).
+10023 Mill Path | — | Stage: 1 | Listing agreement signed May 6. Pre-inspection done May 2. Photos in from ATG. Going live Wednesday May 13. Sellers leave second week of June — motivated. $259,900. Canvassing neighborhood before launch. Sign and lockbox dropping.
+  Log (May 9): Neighborhood canvass planned before launch. Sign and lockbox dropping this week.
+  Log (May 6): Listing agreement signed. ATG photos in.
+  Log (May 2): Pre-inspection completed — Coach Ricky Smith.
+Moran — New Construction | — | Stage: 0 | Buyer rep signed May 7. Brandon mom is not set on one neighborhood or builder. Budget: $50K down, target ~$1,000/month payment. Need to pull options from all area builders — DR Horton, MI Homes, Lennar, and others. Lender intro must happen before first builder visit.
+  Log (May 9): Not locked into Grace Gardens. Pulling options from all builders. 50K down, 1K per month target.
+  Log (May 7): Buyer rep agreement signed.
 
 --- LEADS ---
 Pamela M. | HOT LEAD | Stage: — | Last Contact: — | Next: Follow up · connect with VA-approved lender
@@ -54,8 +53,19 @@ Kurt — 9815 Conbes | NEIGHBOR PROSPECT | Stage: — | Last Contact: — | Next
 Julie & Nick | VETERAN BUYER | Stage: — | Last Contact: — | Next: Follow up with Zach — FHA or creative route · Nick getting income docs to Zach · Zach connecting with Mia (financial advisor) · confirm if Nick talked to someone quoting $1,600 · check Neo as option
   Log (Apr 27): Met with Zach — initial figures started. May need FHA or creative route based on credit/late payments. Nick getting income docs to Zach. Zach → Mia financial advisor. Julie mentioned Nick reached out to someone quoting $1,600 — confirm if done and whether Neo is more realistic.
   Log (Apr 24): New lead. Julie 100% disabled veteran — VA funding fee waived. Nick long-haul trucker. Prior debt/foreclosure in background. Open to manufactured home with good outdoor space.
-Brandon's Mom | NEW CONSTRUCTION BUYER | Stage: — | Last Contact: — | Next: Get from Brandon: mom's name + contact · budget range · timeline · community preferences · CA-based or local?
-  Log (Apr 28): Lead identified through Brandon Moran meeting. Mom wants new construction, same rent-then-occupy strategy. Real commission play. Need intake details from Brandon.
+Brandon's Mom — Moran | NEW CONSTRUCTION BUYER | Stage: — | Last Contact: — | Next: Lender intro ASAP · pull builder options that fit 50K down + 1K/mo payment
+  Log (May 9): Not locked to Grace Gardens. Pulling all builder options that fit budget. Lender intro needed before any visit.
+  Log (May 7): Buyer rep signed. Officially a client.
+Armando — Employee Buyer | BUYER | Stage: — | Last Contact: — | Next: Get contact from David Roth · lender intro before first builder visit · pull builder options
+  Log (May 9): Referred by David Roth. Employee buyer program. 50K down, 1K per month target. Not locked to one neighborhood.
+Carroll Reese — Vacant Home | SELLER PROSPECT | Stage: — | Last Contact: — | Next: Schedule call or walkthrough to assess the situation
+  Log (May 9): Vacant property 8 years. Reached out. Schedule call or walkthrough.
+Isaac — Church Listing Leads | LISTING PROSPECT | Stage: — | Last Contact: — | Next: Follow up with Isaac on church community leads
+  Log (May 9): 1 to 2 listing opportunities from his church community.
+Christina Shine — Tangle Tree | SELLER PROSPECT | Stage: — | Last Contact: — | Next: Stay in touch · offer to find a pre-market buyer · follow up on completion status
+  Log (May 9): Met at garden. 13810 Tangle Tree St. 90% complete, has realtor, pre-market opp. May sell as-is.
+Miss Pat Neighbor — Son | LISTING PROSPECT | Stage: — | Last Contact: — | Next: Get more info from Miss Pat — son name and contact · reach out with empathy first
+  Log (May 9): Miss Pat mentioned neighbor passed. Son owns house. Previous owner avid gardener. Potential listing. Lead with empathy.
 
 --- TASKS ---
 [DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
