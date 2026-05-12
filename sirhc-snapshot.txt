@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, May 12, 2026 at 8:47 AM
+Date: Tuesday, May 12, 2026 at 12:18 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -96,42 +96,72 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Okay. I need to brain dump a few things here. I went out to visit 181 county road 7751. I ended up meeting with the guy dumping off the dumpsters. His name is Bryce. He said his wife is active military, and they're looking to purchase a home. They recently moved from Ohio and are currently renting on the way out to the property. I talked with Colton and I'm going to meet him and Abby at their house on Friday. To discuss next steps. Hi stop by the solar drive property after the priority bank property and checked on the house. Put the mail-in the house and also went up to the Clubhouse to see about the landscape. Are I ended up meeting a landscaper in the parking lot? And they're going to stop by tomorrow to give me a price they're cutting the yard
-I also caught up with Jerome and the unique situation that his buyer wants to move on regarding a prion property that meets a little bit of work. I also talked to Jimbo on the. Rental listing, I need to send him everything to get that going and review the flyers that he sent that his son made for the property. I also got an update Frank from the sales rapid MI homes. Furrow, home, that would work for Brandon's mom. That would keep her payments under $1200. So we're working a few different options with that. I need to be sure I get all of these listing agreements out for the bank property rental property. I am pregame colton and abby's property and also send out buyer rep to brandon's mom
-[Sirhc]: Got it. Let me parse this out:
+[Agent Green Thumb]: I want to send a quick text to update the contractor so we're all on the same page. Not to tattle or anything, just a simple report.
+[Sirhc]: Copy. What do you want to tell them? I'll help you keep it clean and professional — just the facts they need to know.
+[Agent Green Thumb]: Hey Matt, good morning.  
+Just a quick heads up, they dropped another dumpster while I was out there. He didn't take one, because the rest were empty.  I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sherif meet me out there to report the camera situation. 
 
-**NEW PROSPECTS:**
-- **Bryce & wife** (active military, OH → TX, renting near 181 CR 7751) — Meeting Colton & Abby at their house Friday to discuss next steps
-- **Brandon's mom** — Frank (Sales Rapid MI Homes) has a Furrow home option keeping payments under $1200. Need to send buyer rep agreement
+There's others out there and at the neighbors, so we likely saw who took it.  My assumption is the previous owners who damaged the property.
+[Sirhc]: That's solid — factual, actionable, no drama. Gives Matt the intel without speculation overload. One small note: the last line reads a touch assumptive ("My assumption is..."). 
 
-**ACTIVE WORK:**
-- **181 CR 7751** — Landscaper stopping by tomorrow with quote (yard cutting)
-- **Solar Drive property** — Mail in house, checked clubhouse landscape
-- **Jerome's situation** — Buyer backing out on prior property needing work
-- **Jimbo's rental listing** — Review his son's flyers, send Jimbo everything to launch listing
-- **Listing agreements needed** — Bank property + rental property (priority)
+Consider tightening it to:
 
-**YOUR TO-DOS:**
-1. Pregame Colton & Abby's property (Friday meeting prep)
-2. Send listing agreements (bank property + rental)
-3. Send buyer rep to Brandon's mom
-4. Review Jimbo's flyers, send him listing materials
-5. Wait on landscaper quote (tomorrow)
+*"There's cameras at the property and neighbors', so we likely have footage of who took it."*
 
-Sound right? I'll surface all this at EOD so nothing slips. You're planting a lot of seeds right now — which ones are you tackling first?
-[Agent Green Thumb]: I also log this in the cirque log under other.So maybe let me know what's the best place to put that?I'm guessing here is probably the best spot for it, correct
-[Sirhc]: Yeah, you're in the right spot. Log it here under **OTHER** — that's exactly what this is. Cirque captures it, I've got the detail, and we're tracking everything in one place.
+Keeps it to what you know, lets him draw his own conclusion. But either way works. Send it?
+[Agent Green Thumb]: Put it all together for me please
+[Sirhc]: Hey Matt, good morning.  
+Just a quick heads up, they dropped another dumpster while I was out there. He didn't take one, because the rest were empty. I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sheriff meet me out there to report the camera situation. 
 
-Keep brain-dumping. This is the command center.
-[Agent Green Thumb]: Dawn Snyder Crews
-2103309299
-Windcrest UMC TERRI H WINDCREST REFERRAL
-[Sirhc]: Got it logged.
+There's cameras at the property and neighbors', so we likely have footage of who took it.
 
-**Dawn Snyder Crews** | 210-330-9299 | Windcrest UMC referral (Terri H)
+---
 
-This a new lead or follow-up on an existing one?
-[Agent Green Thumb]: Go ahead and add this contact to our garden group.People.She would like some help with the community garden over and wincrest, and was referred by terry h.Who's already in our contacts over in windcrest
-[Sirhc]: Done. **Dawn Snyder Crews** added to Garden Group under People with the Windcrest UMC community garden connection (referred by Terri H).
+Ready to send?
+[Agent Green Thumb]: Thinking it should be an email with Jerry ccd.  Hey Matt, good morning.  
+Just a quick heads up, they dropped another dumpster while I was out there yesterday.
 
-She'll be in the system when you need to coordinate on that project.
+He didn't take one, because the other 4-5 were empty. I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sheriff meet me out there to report the camera situation. 
+
+There's other cameras at the property and neighbors', so we likely have footage of who took it.
+
+I'll be out there with another listing on Friday, so I can swing by then to take a look.
+
+I pulled my lock from the hasp since it was pulled out of the door.  If there's any other ideas to secure the property,  I can help with that.
+[Sirhc]: Smart move adding Jerry (cc) and the Friday swing-by + lock detail. Shows you're managing the property actively.
+
+One small edit for clarity:
+
+*"I pulled my lock from the hasp since it was pulled out of the door."*
+
+→ 
+
+*"I pulled my lock from the hasp since it was compromised."*
+
+(Cleaner, less detail-heavy.)
+
+Everything else is solid. Ready to send to Matt + cc Jerry?
+[Agent Green Thumb]: Can you draft the email for me in gmail?
+[Sirhc]: I can't directly access or draft into your Gmail — that's outside my wheelhouse here.
+
+But I can give you the final version to copy/paste in 30 seconds:
+
+---
+
+**To:** Matt  
+**CC:** Jerry  
+**Subject:** 181 CR 7751 — Dumpster & Security Update
+
+Hey Matt, good morning.  
+
+Just a quick heads up, they dropped another dumpster while I was out there yesterday. He didn't take one, because the other 4-5 were empty. I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sheriff meet me out there to report the camera situation. 
+
+There's other cameras at the property and neighbors', so we likely have footage of who took it.
+
+I'll be out there with another listing on Friday, so I can swing by then to take a look.
+
+I pulled my lock from the hasp since it was compromised. If there's any other ideas to secure the property, I can help with that.
+
+---
+
+Copy that, open Gmail, paste. Done in 20 seconds.
