@@ -1,74 +1,63 @@
 [SIRHC — APP SNAPSHOT]
-Date: Wednesday, May 13, 2026 at 12:29 PM
+Date: Wednesday, May 13, 2026 at 1:14 PM
 Day Type: ON
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] 10023 Mill Path — Launch Today — Listing agreement signed. Photos in. Insurance adjuster done — new roof claim moving forward. Everything ready. Botanical gardens first, then Mill Path this afternoon.
-[    ] 340 Sollock — Path Decision — Sellers underwater ~$93K-$143K. Double-carrying apartment plus $2,843.85/month mortgage. Market value $350K-$400K vs payoff ~$493K. Three paths: short sale, VA assumption, or price reduction with cash to close. Broker must be consulted before presenting options to sellers.
-[    ] 181 CR 7751 — Listing Agreement — Renovation underway with Matt Toney. Dumpsters running. Listing agreement still needs to go to Jerry Sadler and Ray Stidham at Priority Bank. Bryce met on-site — his wife is active military and looking to buy. Get contact info.
-[    ] 8449 Coughran — Post-Close Items — Deal closed Apr 27. Post-close items not yet completed. Joy gift basket, rug, and trolley not delivered. Thank-you notes not sent to Sam VanDenheuvel, Michael the notary, UPS Store staff, or Chelsey Bongiovi. Commission confirmation also pending.
-[    ] 8527 Green Bliss — Rental Listing Agreement — Intro email with CMA sent May 12. Recommended $1,595/month based on direct comp on same street. HOA details shared. Waiting on Jimbo responses before finalizing terms and sending listing agreement via Skyslope.
+[    ] Close 10023 Mill Path — Drop sign and lockbox Wednesday afternoon after botanical gardens. Canvass neighborhood. Upload to MLS. Motivated seller, June deadline.
+[    ] Resolve 340 Sollock critical situation — Underwater $93-143K. Double-carrying costs. Three options prepared. Must call broker first, then Matt and Chandler with decision path.
+[    ] Get 181 CR 7751 listing agreement signed — Work in progress with HouzzPro. Construction started May 9. Listing agreement critical next step before MLS launch.
+[    ] Activate Mike and Alice Howell new construction search — Rental being sold, need to move fast. Zach Schaphorst is lender. Must confirm pre-approval amount and timeline.
+[    ] Build Isaac Linares referral system — First referral delivered (10023 Mill Path). Partnership model: Isaac sends non-mobile home leads, Chris returns investor buyers. Met partner Adam Apr 21.
 
 --- ACTIVE DEALS ---
-Steve Jimenez — Tilden 20ac | — | Stage: 1 | 20-acre hunting property. Price adjusted to $117,500 via signed amendment. First offer from Michael Rodriguez dead — no earnest money, RBFCU stalled. Clearing complete. Commission box correction needed on amendment but does not change agreement.
-  Log (May 12): Steve signed amendment. MLS updated to $117,500. Exclusions locked in. Agent and buyer outreach in progress. Commission box correction still needed.
-  Log (May 9): Steve sent new photos. New prospect interested in subdividing reached out — strategy communicated.
-  Log (Apr 29): Clearing complete. Photos posted to social. Drone footage flagged as next content priority. First offer confirmed dead.
-181 CR 7751 | — | Stage: 1 | Bank-owned REO. Renovation underway — Matt Toney (San Antonio Remodelers) selected. Dumpsters running since May 9. Listing agreement still needs to go to Jerry Sadler and Ray Stidham. Manny Fonseca submitted a separate listing agreement to bank on a Houston REO — referral for Chris.
-  Log (May 12): Listing agreement needs to go to Jerry and Ray. Manny Fonseca submitted Houston REO listing agreement — referral for Chris.
-  Log (May 11): On-site visit. Met Bryce (dumpster contractor). Bryce wife is active military, looking to buy — VA buyer opportunity.
-  Log (May 9): Work officially starting. Matt Toney dropping dumpsters this weekend.
-340 Sollock Dr | — | Stage: 1 | Sellers underwater by approximately $93K-$143K. Payoff ~$493K, market value $350K-$400K. VA loan at 5.25%. Double-carrying: apartment plus $2,843.85/month mortgage. Vacant 6 months. Three paths: short sale, VA assumption, or price reduction with cash to close.
-  Log (May 11): Stopped by property. Put mail in house. Landscaper met in parking lot — stopping by May 12 to quote and cut yard.
-  Log (May 5): Showing by outside agent at 2pm. Lawn care referrals received: Morales Tree Trimming and A.M. Lawn Care.
-  Log (May 1): Express Offers returned $550K — likely off given CMA. Showing Monday May 4.
-Mike and Alice Howell | — | Stage: 1 | Rental being sold — landlord selling duplex, rents going up. Pivoting to new construction with no HOA requirement. 916 Marriott assessed and passed — foundation issues. Sent showingnew.com/chrisdrawdy for new construction browsing.
-  Log (Apr 16): Sent showingnew.com/chrisdrawdy for new construction browsing. Confirming Zach pre-approval next.
-  Log (Apr 15): Text from Mike — rental being sold, rents going up. 916 Marriott assessed — not the move. Pivoting to new construction.
-  Log (Jan 7): Connected with Zach Schaphorst. They paid off debt. 30-day wait for credit pull. Pre-approval target Feb 2026.
-Colton and Abby Brown | — | Stage: 0 | Prior clients going through divorce. Need to finish VA renovation and sell Moore TX home. Colton also looking for contractor work — being considered for 181 CR 7751 Priority Bank REO job. Connected through Cynthia Dominguez and LRH group.
-  Log (Apr 24): File updated. Colton and Abby in divorce. Need to finish reno and sell. Colton seeking work — possible contractor fit at 181 CR 7751.
-Kurt — 9815 Conbes | — | Stage: 0 | Neighbor to 9815 Conbes listing. That listing is under contract at $275,000. Kurt wants intel on offers received. Possible seller or buyer — needs clarification.
-  Log (Apr 15): Kurt spoke with Chris about nearby listing at 9815 Conbes. Under contract at $275K. Wants offer details.
-3504 Painted Riv — Analysis | — | Stage: 0 | Off-market flip analysis for Homestead Vested. Purchase $199K, rehab $65K, ARV $340K, projected profit $42K-$62K. CMA pulled 31 comps, avg sale $207K, best comps $140-$152/sqft. Used as basis for building a branded property analysis template.
-  Log (Apr 18): Investor sent deal via Homestead Vested link. Used as basis for building the property analysis tool.
-10023 Mill Path | — | Stage: 2 | Referral from Isaac Linares. Sellers relocating to NC — must sell by second week of June. List price $259,900. Insurance adjuster completed May 11 — new roof claim moving forward. Photos in from ATG Photography. MLS launch today May 13.
-  Log (May 12): Insurance adjuster done May 11. Claim moving forward, new roof incoming. MLS launch confirmed for May 13.
-  Log (May 9): Listing agreement signed. Photos in from ATG. Going live Wednesday May 13.
-  Log (May 2): Pre-inspection scheduled 8:30 AM with Coach Ricky Smith.
-00 Borregas | — | Stage: 1 | Land listing with development potential. Sisters initially wanted to end listing. Isaac Linares interested in mobile home development — offered ~$150K contingent on his project moving forward. Title defect confirmed: deed has incomplete legal description. Van Hutchins preparing Correction Deed. Jennifer Ball (co-owner) hired attorney and pulled records on her own.
-  Log (Apr 30): Jennifer Ball email — title defect confirmed on Deed 20100079485. Van Hutchins preparing Correction Deed. ENV Title reviewing draft. Isaac also looking at owner finance options.
-  Log (Apr 21): Updated sisters on showing. Discussed Isaac development concept — half units veterans, half profit. Sisters enthusiastic.
-  Log (Apr 20): Dedicated call block. Showing occurred.
-Moran — New Construction | — | Stage: 1 | Buyer rep signed May 7. Budget: $50K down, target ~$1,000/month P+I. Not locked to one builder. MI Homes (Frank) found option under $1,200/month. Builder rate buydowns are the key angle. James Jimbo Stringer rental at 8527 Green Bliss is a separate deal.
-  Log (May 11): MI Homes Frank found option under $1,200/mo. Intro email sent to Milagros. Buyer rep packet sent via Skyslope.
-  Log (May 7): Buyer rep signed. Rental docs also in folder for 8527 Green Bliss.
-8527 Green Bliss — Rental | — | Stage: 1 | New Lennar construction in Grace Gardens. Owner renting for ~2 years then moving in. Recommended list price $1,595/month based on CMA — matches direct comp on same street. HOA $300/quarter plus $450 transfer fee at move-in. Intro email with CMA sent to Jimbo on May 12.
-  Log (May 12): Step 1 intro email sent to Jimbo with CMA and pricing breakdown. Waiting on responses to finalize terms.
-  Log (May 11): Spoke with Jimbo on the road to Devine. Son made flyers — need to review. Listing agreement needed ASAP.
+Steve Jimenez - Tilden 20ac | — | Stage: 1 | Land listing, 20 acres, hunting property. Price adjusted to $117,500. First offer stalled, clearing complete. Lead with net after close on next offer.
+  Log (May 12): Steve signed amendment to $117,500. Exclusions locked in. Agent outreach in progress on price reduction.
+  Log (Apr 29): Clearing complete. Photos posted to social. First offer dead, no earnest money received.
+  Log (Apr 13): Current offer stalled. Michael Rodriguez financing dead. Steve more open to overall picture on offers.
+181 CR 7751 | — | Stage: 0 | Bank-owned REO property. Work in progress. HouzzPro selected at $54,877. Work started May 9. Listing agreement needed to Jerry Sadler and Ray Stidham.
+  Log (May 11): On-site visit with Bryce (dumpster contractor). Work active. NEW LEAD: Bryce's wife is military buyer. Get contact info.
+  Log (May 9): Work officially starting. San Antonio Remodelers dropping dumpsters this weekend.
+  Log (May 6): Met Matt Toney in person. Connected Matt directly with Jerry Sadler. Target: work starts by Monday.
+340 Sollock Dr | — | Stage: 1 | Underwater by $93-143K. Double-carrying mortgage + apartment rent. Vacant 6 months, 208 DOM. Three path options identified. Must have broker call first, then pricing decision with sellers.
+  Log (May 11): Stopped by property to put mail in house. Landscaper meeting scheduled for May 12. Need showing agent feedback from May 5.
+  Log (May 5): Buyer showing scheduled. Lawn care referral received. Still need to find buyer.
+  Log (May 1): Express Offers returned $550K estimate. Likely off given actual CMA of $350-400K.
+10023 Mill Path | — | Stage: 2 | 3BR/2.5BA motivated seller relocating to North Carolina in June. Insurance claim moving forward. MLS launch Wednesday May 13. Recommended list price $259,900. Referral from Isaac Linares.
+  Log (May 12): Insurance adjuster completed inspection May 11. Claim moving forward. New roof incoming. MLS launch back on track.
+  Log (May 9): Listing agreement signed. Photos received from ATG. Going live Wednesday May 13.
+  Log (May 2): Pre-inspection scheduled with Coach Ricky Smith. Foundation crack discussed with sellers on-site.
+00 Borregas | — | Stage: 1 | Land listing, development potential. Sisters want to end listing. Isaac interested in mobile home development at ~$150K. Title defect identified: incomplete legal description. Attorney Van Hutchins preparing correction deed.
+  Log (Apr 30): Jennifer Ball (co-owner) identified title defect: Deed #20100079485 incomplete legal description. Van Hutchins preparing correction deed.
+  Log (Apr 21): Isaac interested in mobile home development. Offered ~$150K. Sisters excited about development angle. Met Isaac partner Adam at lunch.
+  Log (Apr 20): Showing occurred. Sisters updated on interest.
+8527 Green Bliss | — | Stage: 0 | New construction Lennar home, 3BR/2BA in Grace Gardens. Owner-investor renting for 2 years before occupying. WiFi included, W/D stacked unit. Recommended rent $1,595/month. Listing agreement pending.
+  Log (May 12): Intro email sent to Jimbo with CMA analysis. Recommended rent $1,595 based on direct comp on same street.
+  Log (May 11): Talked to Jimbo on road to Devine. Son made flyers. Jimbo ready to move forward.
 
 --- LEADS ---
-Mike and Alice Howell | BUYER | Stage: — | Last Contact: — | Next: Confirm pre-approval amount with Zach. Identify no-HOA new construction communities. Schedule model home visits.
-  Log (Apr 16): Sent new construction search platform. Pre-approval next.
-  Log (Apr 15): Pivoting to new construction after 916 Marriott assessed as lot value only.
-Kurt — 9815 Conbes | BUYER/SELLER TBD | Stage: — | Last Contact: — | Next: Call Kurt — clarify situation. Is he buying, selling, or both?
-  Log (Apr 17): Follow-up needed. Call Kurt on 9815 Conbes situation.
-Sallie Mae F. | COMMUNITY CONTACT | Stage: — | Last Contact: — | Next: Follow up personally. Ask permission to share her story for content. No rush on real estate conversation.
-  Log (Apr 17): Follow-up needed. Deepen relationship, ask about content permission.
-Isaac — Investor | BUYER INVESTOR | Stage: — | Last Contact: — | Next: Full intake call — buy box, budget, timeline, flip vs hold. Add to Bold Trail. Connect on active deals if criteria match.
-  Log (Apr 18): Met in person. Investor interested in Schertz area. No further details yet.
-Isaac Linares | CROSS-REFERRAL PARTNER | Stage: — | Last Contact: — | Next: Thank Isaac personally after Mill Path listing goes live. Follow up on Borregas development offer and mobile home project timeline. Review Adam EMD discrepancy (~$1,200).
-  Log (Apr 21): Lunch with Isaac and Adam after Mill Path consultation. Discussed Borregas development, off-market deals, bulk lots.
-  Log (Apr 19): First referral delivered — 10023 Mill Path. Relationship building in progress.
-Pamela Moore | BUYER | Stage: — | Last Contact: — | Next: Call or text — check in on grandkid, ease back into home conversation. Connect with VA-approved lender when ready.
-  Log (Apr 29): Spoke today — sick grandkid. Warm conversation. Following up tomorrow.
-  Log (Apr 13): Follow-up text sent mentioning VA benefits and zero down.
-  Log (Apr 8): Connected on Nextdoor — High Country. Paying $1,700/mo rent. Military retirement.
-Jahsia | AGENT PROSPECT | Stage: — | Last Contact: — | Next: Get Jahsia contact info from Julie. Reach out and explain licensing path. Share eXp agent attraction info if appropriate.
-  Log (Apr 30): Referred by Julie during morning call. Young and motivated — worth an intro call.
-Armando | BUYER | Stage: — | Last Contact: — | Next: Get Armando contact info from David Roth. Pull new construction options from DR Horton, MI Homes, Lennar. Get Chris lender in front of Armando before any builder visit.
-  Log (May 9): Referred by David Roth. Budget $50K down, ~$1,000/month. No builder or neighborhood preference yet.
+Mike & Alice Howell | Buyer | Stage: — | Last Contact: — | Next: Confirm pre-approval amount with Zach. Set up new construction search. Identify no-HOA builders in SA area.
+  Log (Apr 16): Sent showingnew.com link for new construction browsing. Rental clock ticking.
+  Log (Apr 15): Text from Mike: rental being sold, duplex being renovated. Assessed 916 Marriott, foundation issues, not suitable. Introduced new construction idea, they receptive.
+Pamela Moore | Buyer | Stage: — | Last Contact: — | Next: Follow up tomorrow. Check on sick grandkid first. Ease back into home conversation. Connect with VA lender.
+  Log (Apr 29): Spoke today, she has sick grandkid. Warm conversation. Follow up tomorrow.
+  Log (Apr 13): Confirmed military retirement and disability income stacks. Follow-up text sent mentioning VA benefits and zero down.
+  Log (Apr 8): Connected on Nextdoor. Post: paying $1,700/mo rent, retirement plus disability, fixing credit.
+Isaac Linares | Partner | Stage: — | Last Contact: — | Next: Thank Isaac personally for Mill Path referral. Follow up on Borregas mobile home project timeline. Build ongoing referral system.
+  Log (Apr 21): Met Isaac and partner Adam for lunch after Mill Path consultation. Discussed off-market deals, bulk lots, Borregas development. Combined forces opportunity.
+  Log (Apr 19): Mill Path listing consultation completed. Sellers positive. First referral delivered.
+Kurt | Prospect | Stage: — | Last Contact: — | Next: Call Kurt to clarify situation. Is he buying, selling, or both? Determine real estate need.
+  Log (Apr 15): Met Kurt, neighbor. Asked about 9815 Conbes listing intel. Details TBD.
+Colton Brown | Seller Lead + Contractor | Stage: — | Last Contact: — | Next: Reach out to Colton - confirm listing timeline. Get property details. Offer 181 CR 7751 contractor job. Get quote.
+  Log (Apr 24): Colton noted as active seller lead plus potential contractor for Priority Bank REO.
+Sallie Mae F. | Community Connection | Stage: — | Last Contact: — | Next: Follow up personally. Ask permission to share her story. Keep nurturing, no rush on real estate.
+Jahsia | Agent Prospect | Stage: — | Last Contact: — | Next: Get contact info from Julie. Intro call about licensing path and eXp opportunity.
+  Log (Apr 30): Referred by Julie during morning call. Jahsia interested in real estate, young and motivated.
+Armando | Employee Buyer | Stage: — | Last Contact: — | Next: Get contact info from David Roth. Pull new construction options from DR Horton, MI Homes, Lennar. Present options and set builder visits. Register as buyer agent first.
+  Log (May 9): Referred by David Roth as employee buyer prospect.
+Milagros Stringer | Buyer | Stage: — | Last Contact: — | Next: Confirm Milagros signs buyer rep agreement. Follow up on MI Homes option from Frank. Present other builder options.
+  Log (May 11): MI Homes (Frank) found home option under $1,200/month. Working multiple builders. Buyer rep agreement sent to Milagros via Skyslope.
+  Log (May 7): Buyer rep agreement signed and digitally returned.
 
 --- TASKS ---
 [DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
@@ -112,49 +101,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Hey Matt, good morning.  
-Just a quick heads up, they dropped another dumpster while I was out there. He didn't take one, because the rest were empty.  I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sherif meet me out there to report the camera situation. 
-
-There's others out there and at the neighbors, so we likely saw who took it.  My assumption is the previous owners who damaged the property.
-[Sirhc]: That's solid — factual, actionable, no drama. Gives Matt the intel without speculation overload. One small note: the last line reads a touch assumptive ("My assumption is..."). 
-
-Consider tightening it to:
-
-*"There's cameras at the property and neighbors', so we likely have footage of who took it."*
-
-Keeps it to what you know, lets him draw his own conclusion. But either way works. Send it?
-[Agent Green Thumb]: Put it all together for me please
-[Sirhc]: Hey Matt, good morning.  
-Just a quick heads up, they dropped another dumpster while I was out there. He didn't take one, because the rest were empty. I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sheriff meet me out there to report the camera situation. 
-
-There's cameras at the property and neighbors', so we likely have footage of who took it.
-
----
-
-Ready to send?
-[Agent Green Thumb]: Thinking it should be an email with Jerry ccd.  Hey Matt, good morning.  
-Just a quick heads up, they dropped another dumpster while I was out there yesterday.
-
-He didn't take one, because the other 4-5 were empty. I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sheriff meet me out there to report the camera situation. 
-
-There's other cameras at the property and neighbors', so we likely have footage of who took it.
-
-I'll be out there with another listing on Friday, so I can swing by then to take a look.
-
-I pulled my lock from the hasp since it was pulled out of the door.  If there's any other ideas to secure the property,  I can help with that.
-[Sirhc]: Smart move adding Jerry (cc) and the Friday swing-by + lock detail. Shows you're managing the property actively.
-
-One small edit for clarity:
-
-*"I pulled my lock from the hasp since it was pulled out of the door."*
-
-→ 
-
-*"I pulled my lock from the hasp since it was compromised."*
-
-(Cleaner, less detail-heavy.)
-
-Everything else is solid. Ready to send to Matt + cc Jerry?
 [Agent Green Thumb]: Can you draft the email for me in gmail?
 [Sirhc]: I can't directly access or draft into your Gmail — that's outside my wheelhouse here.
 
@@ -188,3 +134,45 @@ What specifically do you want me to add to that message? Is it:
 - Next steps on the flyers?
 
 Give me the detail and I'll tighten it up.
+[Agent Green Thumb]: Can you fill me in on all the calls?I need to make while i'm on the road today or at least phone calls that I can't make while i'm on the road today
+[Sirhc]: Looking at what we've logged today, here's what needs phone time:
+
+**PRIORITY CALLS:**
+1. **Fabian Cerrillo** (830-200-8030) — Confirm Monday notary meeting status (Coughran Rd lien release)
+2. **Alyssa Castillo** (210-482-3600, Chicago Title) — Coordinate delivery of signed lien release after Monday
+3. **Gilberto** — Sollock Dr pricing conversation (seller finance buyers status)
+
+**FOLLOW-UPS:**
+4. **Brandon's mom** — Send buyer rep agreement (Frank has Furrow home option)
+5. **Frank** (Sales Rapid MI Homes) — Confirm Brandon's mom details before sending paperwork
+
+**PROPERTY CHECKS:**
+- Landscaper quote (181 CR 7751) — due tomorrow, but call if you need ETA
+
+Anything else on the sheet I'm missing, or calls that can wait until you're stationary?
+[Agent Green Thumb]: I don't think you have updated deal information.How do we fix that so that you can see everything that's been going on at command center
+[Sirhc]: You're right — I'm only working from the snapshot in my initial brief. I don't have real-time visibility into Command Center updates.
+
+Here's the fix:
+
+**When you debrief at end of day**, give me a quick sync on:
+- Deal status changes (closed, stalled, next milestone)
+- New contacts/leads
+- Completed calls and outcomes
+- Blockers or pivots
+
+That way I stay current and can give you accurate intel on what actually needs phone time tomorrow.
+
+For now — what's actually shifted since this morning? Let me get caught up so I can give you the real call list.
+[Agent Green Thumb]: I'd also like to be sure that it's reading from my calendar. So that we're not overbooking and also able to add to my calendar.When we set appointments, so that I can reference it every day
+[Sirhc]: Good call. Right now I can't access your calendar directly — that's a Command Center integration gap.
+
+**Here's what we need:**
+
+1. **Daily calendar sync** — At morning debrief, give me your day's appointments (times, location, who, what)
+2. **When you book something**, tell me: *"Added 2pm Monday with Fabian at Pleasanton for notary"* — I'll log it and reference it going forward
+3. **End-of-day debrief** — I surface what's on tap for tomorrow so you see the full picture
+
+Until Command Center hooks calendar access, that manual handoff keeps us from double-booking and keeps me current.
+
+Want to start that routine tomorrow morning?
