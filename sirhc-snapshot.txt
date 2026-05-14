@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Thursday, May 14, 2026 at 6:29 PM
+Date: Thursday, May 14, 2026 at 6:33 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -106,3 +106,13 @@ Total Miles: 0 · Total Spent: $0.00
 [Filmed] New Construction Tour — Grace Gardens | TikTok, Instagram, YouTube — Footage shot May 4 at Grace Gardens. Lennar, DR Horton and MI Homes all in area. Show the community, the product, the value.
 [Idea] Lennar vs DR Horton vs MI Homes — Which Builder Wins? | TikTok, YouTube — Grace Gardens area — great opportunity to compare all three side by side. Content from May 4 site visit.
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
+
+## Field Chat Log (last 10)
+[Agent Green Thumb]: Can we be sure to check the landing page for the little red house q?R code that's on the flyer.To be sure, it sends out a welcome text for email.Want somebody signs up and then we can build out the newsletter, written a upcoming events and different things that are garden real.Estate related
+[Sirhc]: Got it. So you want to verify that the QR code on the little red house flyer actually triggers the welcome text/email signup flow — make sure the landing page is wired correctly before it goes live.
+
+I'll flag this for the command center team to test the QR → landing page → welcome message → email capture chain. Once that's confirmed working, you've got a clean funnel to build your garden real estate newsletter from.
+
+**Action item logged:** QR code landing page verification + welcome sequence test.
+
+Who's handling the flyer design/deployment on your end — is that eXp marketing or in-house?
