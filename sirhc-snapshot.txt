@@ -99,3 +99,80 @@ Total Miles: 0 · Total Spent: $0.00
 [Filmed] New Construction Tour — Grace Gardens | TikTok, Instagram, YouTube — Footage shot May 4 at Grace Gardens. Lennar, DR Horton and MI Homes all in area. Show the community, the product, the value.
 [Idea] Lennar vs DR Horton vs MI Homes — Which Builder Wins? | TikTok, YouTube — Grace Gardens area — great opportunity to compare all three side by side. Content from May 4 site visit.
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
+
+## Field Chat Log (last 10)
+[Agent Green Thumb]: Can you draft the email for me in gmail?
+[Sirhc]: I can't directly access or draft into your Gmail — that's outside my wheelhouse here.
+
+But I can give you the final version to copy/paste in 30 seconds:
+
+---
+
+**To:** Matt  
+**CC:** Jerry  
+**Subject:** 181 CR 7751 — Dumpster & Security Update
+
+Hey Matt, good morning.  
+
+Just a quick heads up, they dropped another dumpster while I was out there yesterday. He didn't take one, because the other 4-5 were empty. I didn't see anyone out there, but the house looks great. I was able to get some updates for the bank, and had a sheriff meet me out there to report the camera situation. 
+
+There's other cameras at the property and neighbors', so we likely have footage of who took it.
+
+I'll be out there with another listing on Friday, so I can swing by then to take a look.
+
+I pulled my lock from the hasp since it was compromised. If there's any other ideas to secure the property, I can help with that.
+
+---
+
+Copy that, open Gmail, paste. Done in 20 seconds.
+[Agent Green Thumb]: Shine to send to jumbo, with what you know on the file... Hey Jimbo, I sent over an email this morning to break down the market activity, next steps and clear up a couple questions before I send over the paperwork for you to review.
+[Sirhc]: I don't have Jimbo's file details in front of me — just that you need to send him listing materials and review his son's flyers on the rental property.
+
+What specifically do you want me to add to that message? Is it:
+- Timeline for listing agreement?
+- Specific market comps?
+- Next steps on the flyers?
+
+Give me the detail and I'll tighten it up.
+[Agent Green Thumb]: Can you fill me in on all the calls?I need to make while i'm on the road today or at least phone calls that I can't make while i'm on the road today
+[Sirhc]: Looking at what we've logged today, here's what needs phone time:
+
+**PRIORITY CALLS:**
+1. **Fabian Cerrillo** (830-200-8030) — Confirm Monday notary meeting status (Coughran Rd lien release)
+2. **Alyssa Castillo** (210-482-3600, Chicago Title) — Coordinate delivery of signed lien release after Monday
+3. **Gilberto** — Sollock Dr pricing conversation (seller finance buyers status)
+
+**FOLLOW-UPS:**
+4. **Brandon's mom** — Send buyer rep agreement (Frank has Furrow home option)
+5. **Frank** (Sales Rapid MI Homes) — Confirm Brandon's mom details before sending paperwork
+
+**PROPERTY CHECKS:**
+- Landscaper quote (181 CR 7751) — due tomorrow, but call if you need ETA
+
+Anything else on the sheet I'm missing, or calls that can wait until you're stationary?
+[Agent Green Thumb]: I don't think you have updated deal information.How do we fix that so that you can see everything that's been going on at command center
+[Sirhc]: You're right — I'm only working from the snapshot in my initial brief. I don't have real-time visibility into Command Center updates.
+
+Here's the fix:
+
+**When you debrief at end of day**, give me a quick sync on:
+- Deal status changes (closed, stalled, next milestone)
+- New contacts/leads
+- Completed calls and outcomes
+- Blockers or pivots
+
+That way I stay current and can give you accurate intel on what actually needs phone time tomorrow.
+
+For now — what's actually shifted since this morning? Let me get caught up so I can give you the real call list.
+[Agent Green Thumb]: I'd also like to be sure that it's reading from my calendar. So that we're not overbooking and also able to add to my calendar.When we set appointments, so that I can reference it every day
+[Sirhc]: Good call. Right now I can't access your calendar directly — that's a Command Center integration gap.
+
+**Here's what we need:**
+
+1. **Daily calendar sync** — At morning debrief, give me your day's appointments (times, location, who, what)
+2. **When you book something**, tell me: *"Added 2pm Monday with Fabian at Pleasanton for notary"* — I'll log it and reference it going forward
+3. **End-of-day debrief** — I surface what's on tap for tomorrow so you see the full picture
+
+Until Command Center hooks calendar access, that manual handoff keeps us from double-booking and keeps me current.
+
+Want to start that routine tomorrow morning?
