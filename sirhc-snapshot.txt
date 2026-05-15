@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Thursday, May 14, 2026 at 10:05 PM
+Date: Thursday, May 14, 2026 at 10:07 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -91,24 +91,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Demo and clean up started last weekend.I'm heading out there tomorrow after I meet with colton and abby to talk about selling their property in more texas.I sank kelly a few updates today.As well, for connecting utilities and next steps, so we can get that going
-[Sirhc]: **Solid progress.** Demo/cleanup rolling. You're checking the property tomorrow post-Colton/Abby meeting. Kelly got utility updates — that's moving forward.
-
-**Got it logged.**
-
----
-
-**TASK 4: Borregas Property**
-
-Status update: Outreach to past/recent prospects — what happened today?
-[Agent Green Thumb]: I still haven't heard anything from Jennifer or the other sisters or title. We've had multiple showings over the past week. Price seems to be determining factor when it comes to utilities usability of the property did I.Deed an ease man who also need to be cleared up with title.So that we can be sure there's even access to get to this property.
-[Sirhc]: **Got it.** Multiple showings but no bites yet — price is the sticking point. Access/easement issue with title needs clearing before you can even guarantee buyers can get to the property.
-
-**Blockers:** Jennifer/sisters haven't responded. Title work on easement is critical before moving forward.
-
----
-
-**Any other tasks or updates from today that need logging?**
 [Agent Green Thumb]: I feel like I tried to log everything else in the command center
 I definitely feel like I need to post more social media for this new listening. That is happening that have some really cool content to share as well as a few other listings in~n and honestly, everything we just need to promote everything more and more strategically
 [Sirhc]: **Copy.** Social media push needed — you've got good content to work with across multiple listings.
@@ -155,3 +137,15 @@ Let's go ahead, and I log that so we can get it on the calendars.Reminder for to
 **Tomorrow's looking loaded:** Colton/Abby meeting → CR 7751 property check → Sollock Dr follow-up + Julie touchbase.
 
 You've got this. One property at a time.
+[Agent Green Thumb]: What email account are you connected to?
+[Sirhc]: **I'm not connected to any email account.** I'm a field brain — no inbox, no access to yours or anyone else's.
+
+**Command center (Claude Code) handles email workflows and integrations.**
+
+Need something sent or checked? That's their lane.
+[Agent Green Thumb]: What email is command center connected to
+[Sirhc]: **That's a command center question — I don't have visibility into their setup.**
+
+You'd need to ask them directly about email connections and access.
+
+What are you trying to send or coordinate?
