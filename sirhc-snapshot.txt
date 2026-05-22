@@ -1,62 +1,64 @@
 [SIRHC — APP SNAPSHOT]
-Date: Friday, May 22, 2026 at 11:03 AM
+Date: Friday, May 22, 2026 at 11:07 AM
 Day Type: ON
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] 340 Sollock Path Decision — Sellers face $93K-$143K underwater situation. Three options presented: short sale, VA assumption, or bring cash to close. Must have broker conversation first, then seller call.
-[    ] 181 CR 7751 Utilities & Listing — Cleanup in progress. Electricity and water applications need submission. Listing agreement still needs to go to Priority Bank decision-maker Ray Stidham.
-[    ] 8527 Green Bliss Rental Finalize — Jimbo confirmed all terms May 14. $1,595/month, 12-month lease, full co-op commission. Ready to finalize agreement and launch listing.
-[    ] Colton Brown Listing Launch — Met May 15. CMA done ($275K-$315K range). Payoff confirmed ~$257K. Thin market - 3 comps in 10 miles. Need updated payoff letter and professional photos to list.
-[    ] Milagros New Construction Buyer Setup — Brandon's mom wanting new construction. Budget $50K down, ~$1K/month target. Buyer rep signed May 7. Must confirm pre-approval and register with builders before any model home visits.
+[    ] 340 Sollock Dr - Broker Call & Path Decision — Talk to broker about short sale protocol, subbing out Devine listing, investor introduction guidelines. Then present three paths to Matt and Chandler: Path A (short sale), Path B (VA assumption), Path C (bring cash).
+[    ] 181 CR 7751 - Listing Agreement to Priority Bank — Cleanup active and moving well. Transformer number needed tomorrow for electric application. Must get listing agreement prepared and sent to Jerry Sadler + Ray Stidham before weekend.
+[    ] 8527 Green Bliss Rental - Finalize & Launch — All 12 rental terms confirmed by Jimbo May 14. Listing agreement finalized in Skyslope. Need vinyl signs ordered. Property photos ready. Target listing this week.
+[    ] Milagros Stringer - New Construction Buyer Registration — Buyer rep signed May 7. Pre-approval status needs confirmation with Zach Schaphorst. Must register Chris as buyer agent on FIRST builder visit - critical before Milagros goes alone. Pull new construction inventory across all builders (no HOA requirement).
+[    ] Colton Brown - Listing Prep & Payoff — Met on-site May 15. CMA pulled, market value $275K-$315K, payoff ~$257K. Thin market (3 comps only). Need updated formal payoff letter and acreage confirmation before signing listing agreement.
 
 --- ACTIVE DEALS ---
-Steve Jimenez - Tilden 20ac | — | Stage: 2 | 20-acre hunting property. Price adjusted to $117,500. First offer from Michael Rodriguez stalled (no earnest money). Property clearing complete. Lead with net after close on next offer.
-  Log (May 12): Steve signed amendment, MLS updated to $117,500. Agent outreach in progress.
-  Log (Apr 29): Clearing complete. Photos posted to social. First offer dead - Michael Rodriguez/RBFCU stalled.
-  Log (Apr 13): Current offer basically dead. Steve clearing property. More open to overall picture on offers.
-181 CR 7751 | — | Stage: 1 | Bank-owned property needs work before listing. Cleanup in progress - floor demo complete, drywall cut. Utility applications being submitted (Medina Electric, EMCSUD). Listing agreement still needed to Jerry Sadler and Ray Stidham.
-  Log (May 14): Cleanup active - floor demo complete, drywall cut. Utility providers confirmed. Email sent to Kelly with utility info.
-  Log (May 11): On-site visit complete. Work actively moving. Dumpsters running since Saturday.
-  Log (May 9): Work officially starting. San Antonio Remodelers dropping dumpsters.
-340 Sollock Dr | — | Stage: 0 | Residential listing underwater by $93K-$143K. Payoff ~$493K, market value $350K-$400K. Sellers double-carrying ($5,300-6,000/month). Three paths identified: short sale, VA assumption, or bring cash to close. Needs immediate path decision.
-  Log (May 14): Where Things Stand email sent. Option 3 highlighted at $518,999.
-  Log (May 11): Visited property. Lawn care referral received. Awaiting showing agent feedback.
-  Log (May 1): Express Offers returned $550K. Off given CMA $350K-$400K.
-10023 Mill Path | — | Stage: 1 | 3BR/2.5BA home listed May 14 at $259,900. Motivated seller relocating to NC, must leave mid-June. First showing feedback received - cultural concern about direction, roof insurance claim in progress.
-  Log (May 14): MLS live. First showing feedback received from MK. Canvassed neighborhood.
-  Log (May 12): Insurance adjuster out May 11. New roof incoming.
-  Log (May 9): Listing agreement signed. Photos received from ATG. Live May 13.
-00 Borregas | — | Stage: 2 | Land/acreage with development potential. Sisters wanted to end March listing. Isaac Linares interested in mobile home development (~$150K offer if project moves). Title defect confirmed - attorney Van Hutchins preparing correction deed.
-  Log (May 14): Isaac expanding concept to 10-acre lots with mobile homes. Josh LT potential partner.
-  Log (Apr 30): Title defect confirmed - Deed #20100079485 has incomplete legal description. Attorney Van Hutchins preparing correction deed.
-  Log (Apr 21): Updated sisters on showing. Discussed Isaac development angle. Sisters enthusiastic.
-Moran - New Construction | — | Stage: 1 | New construction buyer. Budget $50K down, target ~$1,000/month payment. Buyer rep signed May 7. Not locked to Grace Gardens. Builder rate buydowns are the angle.
-  Log (May 14): Need to follow up with Milagros on timeline and interest level through Brandon
-  Log (May 11): MI Homes option found keeping payments under $1,200/mo. New construction search platform sent.
-  Log (May 7): Buyer rep agreement signed via Skyslope
-8527 Green Bliss - Rental | — | Stage: 0 | Rental listing Grace Gardens Lennar home. Owner renting 2 years then occupying. Jimbo confirmed all terms May 14 - $1,595/month, 12-month lease, full month co-op. Listing agreement must go out today.
-  Log (May 14): Jimbo confirmed all 12 questions. Ready to send final listing agreement.
-  Log (May 12): Intro email sent to Jimbo with CMA analysis and pricing recommendation.
-  Log (May 11): Spoke with Jimbo on road to Devine. Son made flyers. Ready to move forward.
-Mike & Alice Howell | — | Stage: 0 | Buyer couple, rental being sold, need to move fast. Pivoting to new construction with rate buydowns. No HOA firm requirement. Pre-approval needed with Zach Schaphorst.
-  Log (Apr 16): Sent showingnew.com search platform. Rental property being sold, rents going up.
-  Log (Apr 15): 916 Marriott assessed - foundation issues, roof from 2011. Introduced new construction idea.
-3504 Painted Riv | — | Stage: 0 | Investor deal analysis for property analysis template building. Off-market flip. Purchase $199,000, rehab $65,000, ARV $340,000. CMA shows value ~$266,000.
-  Log (Apr 18): Investor sent deal via link. Used as basis for property analysis tool.
-Colton & Abigail Brown | — | Stage: 0 | 3BR/2BA, 1,809 sqft, 4.05 acres. Divorce situation, need to sell. Payoff ~$257K (as of Feb 2026). Market value $275K-$315K. Thin market - 3 comps in 10 miles.
-  Log (May 15): Met at property. Payoff confirmed $255,578 as of Feb 17. CMA pulled. Net sheet built.
-  Log (Apr 24): Prior clients. Going through divorce. Colton looking for contractor work.
+Steve Jimenez - Tilden 20ac | — | Stage: 2 | 20 acres hunting property. Price adjusted to $117,500. First offer (Michael Rodriguez) stalled - no earnest money. Property clearing complete. Lead with net after close on next offer.
+  Log (May 12): Amendment signed, MLS updated to $117,500. Commission box correction needed.
+  Log (Apr 29): Clearing complete. Photos sent to social media. First offer dead.
+  Log (Apr 13): Current offer stalled. Michael Rodriguez financing not moving.
+181 CR 7751 | — | Stage: 1 | Bank-owned foreclosure. Cleanup in progress - floor demo done, drywall ready. Utilities coordinated. Listing agreement needed to Priority Bank. Work started May 9.
+  Log (May 14): Cleanup active, floor demo complete, drywall cut. Utility providers confirmed.
+  Log (May 11): On-site visit, dumpsters running. Bryce and wife (VA buyer) identified.
+  Log (May 9): Work officially starting. Matt Toney dropping dumpsters.
+340 Sollock Dr | — | Stage: 0 | Underwater by ~$93K-$143K. Payoff ~$493K, market value $350K-$400K. Vacant 6 months. Double-carrying mortgage plus Pearl area rent. Three paths: short sale, VA assumption, or bring cash to close.
+  Log (May 14): Where Things Stand email sent. Option 3 highlighted: strategic drop to $518,999.
+  Log (May 1): Express Offers returned $550K - likely inflated given market reality.
+  Log (Apr 21): Market analysis complete. Realistic value $350K-$400K. Underwater confirmed.
+10023 Mill Path | — | Stage: 2 | Referred by Isaac Linares. 3BR/2.5BA. Listed May 14 at $259,900. June deadline. First showing received - cultural concerns (Filipino buyer). Roof claim in progress with insurance adjuster.
+  Log (May 14): MLS live. First showing feedback received. Cultural concern flagged. Roof claim moving forward.
+  Log (May 9): Listing agreement signed. Photos received from ATG Photography.
+  Log (Apr 21): Listing consultation on-site. Seller packet delivered. $259,900 recommended.
+00 Borregas | — | Stage: 1 | Land/acreage. Sisters want to end listing. Isaac Linares interested in mobile home development (~$150K offer, contingent on project). Title defect identified and being corrected by attorney Van Hutchins.
+  Log (May 14): Isaac development angle: 10-acre mobile home lots. Josh LT potential partner - connect them.
+  Log (Apr 30): Title defect found - deed missing exhibits. Attorney preparing correction deed.
+  Log (Apr 21): Isaac development interest discussed. Sisters enthusiastic about mobile home angle.
+Moran - New Construction Buyer | — | Stage: 1 | Buyer rep signed May 7. Budget $50K down, target ~$1000/month payment. Rental property at 8527 Green Bliss (Grace Gardens, Lennar) being coordinated. New home search platform sent to browse builders.
+  Log (May 14): MI Homes option from Frank in play. Follow up on Milagros timeline through Brandon.
+  Log (May 11): Intro email sent to Milagros and team. New construction search platform activated.
+  Log (May 7): Buyer rep agreement signed. Rate buydown strategy communicated.
+8527 Green Bliss - Rental | — | Stage: 0 | Grace Gardens Lennar home. Jimbo's rental for 2 years before owner-occupancy. 1535 sqft, 3BR/2BA, new construction 2025. Rent $1595/month (12-month lease, no pets). All rental terms confirmed. Listing agreement finalization in progress.
+  Log (May 14): Jimbo replied to all questions same day. All rental terms confirmed. Listing agreement ready for Skyslope.
+  Log (May 12): CMA completed - $1595/month recommended. Matches direct comp at 8523 Green Bliss.
+  Log (May 11): Talked to Jimbo on road to Devine. Son made flyers. Ready to move forward.
+Colton & Abby Brown - 485 W FM 462 | — | Stage: 0 | Prior VA loan clients. 3BR/2BA, 1809 sqft, 4.05 acres. Payoff ~$257K. Market value $275K-$315K. Net to sellers ranges -$4.3K to +$47.7K depending on list price. Thin market (3 comps only).
+  Log (May 15): Met on-site ~10am. Payoff confirmed $255,578 as of Feb 2026. CMA pulled, net sheet built.
+  Log (Apr 24): Colton looking for contractor work. Potential tie to 181 CR 7751 project.
+3504 Painted Riv - Investor Analysis | — | Stage: 0 | Off-market flip for branded property analysis template. Purchase $199K, rehab $65K, ARV $340K, projected profit $42K-$62K. Close May 1. Building That Gardening Realtor analysis tool.
+  Log (Apr 18): Investor sent deal via Homestead Vested link. Used to build property analysis tool framework.
+Kurt - 9815 Conbes | — | Stage: 0 | Neighbor around the corner from 9815 Conbes. Wants intel on nearby listing under contract at $275K. Possible seller or buyer lead.
+  Log (May 14): Moving forward - pull CMA and determine if Kurt is seller, buyer, or investor lead.
+Mike & Alice Howell - Buyer | — | Stage: 0 | Rental property being sold. Landlord renovating, rents increasing. Pivoted to new construction strategy - rate buydowns and no HOA requirement. Pre-approval expected Feb 2026 with Zach Schaphorst.
+  Log (Apr 16): Sent showingnew.com search platform. Hopefully they engage while pre-approval sorts.
+  Log (Apr 15): Rental property being sold. 916 Marriott assessed - foundation issues, pass. Pivoting to new construction.
 
 --- LEADS ---
-Sallie Mae F. | Community | Stage: — | Last Contact: — | Next: Follow up personally. Ask permission to share story on social media.
-Isaac (Investor) | Investor | Stage: — | Last Contact: — | Next: Full intake call - understand buy box, budget, timeline, strategy.
-Christina Shine | Seller | Stage: — | Last Contact: — | Next: Follow up on finishing work progress. Offer to promote listing to buyer network.
-Miss Pat Neighbor - Son | Seller | Stage: — | Last Contact: — | Next: Get contact info from Miss Pat. Reach out to son - introduce as neighbor first, realtor second.
-Bryce (VA Buyer) | Buyer | Stage: — | Last Contact: — | Next: Get contact info from Bryce. Qualify wife VA eligibility. Send VA Buyers Guide.
-Jerome Gardner | Agent Referral | Stage: — | Last Contact: — | Next: Follow up with Jerome - get full buyer and property details.
-Brandon Moran | Buyer/Investor | Stage: — | Last Contact: — | Next: Rental listing agreement finalize for uncle. Confirm mom pre-approval and new construction search.
-Kurt - Neighbor | Prospect | Stage: — | Last Contact: — | Next: Pull CMA for Kurts area. Follow up with listing agent on 9815 Conbes details.
+Sallie Mae F. | Community Connection | Stage: — | Last Contact: — | Next: Follow up personally. Ask permission for story. Keep nurturing.
+Isaac - Investor | Buyer Lead - Investor | Stage: — | Last Contact: — | Next: Full Sage intake - understand buy box, budget, timeline, flip vs hold.
+Christina Shine - 13810 Tangle Tree St | Seller Lead | Stage: — | Last Contact: — | Next: Follow up on finishing progress. Offer to promote to network. Keep relational.
+Miss Pat Neighbor - Son (Inherited Property) | Seller Lead - Probate | Stage: — | Last Contact: — | Next: Get more info from Miss Pat - son name and contact. Reach out as neighbor first.
+Bryce & Wife - VA Buyer | Buyer Lead - VA Loan | Stage: — | Last Contact: — | Next: Get Bryce contact info. Confirm wife VA eligibility. Send VA Buyers Guide.
+Jerome Gardner - Buyer with Fixer | Buyer Lead | Stage: — | Last Contact: — | Next: Follow up with Jerome for full details - buyer profile, property type, price range.
+Brandon Moran - Investor/Connections | Strategic Partner | Stage: — | Last Contact: — | Next: Send PM company options to Brandon. Confirm exact addresses and timeline. Register Milagros as buyer agent.
+Priority Bank - REO Referral Pipeline | Investor/Bank Contact | Stage: — | Last Contact: — | Next: Send 181 CR 7751 listing agreement to Jerry/Ray. Keep Manny in loop. Monitor referral pipeline.
 
 --- TASKS ---
 [DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
