@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Friday, May 22, 2026 at 10:51 AM
+Date: Friday, May 22, 2026 at 10:54 AM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -20,9 +20,9 @@ Steve Jimenez - Tilden 20ac | — | Stage: 2 | 20-acre hunting property. Price a
   Log (May 11): On-site visit complete. Work actively moving. Dumpsters running since Saturday.
   Log (May 9): Work officially starting. San Antonio Remodelers dropping dumpsters.
 340 Sollock Dr | — | Stage: 0 | Residential listing underwater by $93K-$143K. Payoff ~$493K, market value $350K-$400K. Sellers double-carrying ($5,300-6,000/month). Three paths identified: short sale, VA assumption, or bring cash to close. Needs immediate path decision.
-  Log (May 22 10:51): Matt and I set up a time to talk this morning. He gave me a call a few minutes ago. About 10:35 we talked about a few of the options that we had sent over to them. I don't think short-term Airbnb is gonna be an option. He did say month rental or yearly. Rental would be okay. Chandler ended up getting laid off about a month ago. So things are getting tough on carrying the mortgage. There's some gets car sick on long drives. So that's really their main reason for moving closer to town. They had thought about moving back home just to help cover one mortgage and set a 2 since their leases up at the end of July. But it would be a whole lot of travel for the kids back-and-forth every single day. And again, one of them gets car sick. Very easily, we're definitely looking at seeing what they need to do for a short sale. So I would like for you to summarize, basically the conversation that Matt and I had earlier, and we'll recap this real quick with the email draft app. Just to be sure we have everything covered, but I need to find next steps and options through their mortgage company. New Res and we need to put together an email draft that helps overview everything that we discussed their options. And next steps, if there's anything you can recommend that they do. Sooner rather than later, that's an easy step. Please let me know speed is gonna be the most important factor here to get them. Some options for the short sale situation. Because they said there really isn't money in the bank. To cover and closing costs if they're not making money on the so, and we already know their negative, help me out.Help me out [Moving forward]
   Log (May 14): Where Things Stand email sent. Option 3 highlighted at $518,999.
   Log (May 11): Visited property. Lawn care referral received. Awaiting showing agent feedback.
+  Log (May 1): Express Offers returned $550K. Off given CMA $350K-$400K.
 10023 Mill Path | — | Stage: 1 | 3BR/2.5BA home listed May 14 at $259,900. Motivated seller relocating to NC, must leave mid-June. First showing feedback received - cultural concern about direction, roof insurance claim in progress.
   Log (May 14): MLS live. First showing feedback received from MK. Canvassed neighborhood.
   Log (May 12): Insurance adjuster out May 11. New roof incoming.
@@ -100,16 +100,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: The bold trail sync to cockpit on the home screen.
-[Sirhc]: **That's a command center / tech setup question.** I don't have visibility into how BoldTrail syncs to your Cockpit dashboard or whether it's the best intake method for hot leads.
-
-**Ask command center directly** — they manage the tech stack and can confirm what's functional and how to route new prospects.
-
-What lead are you trying to log?
-[Agent Green Thumb]: Can we add another
-[Sirhc]: **Add another what?** Lead? Contact? Property? Reminder?
-
-Be specific — I'll get it logged.
 [Agent Green Thumb]: This will be a new lead for a potential listing. On Melbourne forest 7519 for Sean and his wife, they moved out from California and started renovating the house and had some issues with leaks into our pipe swimming pool. In thereabout, 70% finished, what the house would want to find a way out. They're current payoff is upwards of 240000 and their mortgage payment is roughly $2400. I have all the specifics written down that all dropping here in a second. But I met with Sean last night, around 10:30 and we walked the house and talked about some options. This weekend, he wants to get together with his wife and we can discuss some options with her. And I also want to introduce her to the little red house, plant groups, and she's into plants.Anything else you need for me right now to set this lead up?
 [Sirhc]: **Got it. New lead logged:**
 
@@ -155,3 +145,22 @@ When you nail down the exact weekend time/place, just give me the update and we'
 Plant swap + property talk = natural conversation. Wife gets plants, you get listing intel.
 
 **Got it logged. Sync when you're done for the day.**
+[Agent Green Thumb]: I got a call from anthony garcia up in grapevine, texas.Who's an agent on the  herd team.
+[Sirhc]: **I don't have Anthony Garcia in my active contacts.** Grapevine agent on "the herd team" — that's outside my San Antonio TX territory tracking.
+
+**What did Anthony need?** Referral? Collaboration? Leads?
+[Agent Green Thumb]: Anyway, he's working with a buyer who's interested in purchasing land and building a house. We talked about a few things regarding access utilities. And maybe finding a property with the home already on it, just to go from there. I also recommended that you reach out to the broker team to find someone in the area to help him. Just get a better idea on the market. But he's probably gonna send me some properties. Later for us to look at
+Maybe just drop it on my calendar. This afternoon, or over the weekend to check in with the dudes
+[Sirhc]: **Got it. New outreach logged:**
+
+**ANTHONY GARCIA — Grapevine TX Agent (Herd Team)**
+- Buyer need: Land + build OR existing house to renovate
+- Key topics: Access, utilities, market intel
+- Action: He'll send you properties to review
+- Your move: Check in this afternoon/weekend, evaluate options
+
+**Reminder set: Review Anthony's properties + check in this weekend.**
+
+You're building the referral network. Good move delegating to broker team for local market intel — that's smart.
+
+Ready for the next one?
