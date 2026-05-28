@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Thursday, May 28, 2026 at 7:15 AM
+Date: Thursday, May 28, 2026 at 7:16 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -32,9 +32,9 @@ Mike & Alice Howell | — | Stage: 1 | Rental being sold, need to move fast. Piv
 3504 Painted Riv | — | Stage: 0 | Off-market flip analysis. Purchase $199K, rehab $65K, ARV $340K, projected profit $42K-$62K. Used to build property analysis template for That Gardening Realtor brand.
   Log (Apr 18): Investor sent deal link, used as basis for analysis tool development
 10023 Mill Path | — | Stage: 2 | 3BR/2.5BA in Laura Heights PUD. Referred by Isaac Linares. Motivated seller relocating to NC in June. MLS live May 14. First showing feedback received. Roof claim in progress.
+  Log (May 28, 2026 7:16 AM): Follow up on yesterday's showing.
   Log (May 22): Texted Jose and Katy about investor cash offer at $176,300, 4th showing scheduled May 23
   Log (May 14): MLS live, sign and lockbox dropped, neighborhood canvassed, first showing feedback received
-  Log (May 11): Insurance adjuster completed roof inspection, claim moving forward
 00 Borregas | — | Stage: 1 | Development opportunity. Isaac Linares interested in mobile home development (~$150K offer pending project approval). Title defect: incomplete legal description on deed. Attorney Van Hutchins preparing correction deed.
   Log (May 14): Isaac discussing 10-acre lot mobile home development, Josh LT potential partner
   Log (Apr 30): Title defect confirmed and attorney hired, correction deed in progress
