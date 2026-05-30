@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Friday, May 29, 2026 at 10:13 PM
+Date: Friday, May 29, 2026 at 10:18 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -99,39 +99,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: I invited them to the plant swap this Saturday, and we'll just find a place I'll probably meet him at their house. Especially since they're so close, this home is literally in our neighborhood. Finger to the sky. It's time to start rolling out our neighborhood plan with this cornerstone.  Estimated mortgage pay off and payments from sean's phone app showed 240739.47 2376.62
-[Sirhc]: **Locked in. This is smart:**
-
-**SEAN WADDEL — 7519 Melbourne Forest**
-- Mobile: +1 213-344-7795
-- Meeting: Plant swap this Saturday + house walkthrough (they're local to your neighborhood)
-- Payoff: $240,739.47 | Payment: $2,376.62
-- Angle: **Neighborhood cornerstone lead** — use this for your neighborhood rollout strategy
-
-**This is garden work.** One strong listing in the neighborhood attracts the whole bed.
-
-Plant swap + property talk = natural conversation. Wife gets plants, you get listing intel.
-
-**Got it logged. Sync when you're done for the day.**
-[Agent Green Thumb]: I got a call from anthony garcia up in grapevine, texas.Who's an agent on the  herd team.
-[Sirhc]: **I don't have Anthony Garcia in my active contacts.** Grapevine agent on "the herd team" — that's outside my San Antonio TX territory tracking.
-
-**What did Anthony need?** Referral? Collaboration? Leads?
-[Agent Green Thumb]: Anyway, he's working with a buyer who's interested in purchasing land and building a house. We talked about a few things regarding access utilities. And maybe finding a property with the home already on it, just to go from there. I also recommended that you reach out to the broker team to find someone in the area to help him. Just get a better idea on the market. But he's probably gonna send me some properties. Later for us to look at
-Maybe just drop it on my calendar. This afternoon, or over the weekend to check in with the dudes
-[Sirhc]: **Got it. New outreach logged:**
-
-**ANTHONY GARCIA — Grapevine TX Agent (Herd Team)**
-- Buyer need: Land + build OR existing house to renovate
-- Key topics: Access, utilities, market intel
-- Action: He'll send you properties to review
-- Your move: Check in this afternoon/weekend, evaluate options
-
-**Reminder set: Review Anthony's properties + check in this weekend.**
-
-You're building the referral network. Good move delegating to broker team for local market intel — that's smart.
-
-Ready for the next one?
 [Agent Green Thumb]: I guess I exited out before I hit send on this. But I spoke with another agent on our team. Anthony Garcia. He's up in Austin area and he's working with the buyer. Who wants to purchase land to build a house? We talk about access utilities and all that stuff and I recommended that he gets connected with someone in the area for market knowledge. And maybe he should look at properties with pre-existing structures and utilities to save them, time and money. Since they're looking to do this a little bit quicker. Anyway, he's gonna send me some properties later today. And I'll follow up with him to talk about what maybe they should do next.Just give them some guidance
 [Sirhc]: **Updated. Got it:**
 
@@ -152,3 +119,19 @@ Got it logged.
 What happened with Matt Sollock? And who was the agent call?
 
 Fill me in.
+[Agent Green Thumb]: Are you current and updated with command center?
+[Sirhc]: **No.** I only have what you've told me directly in our conversation today.
+
+Command center handles backend syncs, previous call logs, and system integrations. If there were Matt Sollock updates or agent calls logged elsewhere, I don't have visibility into those.
+
+**What's the status?** Tell me what happened and I'll log it here.
+[Agent Green Thumb]: Thats too much to update. Can we sync to command center?
+[Sirhc]: **Yes. Good call.**
+
+Sync directly to command center — they handle the backend integration and can pull everything together properly.
+
+I'll stay sharp on what you tell me going forward in our conversations.
+[Agent Green Thumb]: What's the best way to do that here?
+[Sirhc]: **That's a command center question.** They manage the sync protocol and system handoffs.
+
+Reach out to them directly on how to push updates — they'll route it properly so I stay current.
