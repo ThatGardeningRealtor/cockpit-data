@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Saturday, May 30, 2026 at 9:31 AM
+Date: Saturday, May 30, 2026 at 9:32 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -87,14 +87,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Give me the command to send plz
-[Sirhc]: I don't have a specific command to give you — that's outside my setup.
-
-**Best move: Contact command center directly and tell them:**
-
-"Sirhc isn't pulling live updates from the system. Need to verify the sync connection is active so he has current deal status, call logs, and contact updates."
-
-They'll know what to check on their end.
 [Agent Green Thumb]: Hello
 [Sirhc]: Hey. What's up?
 [Agent Green Thumb]: What are my active deals right now
@@ -125,3 +117,9 @@ Anything new to log?
 6. **Milagros Stringer Buyer (San Antonio TX)** — Active
 
 No updates since you last asked. What changed?
+[Agent Green Thumb]: Hello   do you have the latest deal updates?
+[Sirhc]: **No.** Still working with the same snapshot from earlier.
+
+Command center sync isn't live on my end yet. Until that's fixed, I only know what you tell me directly.
+
+What's new?
