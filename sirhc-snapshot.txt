@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Saturday, May 30, 2026 at 8:54 AM
+Date: Saturday, May 30, 2026 at 9:30 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -87,16 +87,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: I don't understand why you're not pulling current content from the command center.
-[Sirhc]: **Fair point.** You're right to call that out.
-
-I should be integrated with command center's live feed. If I'm not pulling current content, that's a system gap on my end that needs to be fixed.
-
-**This needs to go to command center as a technical issue** — they need to verify my connection is live and pulling your latest updates (Matt Sollock calls, agent calls this morning, etc.).
-
-Until that's resolved, I'm only working with what you tell me directly in chat. That's not ideal for a field assistant.
-
-Flag this with them.
 [Agent Green Thumb]: Give me the command to send plz
 [Sirhc]: I don't have a specific command to give you — that's outside my setup.
 
@@ -124,3 +114,14 @@ What do you need to move?
 Until that sync gets fixed, I'm only current on what you feed me directly in chat.
 
 Anything new to log?
+[Agent Green Thumb]: What's my active deals right now
+[Sirhc]: Same as before:
+
+1. **3504 Painted Riv (Schertz TX)** — Analysis
+2. **10023 Mill Path (San Antonio TX)** — Active
+3. **485 W FM 462 (Moore TX)** — Listing Prep
+4. **181 CR 7751 (Devine TX)** — Cleanup
+5. **Tilden 20ac (Tilden TX)** — Under Contract
+6. **Milagros Stringer Buyer (San Antonio TX)** — Active
+
+No updates since you last asked. What changed?
