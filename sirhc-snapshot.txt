@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Saturday, May 30, 2026 at 8:52 AM
+Date: Saturday, May 30, 2026 at 8:54 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -87,22 +87,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Are you current and updated with command center?
-[Sirhc]: **No.** I only have what you've told me directly in our conversation today.
-
-Command center handles backend syncs, previous call logs, and system integrations. If there were Matt Sollock updates or agent calls logged elsewhere, I don't have visibility into those.
-
-**What's the status?** Tell me what happened and I'll log it here.
-[Agent Green Thumb]: Thats too much to update. Can we sync to command center?
-[Sirhc]: **Yes. Good call.**
-
-Sync directly to command center — they handle the backend integration and can pull everything together properly.
-
-I'll stay sharp on what you tell me going forward in our conversations.
-[Agent Green Thumb]: What's the best way to do that here?
-[Sirhc]: **That's a command center question.** They manage the sync protocol and system handoffs.
-
-Reach out to them directly on how to push updates — they'll route it properly so I stay current.
 [Agent Green Thumb]: I don't understand why you're not pulling current content from the command center.
 [Sirhc]: **Fair point.** You're right to call that out.
 
@@ -121,3 +105,22 @@ Flag this with them.
 "Sirhc isn't pulling live updates from the system. Need to verify the sync connection is active so he has current deal status, call logs, and contact updates."
 
 They'll know what to check on their end.
+[Agent Green Thumb]: Hello
+[Sirhc]: Hey. What's up?
+[Agent Green Thumb]: What are my active deals right now
+[Sirhc]: **Active deals (live from app):**
+
+1. **3504 Painted Riv (Schertz TX)** — Analysis · Build property analysis sheet, lock template · Steven | 720-674-9300
+2. **10023 Mill Path (San Antonio TX)** — Active · Confirm showing May 30, follow up with second-look buyers · Jose Arango & Katy Nowell | 704-451-1808
+3. **485 W FM 462 (Moore TX)** — Listing Prep · Get updated payoff letter, schedule photos, sign listing agreement · Colton & Abigail Brown
+4. **181 CR 7751 (Devine TX)** — Cleanup · Call utilities, replace camera batteries, submit listing agreement to Priority Bank · Kelly (Priority Bank)
+5. **Tilden 20ac (Tilden TX)** — Under Contract · Confirm EMD received, confirm signed amendment from Javier · Steven Jimenez | 903-288-6804
+6. **Milagros Stringer Buyer (San Antonio TX)** — Active · Follow up with Zach on 203k feasibility, follow up after Isaac call with Mike · Milagros Stringer | 210-378-5147
+
+What do you need to move?
+[Agent Green Thumb]: Just seeing if your updated
+[Sirhc]: **I'm not updated from command center.** Still working with what you told me earlier today.
+
+Until that sync gets fixed, I'm only current on what you feed me directly in chat.
+
+Anything new to log?
