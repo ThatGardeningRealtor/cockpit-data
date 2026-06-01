@@ -1,61 +1,57 @@
 [SIRHC — APP SNAPSHOT]
-Date: Sunday, May 31, 2026 at 9:49 PM
-Day Type: REST
+Date: Monday, June 1, 2026 at 10:32 AM
+Day Type: IN
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] Utilities Setup - 181 CR 7751 — Electric and water services still pending confirmation. Transformer number needed from site for Medina Electric application. EMCSUD callback expected.
-[    ] Mill Path Showings - Follow Up — Second-look buyers are hottest lead - they love the floorplan. Pre-inspection report offered. Showing rescheduled to May 30, time pending confirmation.
-[    ] Tilden Land - EMD and Amendment — Under contract with Espinoza buyers at $113K. TXR 1903 amendment sent to Javier to update financing. EMD has not been received yet.
-[    ] Builder Registration - Milagros — Critical - must register Milagros as Chris buyer on first builder visit to ensure commission. Multiple builder options being pulled. Budget $50K down, $1000/month target payment.
-[    ] Priority Bank Listing Agreement — 181 CR 7751 listing agreement still needed for Priority Bank. Cleanup is active and moving well. Finalize agreement and get submitted to bank decision-maker Ray Stidham.
+[    ] 10023 Mill Path Closing — Second-look buyers are serious. Pre-inspection report offered. Next showing scheduled May 30. Monitor for offer.
+[    ] 181 CR 7751 Listing Submission — Cleanup progressing well. Police reports stalled. Utilities pending activation. Listing agreement still needed to Jerry Sadler and Ray Stidham (decision-maker).
+[    ] Milagros Stringer New Construction Buyer — Buyer rep likely signed. Multiple builder options being explored. Rate buydowns are key angle. Budget $50K down, ~$1K/month payment target.
+[    ] Tilden 20 Acres Closing — Earnest money not yet received. TXR 1903 amendment sent to buyer agent Javier for third party financing update. Chicago Title escrow opened with Alyssa Castillo.
+[    ] 485 FM 462 Moore Listing Prep — 3BR/2BA, 1809 sqft, 4.05 acres. Payoff ~$257K. Recommended list $295K (3 comps in 10 miles). CMA completed. Still need updated payoff letter and listing agreement signed.
 
 --- ACTIVE DEALS ---
-3504 Painted Riv | — | Stage: 1 | Off-market flip. Purchase $199K, rehab $65K, ARV $340K, profit $42K-$62K. Closed May 1 2026. Building CMA template.
-  Log (Apr 18): Investor sent deal via Homestead Vested link. Used as basis for property analysis tool.
-10023 Mill Path | — | Stage: 2 | Listed May 14. 3BR/2.5BA, 1886 sqft. June deadline for seller relocation to NC. Second-look buyers are hottest lead. Multiple showings underway.
-  Log (May 29): Second-look buyers came back - they love the floorplan and maintenance. Offered pre-inspection report. Rescheduled showing to May 30.
-  Log (May 22): Investor cash offer discussed at $176,300. Texted Jose and Katy, keeping conversation open.
-  Log (May 14): MLS live, sign and lockbox dropped, neighborhood canvassed, first showing at 9:15am.
-485 W FM 462 | — | Stage: 1 | Divorce sale. 3BR/2BA, 1809 sqft, 4.05 acres. Payoff $257K. Need $285K-$290K minimum to walk with proceeds. CMA shows $295K recommended list price.
-  Log (May 15): Met at property - CMA pulled, payoff confirmed $255,578 as of Feb 2026, net sheet built.
-  Log (Apr 24): Prior clients - helped with original VA renovation loan. Going through divorce, need to finish renovation and sell.
-181 CR 7751 | — | Stage: 1 | Priority Bank foreclosure. Cleanup underway - drywall crew patching, utilities being set up. Listing agreement still needed. Police reports pending.
-  Log (May 28): Drywall crew actively patching remaining holes. Sent photos to Kelly. Police reports still pending.
-  Log (May 14): Cleanup active - floor demo complete, drywall cut for electrician/plumber. Utility companies identified.
-  Log (May 9): Work officially starting with Matt Toney/SA Remodelers. Dumpsters dropping this weekend.
-Tilden 20ac | — | Stage: 2 | 20 acres hunting property. Under contract with Espinoza buyers at $113K. Waiting on EMD and signed TXR 1903 amendment from buyer's agent Javier. Chicago Title handling escrow.
-  Log (May 29): New buyers: Espinoza family, buyer's agent Javier. TXR 1903 amendment sent to update third party financing. EMD not yet received.
-  Log (May 12): Price reduced to $117,500, MLS updated. Exclusions locked in. Commission box correction still needed on amendment.
-  Log (Apr 29): Clearing complete - Steve finished and sent photos. Drone footage needed for marketing.
+3504 Painted Riv | — | Stage: 1 | Off-market flip. Purchase $199K, rehab $65K, ARV $340K, profit $42-62K. 31 comps, avg $207K. Template building for property analysis tool.
+  Log (Apr 18): Deal received via Homestead Vested link. Used for analysis tool template.
+10023 Mill Path | — | Stage: 3 | Listed May 14. 3BR/2.5BA, 1,886 sqft, Laura Heights PUD. Sellers relocating to NC second week June. Second-look buyers are hottest lead. Pre-inspection report offered.
+  Log (May 29): Second-look buyers back for second showing. Offered pre-inspection report. Rescheduled showing to May 30.
+  Log (May 22): Investor cash offer at $176,300 discussed. Keeping conversation open.
+  Log (May 14): MLS live. First showing 9:15am. Cultural concern flagged by MK about street direction.
+485 W FM 462 | — | Stage: 1 | 3BR/2BA, 1,809 sqft, 4.05 acres, Frio County. Payoff ~$257K. Recommended list $295K. CMA pulled. Thin market - 3 comps in 10 miles. Divorce situation.
+  Log (May 15): Met at property. CMA pulled. Payoff confirmed $255,578 as of Feb 2026. Net sheet built.
+  Log (Apr 24): Chris helped with original VA renovation loan purchase. Going through divorce. Need to sell.
+Tilden 20 Acres | — | Stage: 3 | 20 acres hunting property. Under contract with Espinoza buyers at $113K. Earnest money not yet received. TXR 1903 amendment sent to buyer's agent Javier. Chicago Title escrow opened.
+  Log (May 29): New buyers Espinoza accepted at $113K. Amendment sent to buyer's agent Javier.
+  Log (May 12): Price reduced to $117,500. MLS updated. Steve signed amendment.
+181 CR 7751 | — | Stage: 2 | Bank-owned foreclosure. Renovation in progress with HouzzPro (Matt Toney). Floor demo complete, drywall cutting done. Police reports pending. Utilities pending activation.
+  Log (May 28): Drywall crew actively patching. Sent photos to Kelly. Police reports still stalled.
+  Log (May 14): Floor demo complete. Drywall cut. New drywall on site. Utility providers confirmed.
 
 --- LEADS ---
-Mike & Alice Howell | Buyer - New Construction | Stage: — | Last Contact: — | Next: Follow up with Zach on 203k feasibility for 301 W Saxet, follow up after Isaac and Mike phone call
-  Log (May 29): Isaac brought wholesale deal at 301 W Saxet, Corpus Christi at $85K. Two structures - demo second one, FHA 203k for main home. Zach sent property info for evaluation.
-  Log (Apr 16): Sent showingnew.com link for new construction browsing. New construction strategy launched.
-  Log (Apr 15): Rental being sold by landlord. Pivoted to new construction with rate buydowns and incentives.
-Milagros Stringer | Buyer - New Construction | Stage: — | Last Contact: — | Next: Confirm buyer rep is signed, pull builder options, set up new home search platform
-  Log (May 14): Need to follow up with Milagros - ask Brandon what is going on with her timeline and interest level.
-  Log (May 11): Intro email sent, buyer rep signature packet sent via Skyslope, copy sent to Brandon separately.
-Sallie Mae F. | Community Contact | Stage: — | Last Contact: — | Next: Follow up personally, ask permission to share her story
-  Log (Apr 17): Community connection - grief and healing through plants. Potential content collaboration pending permission.
-Christina Shine | Potential Seller | Stage: — | Last Contact: — | Next: Follow up on finishing progress, offer to promote listing to buyer network
-  Log (May 9): Met at garden event. Property ~90% complete, having trouble finishing. Already working with another realtor.
-Kurt Lehr | Prospect Neighbor | Stage: — | Last Contact: — | Next: Pull CMA for Kurt area, follow up with listing agent on 9815 Conbes details
-  Log (May 14): Moving forward - pull CMA, pricing, next steps. This is priority alongside Colton Brown prep.
-Bryce & Wife | Buyer - VA Loan | Stage: — | Last Contact: — | Next: Get Bryce contact info on next site visit, qualify wife VA eligibility, connect with VA lender
-  Log (May 11): Met at 181 CR 7751. Wife is active military, recently moved from Ohio. Renting, looking to buy.
-Jerome Gardner | Buyer Referral | Stage: — | Last Contact: — | Next: Follow up with Jerome for full details on buyer and property needs
-  Log (May 11): Jerome reached out about buyer needing fixer property. Unique situation details pending.
-Miss Pat Neighbor's Son | Potential Seller | Stage: — | Last Contact: — | Next: Get more info from Miss Pat, reach out to son with neighborhood/gardener angle
-  Log (May 9): Miss Pat mentioned neighbor behind her may have passed. Son now owns house. Deceased was avid gardener.
-Brandon Moran | Referral Partner | Stage: — | Last Contact: — | Next: Confirm buyer rep signed for Milagros, schedule builder visit, pull property manager options
-  Log (May 11): Builder outreach in progress. MI Homes option from Frank under review. Rate buydown strategy being developed.
-  Log (May 7): Buyer rep signed for Milagros. Multiple builder options being pulled.
-  Log (Apr 28): Met Brandon - Green Bliss rental and his mom Milagros as new construction buyer both in play.
-Isaac Linares | Investor/Partner | Stage: — | Last Contact: — | Next: Continue deal flow, follow up on all active transactions together
-  Log (May 29): Brought 301 W Saxet wholesale deal at $85K for Howell buyers. Two structures, FHA 203k angle.
-  Log (Apr 21): Met for lunch after 10023 Mill Path consultation. Discussed development concepts and partnership possibilities.
+Mike & Alice Howell | Buyer | Stage: — | Last Contact: — | Next: Revisit new construction search. Identify no-HOA builder options.
+  Log (Jun 1): Out of 301 W Saxet Corpus deal - too much for them. Still actively searching.
+  Log (May 29): Evaluated 301 W Saxet wholesale deal (Isaac). Mike and Isaac scheduled phone call.
+Milagros Stringer | Buyer | Stage: — | Last Contact: — | Next: Confirm buyer rep signed. Pull new construction options from all builders. Set up builder visit.
+  Log (May 14): MI Homes option from Frank still in play. Need to follow up with Milagros on timeline and interest.
+  Log (May 11): Buyer rep sent. Multiple builder options being explored across rate scenarios.
+Bryce + Wife | Buyer | Stage: — | Last Contact: — | Next: Get Bryce contact info. Qualify wife for VA eligibility. Send VA Buyers Guide.
+  Log (May 11): Met on-site at Priority Bank property. Wife is active military, VA loan eligible.
+Christina Shine | Seller | Stage: — | Last Contact: — | Next: Follow up on finishing progress. Offer to promote to Chris buyer network. Stay relational.
+  Log (May 9): Met at garden event. Has property 90% complete. Already working with another realtor.
+Kurt | Prospect | Stage: — | Last Contact: — | Next: Pull CMA for Kurt area. Get offer details from listing agent on 9815 Conbes. Report back.
+  Log (May 14): Priority to pull CMA and set up listing timeline.
+Jerome Gardner | Buyer | Stage: — | Last Contact: — | Next: Follow up with Jerome. Get buyer and property details. Identify matching inventory.
+  Log (May 11): Caught up with Jerome. Details pending on buyer and fixer situation.
+Sallie Mae F. | Community | Stage: — | Last Contact: — | Next: Follow up personally. Ask permission for content. Keep nurturing - no rush on real estate.
+  Log (Apr 17): Connected through garden community conversation. Content angle identified.
+Miss Pat's Neighbor Son | Seller | Stage: — | Last Contact: — | Next: Get more info from Miss Pat. Reach out to son - neighbor and gardener first. Assess if keeping, renting, or selling.
+  Log (May 9): Miss Pat mentioned neighbor behind her may have passed. Son is new owner. Avid gardener.
+Brandon Moran | Referral | Stage: — | Last Contact: — | Next: Debrief Brandon on Jimbo situation. Focus energy on Milagros new construction. Confirm she has signed buyer rep.
+  Log (May 28): Jimbo backed out of rental arrangement. Chris sent $500 to Brandon for costs.
+  Log (May 11): Brandon's mom (Milagros) is new construction buyer prospect. Multiple builder options being explored.
+Isaac Linares | Investor | Stage: — | Last Contact: — | Next: Thank Isaac after Mill Path closes. Continue deal flow relationship. Keep updated on new opportunities.
+  Log (May 29): 10023 Mill Path showing well. Isaac referral performing.
+  Log (May 29): 301 W Saxet wholesale deal (Mike and Alice Howell) - couple backed out.
 
 --- TASKS ---
 [DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
