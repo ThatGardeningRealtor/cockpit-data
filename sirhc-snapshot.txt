@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, June 2, 2026 at 5:21 PM
+Date: Tuesday, June 2, 2026 at 5:24 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -81,23 +81,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: What are my active deals right now
-[Sirhc]: **Active deals (live from app):**
-
-1. **3504 Painted Riv (Schertz TX)** — Analysis · Build property analysis sheet, lock template · Steven | 720-674-9300
-2. **10023 Mill Path (San Antonio TX)** — Active · Confirm showing May 30, follow up with second-look buyers · Jose Arango & Katy Nowell | 704-451-1808
-3. **485 W FM 462 (Moore TX)** — Listing Prep · Get updated payoff letter, schedule photos, sign listing agreement · Colton & Abigail Brown
-4. **181 CR 7751 (Devine TX)** — Cleanup · Call utilities, replace camera batteries, submit listing agreement to Priority Bank · Kelly (Priority Bank)
-5. **Tilden 20ac (Tilden TX)** — Under Contract · Confirm EMD received, confirm signed amendment from Javier · Steven Jimenez | 903-288-6804
-6. **Milagros Stringer Buyer (San Antonio TX)** — Active · Follow up with Zach on 203k feasibility, follow up after Isaac call with Mike · Milagros Stringer | 210-378-5147
-
-What do you need to move?
-[Agent Green Thumb]: Just seeing if your updated
-[Sirhc]: **I'm not updated from command center.** Still working with what you told me earlier today.
-
-Until that sync gets fixed, I'm only current on what you feed me directly in chat.
-
-Anything new to log?
 [Agent Green Thumb]: What's my active deals right now
 [Sirhc]: Same as before:
 
@@ -121,3 +104,19 @@ What's new?
 That's all I have on her: she's a warm lead, marked as a community connection.
 
 I don't have the backstory on how you met or the context around her. You'll need to fill me in on that one — what's her story?
+[Agent Green Thumb]: Error code when connecting Google Calendar..
+[Sirhc]: **That's a tech issue outside my lane.**
+
+Hit up command center on that one — they handle the integrations and backend stuff.
+
+What deal work can I help you with?
+[Agent Green Thumb]: Error 401: invalid_client
+
+Request details: flowName=GeneralOAuthFlow
+[Sirhc]: **That's a backend authentication issue.** Command center needs to see that error code.
+
+Send them: "Error 401: invalid_client on GeneralOAuthFlow when syncing Google Calendar to Sirhc."
+
+They'll reset the OAuth connection.
+
+In the meantime — what do you need from me on the deals?
