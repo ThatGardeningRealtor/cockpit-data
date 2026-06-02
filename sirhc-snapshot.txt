@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, June 2, 2026 at 5:19 PM
+Date: Tuesday, June 2, 2026 at 5:20 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -7,26 +7,27 @@ Calls Made: 0 / 5
 [    ] Mill Path 10023 - Second Look Buyers — Second-look buyers came back for second showing. It is their favorite property. They love floorplan and maintenance. Walk-in closet slightly small noted. Rescheduled showing May 30 time TBD.
 [    ] Pamela Moore VA Buyer — Military retirement income plus daughters disability co-borrowers. Paying $1700/mo rent motivated. VA zero down eligible. Overdue since Apr 30 follow-up. Do not let slip again.
 [    ] Colton Brown Listing Prep — 3/2 1809 sqft 4.05 acres. Payoff $257K. CMA done recommended $295K. Met May 15 went well. Divorce situation prior VA loan clients.
-[DONE] 181 CR 7751 Priority Bank REO — Drywall crew actively patching. Floor demo done. Utilities Medina Electric and EMCSUD not responding. Police reports pending. Listing agreement still needed Jerry Sadler and Ray Stidham.
+[    ] 181 CR 7751 Priority Bank REO — Drywall crew actively patching. Floor demo done. Utilities Medina Electric and EMCSUD not responding. Police reports pending. Listing agreement still needed Jerry Sadler and Ray Stidham.
 [    ] Brandon Moran - Milagros Buyer Rep Follow-up — Buyer rep signed May 7 but need confirmation received. Pull new construction options all builders no HOA. MI Homes option Frank pending review. Budget $50K down ~$1000/mo payment.
 
 --- ACTIVE DEALS ---
+3504 Painted Riv | — | Stage: 1 | Off-market flip. Purchase $199K, rehab $65K, ARV $340K, profit $42K-$62K. Close May 1 2026. CMA: 31 comps, avg $207K, est value $266K.
+  Log (Apr 18): Investor sent deal via Homestead Vested link. Used as basis for property analysis tool.
 10023 Mill Path | — | Stage: 3 | 3/2.5 1,886 sqft 2011 Laura Heights PUD. List $259,900 May 14. Sellers moving to NC second week June (high urgency). Foundation crack flagged. Loan payoff discrepancy verify. Second-look buyers favorite property. Four showings completed.
-  Log (Jun 2, 2026 5:17 PM): More feedback from another showing that they were very interested in the home.But they were still early and on their search and plan to make a decision in the next week or two.
   Log (May 29): Second-look buyers back for second showing, their favorite property. Pre-inspection report offered. Rescheduled May 30.
   Log (May 23): 4th showing scheduled 1:30pm. Another agent asked about backup offer option.
+  Log (May 22): Investor cash offer $176K discussed. Keeping conversation open with sellers.
 485 W FM 462 | — | Stage: 1 | 3/2 1,809 sqft 4.05 acres Frio County. Payoff $257K Feb 2026. CMA pulled May 15. Recommended list $295K net proceeds ~$14.7K. Divorce situation. VA loan purchase assistance prior.
   Log (May 15): Met at property 10am. Payoff confirmed $255,578 as of Feb 17. CMA pulled, thin market 3 comps in 10 miles. Net sheet built.
   Log (Apr 24): Prior clients. Colton looking for contractor work at 181 CR 7751.
 181 CR 7751 | — | Stage: 2 | Priority Bank foreclosure. Damage after bank possession liability shift. HouzzPro Matt Toney work started May 9. Floor demo complete drywall cut. Utilities: Medina Electric 866-632-3532, EMCSUD 830-709-3879.
-  Log (Jun 2, 2026 5:16 PM): We made it out to the property today. To put up a couple more cameras, I made a quick stop over at Walmart and we have 3 cameras running over there. Now, the electricians reconnected everything from the Pole to the meter. And I got Kelly a couple of updates on everything drywall, guys were finishing up a second round of paint flooring. Should get going tomorrow or thursday and then they'll be back to paint the baseboards. Water r meter still needs to be set,  when Kelly said that should be done in the next day or 2I also talked with her to. Recent, the contractor's contact information, she had to get ahold of Matt to clear up a few things. And see whether at with everything
-I did make a stop on the way back to Yale gas. In a late lunch and we took some good shots of the house and property that we need to send over to Kelly and everybody. And also use that for some more social media content
   Log (May 29): Police reports still pending. Utilities not responding. Camera needs batteries. Listing agreement still needed to bank.
   Log (May 28): Visited property. Drywall crew actively patching. Sent photos to Kelly.
+  Log (May 14): Cleanup active. Floor demo complete. Drywall cut. Transformer number and utility setup in progress.
 Tilden 20ac | — | Stage: 3 | 20 acres A-735 hunting property. Contract $113K with Espinoza buyers. EMD not yet received. TXR 1903 amendment sent to Javier buyer agent. Alyssa Castillo Chicago Title escrow officer.
-  Log (Jun 2, 2026 5:17 PM): I should probably check in with tidal and the lender on this tomorrow.Just to be sure, everything is good to go.And ask to see if there is a possibility for an earlier closing date.Once we're clear to close.
   Log (May 29): New buyers Espinoza family, buyer agent Javier. TXR 1903 amendment sent. EMD not received yet.
   Log (May 12): Steve signed amendment. TXR 1404 uploaded. MLS updated to $117.5K. Exclusions locked: Conex contents, camper, feeders.
+  Log (Apr 29): Clearing complete. Steve sent photos. Property ready to market.
 
 --- LEADS ---
 Mike & Alice Howell | Buyer - New Construction | Stage: — | Last Contact: — | Next: Revisit new construction search. Identify builder options no HOA. Follow up with Zach on approval status. Connect with builders.
@@ -80,8 +81,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Hello
-[Sirhc]: Hey. What's up?
 [Agent Green Thumb]: What are my active deals right now
 [Sirhc]: **Active deals (live from app):**
 
@@ -116,3 +115,9 @@ No updates since you last asked. What changed?
 Command center sync isn't live on my end yet. Until that's fixed, I only know what you tell me directly.
 
 What's new?
+[Agent Green Thumb]: Can you refresh my memory on who sally may is?And how we met in all that
+[Sirhc]: **Sallie Mae F. — Community Lead (Warm)**
+
+That's all I have on her: she's a warm lead, marked as a community connection.
+
+I don't have the backstory on how you met or the context around her. You'll need to fill me in on that one — what's her story?
