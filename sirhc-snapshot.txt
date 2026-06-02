@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Tuesday, June 2, 2026 at 3:13 PM
+Date: Tuesday, June 2, 2026 at 5:14 PM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -7,7 +7,7 @@ Calls Made: 0 / 5
 [    ] Mill Path 10023 - Second Look Buyers — Second-look buyers came back for second showing. It is their favorite property. They love floorplan and maintenance. Walk-in closet slightly small noted. Rescheduled showing May 30 time TBD.
 [    ] Pamela Moore VA Buyer — Military retirement income plus daughters disability co-borrowers. Paying $1700/mo rent motivated. VA zero down eligible. Overdue since Apr 30 follow-up. Do not let slip again.
 [    ] Colton Brown Listing Prep — 3/2 1809 sqft 4.05 acres. Payoff $257K. CMA done recommended $295K. Met May 15 went well. Divorce situation prior VA loan clients.
-[    ] 181 CR 7751 Priority Bank REO — Drywall crew actively patching. Floor demo done. Utilities Medina Electric and EMCSUD not responding. Police reports pending. Listing agreement still needed Jerry Sadler and Ray Stidham.
+[DONE] 181 CR 7751 Priority Bank REO — Drywall crew actively patching. Floor demo done. Utilities Medina Electric and EMCSUD not responding. Police reports pending. Listing agreement still needed Jerry Sadler and Ray Stidham.
 [    ] Brandon Moran - Milagros Buyer Rep Follow-up — Buyer rep signed May 7 but need confirmation received. Pull new construction options all builders no HOA. MI Homes option Frank pending review. Budget $50K down ~$1000/mo payment.
 
 --- ACTIVE DEALS ---
