@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Wednesday, June 3, 2026 at 4:20 PM
+Date: Wednesday, June 3, 2026 at 4:41 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -82,112 +82,109 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Is there a way I could share our app from our desktop app app
-[Sirhc]: **Depends on what app you're running.**
+[Agent Green Thumb]: I did it with Instagram. I think Instagram caught that AI was it involved inside reduced my reach on the Instagram I got from Google Instagram. After we built that trust with Instagram. But, to be honest with you, I was getting more subscribers or followers using the bot that I was organically, because it was d m a from honda follower on youtube, youtube, instagram, a multic
+[Sirhc]: **Instagram killed your reach because of the bot.**
+
+Meta's algorithm detected automated DMs → shadowban/reach reduction.
+
+**What happened:**
+- Bot was DMing followers (working great for engagement)
+- Instagram flagged it as spam behavior
+- Reach tanked
+- You lost momentum
+
+**The lesson:** Platform automation has limits. Instagram wants *human* interaction.
+
+**Better play going forward:**
+- **YouTube** (your own platform, no algorithm risk)
+- **Landing pages** (direct traffic, you control it)
+- **Organic Instagram** (real DMs, real followers)
+- **Email/SMS** (owned channels — can't be throttled)
+
+**Log for command center:**
+- Shift focus away from Instagram automation
+- Double down on YouTube + landing pages (you control the reach)
+- Build email list aggressively (lenders, investors, buyers)
+
+**Real talk:** You learned an expensive lesson. Most people never recover from a shadowban. You're pivoting smarter now.
+
+Anything else on this?
+[Agent Green Thumb]: Make sure you full the referral agreement from my email.It'll be labeled from and then it went to creating that thing.And then I guess there's prompts along the way with sky s****.But what to pick it would stop and ask me what to pick.And I would just take tyler's notes and then after that, it's just saying, show all your brows here after you're just sitting there watching it.Yeah, let's try that.We can show them how to use.Yeah those cohort yeah cover
+[Sirhc]: **Got it — you're pulling a referral agreement template from your email.**
+
+**Process:**
+1. Find referral agreement in email (labeled from [sender])
+2. Feed it into Claude (with prompts along the way)
+3. Claude asks you to pick/confirm key details
+4. You grab Tyler's notes for specifics
+5. Output: completed referral agreement ready to show
+
+**Log this task:**
+- Pull referral agreement from email
+- Run through Claude with prompts
+- Use Tyler's notes for customization
+- Share template with team/cohort as example
+
+**For the Reel/demo:** This is actually a great workflow to show — how you're automating doc creation while staying in control (you approve each step).
+
+You good to move forward with that, or need clarity on something?
+[Agent Green Thumb]: We have a ongoing conversation of planning to do what to do with and if I have something done I just want to ask you my list of tomorrow. So it keeps going right? Stuff I don't do on the date carries over until they can knock It off the list of all YouTube channels comments like whatever does post the data for prefecing short sales divorces skip traces, it uploads it to 5 runs payroll for me. For my employees, so it will go through all the databases run the lens that were funded running the referral that we need to send out further.My payroll system upload it send out.So that's not what I trusted, but
+[Sirhc]: **Got it. You're building a persistent task/workflow system.**
+
+**Your setup:**
+- Daily to-do list (tasks carry over until done)
+- Automated data pulls:
+  - YouTube comments/engagement
+  - Short sales, divorces, skip traces
+  - Funded loans
+  - Referral tracking
+- Payroll automation (runs for employees)
+- All data uploads to a central hub
+
+**This is a back-office operating system.**
+
+Most agents are drowning in manual work. You're automating the machine — so you focus only on deals + relationships.
+
+**Log for tomorrow's debrief:**
+- What tasks are still manual that should be automated?
+- Which data pulls are most valuable (highest ROI)?
+- How's the payroll automation running?
+
+**Real question:** Is the system running smoothly, or are there glitches you need fixed?
+
+Because if it's working, this is your moat. If it's broken, we fix it first.
+
+What's the status?
+[Agent Green Thumb]: What's the website so I can share this desktop version of this app
+[Sirhc]: **You haven't given me a website URL yet.**
 
 Quick questions:
-- **What desktop app?** (eXp tools, custom build, something else?)
-- **What format do you want to share?** (screen recording, live demo, code/architecture docs?)
-- **Who's receiving it?** (Eric, command center, team?)
+- **Is the app deployed to a live domain?** (e.g., yoursite.com, app.yoursite.com)
+- **Or is it still local/in development?** (localhost:3000, etc.)
+- **What domain do you want to use?** (your realtor site, a separate app domain, etc.)
 
-If it's a **custom build**, you can:
-- Screen record the workflow
-- Share architecture docs + Claude prompts
-- Walk them through live over Zoom
-- Share code repo (if applicable)
+Once you tell me the actual URL, I can help you with the shareable link for the Reel/demo.
 
-If it's **eXp native**, different story — probably needs admin approval.
+What's the address?
+[Agent Green Thumb]: How can I share the desktop version of this app on someone else's computer. A url would be great
+[Sirhc]: **To share the desktop app with someone else:**
 
-What are we working with?
-[Agent Green Thumb]: This app that were building in and working now. You're listening to multiple teammates  in a mastermind.
-[Sirhc]: **Got it.** You're in a live mastermind session with teammates building this app together.
+**Option 1: Deploy to a live server (easiest)**
+- Host on Vercel, AWS, or similar
+- Give them the URL (e.g., `app.thatgardeningrealtor.com`)
+- They log in from any browser
 
-**For sharing the desktop app:**
+**Option 2: Screen share + record (for demo)**
+- Zoom/Teams screen share live
+- Record it, send video file
+- They see it in action
 
-1. **Screen share live** (Zoom/Teams) — show the workflow, data flow, backend
-2. **Record it** — send teammates the video walkthrough
-3. **Slack/email architecture docs** — how leads flow, data scoring logic, MLS integration
-4. **Invite them to test** — let them log in and click around (if it's ready)
+**Option 3: Local network share (if same office)**
+- Run app on your machine
+- Give them your local IP address (e.g., `192.168.1.100:3000`)
+- Only works on same WiFi
 
-**What makes sense right now?**
-- Live demo to the group?
-- Documentation dump?
-- Both?
+**For your mastermind/team right now:**
+Option 1 (deployed URL) is cleanest — they can test it themselves anytime.
 
-You're building the team's competitive advantage. Make it easy for everyone to see it + replicate it for their markets.
-
-What's the move?
-[Agent Green Thumb]: To basically pull a list of properties to be able to find who these owners are.And then again, I do like a scoring system where basically, you know, absentee owners, tax.Leans things like that, that have any type of signs of distress for the property.And then I also have a list that way that I can run through, like a dialer.And then I have, you know, basically people that I can go call to plan off my seal
-[Sirhc]: **This is a skip-trace + distress scoring system.**
-
-**Your flow:**
-1. Pull property list from MLS
-2. Identify owners (skip-trace)
-3. Score for distress signals:
-   - Absentee owners
-   - Tax liens
-   - Code violations
-   - Delinquency markers
-4. Export scored list → dialer
-5. Call list → cold prospect for deals
-
-**That's a deal-generation machine.**
-
-Most realtors wait for deals to come to them. You're hunting distressed sellers systematically.
-
-**Log for command center + mastermind:**
-- Document the scoring algorithm (which signals = highest priority)
-- Test conversion rates (which distress combos close best)
-- Scale the dialer cadence
-
-**Question for the room:** Are you using third-party skip-trace (TrueCaller, etc.) or building your own data stack?
-
-Either way — this is gold for fix & flip + investor buyers (Isaac, Jerome, Brandon).
-
-Anything else?
-[Agent Green Thumb]: Yo here to-do list your critical task list. However, you want to think about it. You know what is the next step? You know, you can use it to help you. Clarity is the key, you know, that's a really key way. I think all of us using it. I just take from the top.We just logged in for the first time in our lives.What settings would be the understanding
-[Sirhc]: **Clarity is everything.** You're right.
-
-**For a brand new team logging in for the first time:**
-
-1. **Start with YOUR critical task list** (Chris's to-do's from active deals + warm leads)
-2. **Map it to the app structure:**
-   - What data do you need to see first?
-   - What's the next action for each deal/lead?
-   - What can't slip?
-
-3. **Settings to nail:**
-   - **Default view** — show active deals + warm leads sorted by urgency
-   - **Notifications** — what alerts you (EMD received, showing scheduled, lead submitted, etc.)
-   - **Integration** — how does MLS/CRM data flow in?
-   - **User roles** — who sees what (you vs. command center vs. team)
-
-4. **Start small** — get YOUR workflow locked in first, then replicate for team
-
-**Real talk:** Before settings, answer this:
-- **What's the ONE thing you check first every morning?**
-
-Build the app around that. Everything else flows from clarity on that.
-
-What's the answer?
-[Agent Green Thumb]: And then code is like one building like apps or websites. We use code to build, so it has like the three different systems between the apps. But the best way to show is that, and this is on the desktop app right now. The Web browser and the Web browsers you can design like that actual nice, esthetic. Can you connect the website to see? And you could do that through core through code. I can't even show you, so let's do this video.We're gonna use the hype and we've got sort of pigs field and have you guys heard of it, no okay.So pretty much built out like a whole, pretty much on the whole movie and built up like a full episode or a full type of like cinematic movie, where we're going to do it with josh, we're gonna make like a thirty second, real from scratch, using your guys' ideas and we're gonna start with the chat, so i'm gonna make a like a thirty six thirty 62 sixty second real.I'm just giving some ideas of what you would want, josh to say.
-[Sirhc]: **Got it — switching gears to content creation.**
-
-You're using **Hype** (motion design tool) to build cinematic content:
-- Desktop app backend (code/data)
-- Web browser frontend (aesthetic/design)
-- Connected via code
-- Now: **30-60 second Reels** with Josh (your teammate)
-
-**For the chat/script ideas:**
-
-What angle do you want Josh to hit?
-
-- **Educational?** (explaining your data scoring system)
-- **Social proof?** (client testimonial/deal close)
-- **Lead gen?** (pain point → solution)
-- **Behind-the-scenes?** (showing the app/system at work)
-
-**Real talk:** Your system is complex. The Reel should be *simple* — one idea, one hook, 30 seconds.
-
-What's the main thing you want Josh to communicate?
+**Do you have a domain/hosting set up yet, or are we still local?**
