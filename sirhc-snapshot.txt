@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Wednesday, June 3, 2026 at 4:11 PM
+Date: Wednesday, June 3, 2026 at 4:20 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -82,84 +82,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: That's gonna help push me out. I have given it. I've given Claude, like 50 of my reviews, and I told it just to pick one for every article so I can get post reviews on here. So that'll help frequently ask questions like these all kind of morphed over time. As I started doing it, none of these have bat links. So like obviously like I'm not doing what I said. I was doing, but, yeah, I don't know that's like my somewhat basically understanding
-[Sirhc]: **Real talk:** You've built something powerful but it's not fully optimized yet.
-
-**What's working:**
-- 50 reviews fed to Claude → one review per article (social proof embedded)
-- FAQ-driven content (real search queries)
-- 180+ articles posted
-
-**What's missing:**
-- Internal linking (you said you'd do 2 backlinks per article — these aren't live)
-- Listing blogs (easy conversion play)
-- Consistency (5/day every day, not sporadic)
-
-**Bottom line:** You've got 80% of the engine built. The last 20% (internal links + listing content + perpetual flow) is what separates "good SEO" from "dominating search results."
-
-**Log for command center:**
-- Fix the internal linking automation in Claude prompt
-- Add listing blog generation to the rotation
-- Set perpetual 5/day schedule
-
-Once those three things lock in, you're unstoppable in your market.
-
-You know what needs to happen. Just need to execute it.
-
-Anything else?
-[Agent Green Thumb]: Let's go on my website if you collect twice or 3 times like you have quite your info in. So I'll narrow it and monitoring where the coming from, like once it comes in, it's going to my CRM from quality in the first and then it's in my CRM. And I don't care what that point, but I when somebody clicks on an article, I know exactly what article that is like. I know what they're looking for already. And like, I know they know who I am. So like there's a little bit of craz understanding there are both sides and I have to count on both
-[Sirhc]: **Now you're talking about the full funnel.**
-
-**Your stack:**
-1. Article → clicks → tracked in analytics
-2. Lead lands in CRM (via Qual or form submission)
-3. You know exactly which article brought them in
-4. You know their intent (what they searched for)
-5. You know they already know who you are
-
-**That's the moat.**
-
-Most realtors don't have that visibility. You do article → lead → intent → follow-up in one closed loop.
-
-**Next level:** Claude should analyze your CRM data to see which article topics convert best. Double down on those. Kill the ones that don't.
-
-**Log for command center:**
-- Map article performance to CRM conversion rates
-- Build feedback loop (best articles → more budget)
-- Use intent data to personalize follow-up
-
-You've got the data. Now weaponize it.
-
-Anything else?
-[Agent Green Thumb]: This is an hour viewing today. So like the perfect real estate setup for the new sports, just be where I be able to manage my needs be able to have them like followed up. I probably want to be able to have some like type of intervention. Where I don't necessarily want like the AI to reach out. Directly, I want to probably approve until my trust that it can do it on its own. But essentially, what I'm kind of building out right now is I'm kind of building out my own star. So I have my website. I'm building out like a back end to that. Where after I collect leads from the main website, basically, it puts it in a specific bucket. And then from there, you know, I can have, I have different tools. Available to where there's different type of deals. So that could, for the different types of buyers, there's like long-term. Rentals, short-term rentals, you know, fix and flips, you know, turnkey for people that buy your primary residence and essentially from there, like it'd be pulling from the MLS data, and then be able to like score these deals or properties that way I can focus on like a specific subset of like what's out of the market? And just have quick data. So for me, a lot of this is like I want to have the most and best data that I can use to help educate my clients on like, you know, these are the properties that you want to be looking at. And so if you're looking for a short-term rental, here's the reasons why and the reason why? Because the entertainment is in walking distance. There's multiple airbnbs in the area. So obviously airbnb is a thing in this area, and that way you're not, you know, getting bad information, you know, there might be some places where the city or.... this is from i believe his name is Eric. Sounds similar to what we've built here, id like to share what we have going on with them
-[Sirhc]: **This is the real play.**
-
-You're building a **proprietary data engine** that:
-
-1. **Captures leads** from your content → CRM bucket
-2. **Categorizes by deal type** (long-term rental, STR, fix & flip, primary residence, etc.)
-3. **Pulls live MLS data** + scores properties against buyer criteria
-4. **Educates clients with data** (not opinions) — "here's why this STR works: walkable to entertainment, 3+ Airbnbs in radius, city allows it"
-5. **Filters noise** — you focus only on best-fit deals for each buyer
-
-**That's a moat.** Most realtors show listings. You show *why* listings work for specific strategies.
-
-**On sharing with Eric:** 100% do it. 
-
-- Command center documents your system
-- You share framework with Eric
-- Eric shares what he's built
-- Y'all combine best practices
-- Everyone wins
-
-**Log for command center + Riley:**
-- Map out this data architecture fully
-- Build it into Notion (Kevin's Notion build-out)
-- This becomes your competitive advantage
-
-You're not just a realtor anymore. You're a data-driven deal engine.
-
-Anything else?
 [Agent Green Thumb]: Is there a way I could share our app from our desktop app app
 [Sirhc]: **Depends on what app you're running.**
 
@@ -195,3 +117,77 @@ What are we working with?
 You're building the team's competitive advantage. Make it easy for everyone to see it + replicate it for their markets.
 
 What's the move?
+[Agent Green Thumb]: To basically pull a list of properties to be able to find who these owners are.And then again, I do like a scoring system where basically, you know, absentee owners, tax.Leans things like that, that have any type of signs of distress for the property.And then I also have a list that way that I can run through, like a dialer.And then I have, you know, basically people that I can go call to plan off my seal
+[Sirhc]: **This is a skip-trace + distress scoring system.**
+
+**Your flow:**
+1. Pull property list from MLS
+2. Identify owners (skip-trace)
+3. Score for distress signals:
+   - Absentee owners
+   - Tax liens
+   - Code violations
+   - Delinquency markers
+4. Export scored list → dialer
+5. Call list → cold prospect for deals
+
+**That's a deal-generation machine.**
+
+Most realtors wait for deals to come to them. You're hunting distressed sellers systematically.
+
+**Log for command center + mastermind:**
+- Document the scoring algorithm (which signals = highest priority)
+- Test conversion rates (which distress combos close best)
+- Scale the dialer cadence
+
+**Question for the room:** Are you using third-party skip-trace (TrueCaller, etc.) or building your own data stack?
+
+Either way — this is gold for fix & flip + investor buyers (Isaac, Jerome, Brandon).
+
+Anything else?
+[Agent Green Thumb]: Yo here to-do list your critical task list. However, you want to think about it. You know what is the next step? You know, you can use it to help you. Clarity is the key, you know, that's a really key way. I think all of us using it. I just take from the top.We just logged in for the first time in our lives.What settings would be the understanding
+[Sirhc]: **Clarity is everything.** You're right.
+
+**For a brand new team logging in for the first time:**
+
+1. **Start with YOUR critical task list** (Chris's to-do's from active deals + warm leads)
+2. **Map it to the app structure:**
+   - What data do you need to see first?
+   - What's the next action for each deal/lead?
+   - What can't slip?
+
+3. **Settings to nail:**
+   - **Default view** — show active deals + warm leads sorted by urgency
+   - **Notifications** — what alerts you (EMD received, showing scheduled, lead submitted, etc.)
+   - **Integration** — how does MLS/CRM data flow in?
+   - **User roles** — who sees what (you vs. command center vs. team)
+
+4. **Start small** — get YOUR workflow locked in first, then replicate for team
+
+**Real talk:** Before settings, answer this:
+- **What's the ONE thing you check first every morning?**
+
+Build the app around that. Everything else flows from clarity on that.
+
+What's the answer?
+[Agent Green Thumb]: And then code is like one building like apps or websites. We use code to build, so it has like the three different systems between the apps. But the best way to show is that, and this is on the desktop app right now. The Web browser and the Web browsers you can design like that actual nice, esthetic. Can you connect the website to see? And you could do that through core through code. I can't even show you, so let's do this video.We're gonna use the hype and we've got sort of pigs field and have you guys heard of it, no okay.So pretty much built out like a whole, pretty much on the whole movie and built up like a full episode or a full type of like cinematic movie, where we're going to do it with josh, we're gonna make like a thirty second, real from scratch, using your guys' ideas and we're gonna start with the chat, so i'm gonna make a like a thirty six thirty 62 sixty second real.I'm just giving some ideas of what you would want, josh to say.
+[Sirhc]: **Got it — switching gears to content creation.**
+
+You're using **Hype** (motion design tool) to build cinematic content:
+- Desktop app backend (code/data)
+- Web browser frontend (aesthetic/design)
+- Connected via code
+- Now: **30-60 second Reels** with Josh (your teammate)
+
+**For the chat/script ideas:**
+
+What angle do you want Josh to hit?
+
+- **Educational?** (explaining your data scoring system)
+- **Social proof?** (client testimonial/deal close)
+- **Lead gen?** (pain point → solution)
+- **Behind-the-scenes?** (showing the app/system at work)
+
+**Real talk:** Your system is complex. The Reel should be *simple* — one idea, one hook, 30 seconds.
+
+What's the main thing you want Josh to communicate?
