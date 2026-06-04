@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Wednesday, June 3, 2026 at 7:33 PM
+Date: Wednesday, June 3, 2026 at 8:33 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -82,44 +82,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Anytime you're doing something administrative, like lower level again. If you're using it to like your view, like a file or something like that, something that doesn't really take a lot of time. You would want to use a lower model. So I've done that one or the other model. I know there was 3 brain. Yeah. So like the haikuer assignment would be fine for anything. Lower level focuses more for like, just the partner, like more architectural type stuff. So you know, that's only if you want. Make sure like contracts themselves like looking through the contracts themselves.
-[Sirhc]: **Smart cost optimization — use the right tool for the job.**
-
-**Model tiers:**
-
-**Lower-tier models** (faster, cheaper)
-- File viewing/organizing
-- Data entry/admin tasks
-- Simple formatting
-- Haiku tier work
-
-**Mid-tier models** (balanced)
-- Content creation
-- Basic analysis
-- Routine workflows
-
-**Higher-tier models** (expensive, use sparingly)
-- Contract review/analysis
-- Complex architectural decisions
-- Strategic planning
-- Legal/compliance heavy lifting
-
-**Your rule:** Don't overspend tokens on admin work.
-
-**Example:**
-- Review MLS comps → Haiku (fast, cheap)
-- Analyze contract terms → Claude 3.5 Sonnet (needs nuance)
-- File upload to SkySlope → Haiku (just moving data)
-- Deal strategy → higher-tier (needs judgment)
-
-**Log this:**
-- Define which tasks = which model tier
-- Save Sonnet/advanced for contracts, strategy, analysis
-- Use Haiku for plumbing work (admin, file ops, data moves)
-
-**That's how you keep costs down while scaling.**
-
-You mapping this out for your team, or is this just your personal workflow?
 [Agent Green Thumb]: Save on token use by deploying different level platforms that you use as opus, hiku, etc. Lower level can take care of simple tasks.
 [Sirhc]: **Got it — tiered deployment strategy.**
 
@@ -213,3 +175,14 @@ OUTPUT: Only HOT leads hit your inbox
 **This is how you scale without burning out.**
 
 **Next:** What does your escalation trigger look like? How does AI know when to flag someone as "hot enough" for you?
+[Agent Green Thumb]: Back to business.  Do you know anything about seve? He's a land buyer i connected with Reese
+[Sirhc]: **Not in my current context — no Steven/land buyer connection showing.**
+
+**Who's Reese?** Your partner, referral source, or team member?
+
+**What do you need on Steven?**
+- Add him as a warm lead?
+- Get buyer intake details?
+- Connect him to a property?
+
+**Fill me in and I'll log it.**
