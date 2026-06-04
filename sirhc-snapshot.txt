@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Wednesday, June 3, 2026 at 8:45 PM
+Date: Wednesday, June 3, 2026 at 9:25 PM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -82,89 +82,61 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: く
-Seve Moreno
-Jun 03. 2026.12:50 am
-Reese said he's free at 10a tomorrow if you want to call him then, or I can give him your info and he can give you a ring.
-CD
-Jun 03. 2026. 12:50 am
-Ok sounds aood. Ill call tomorrow then Thanks
-SM
-Jun 03. 2026. 12:58 am
-You're welcome. I can let Laura know vou micht be calling her sometime around then as well I'II be here if you need anything in the meantime.
-CD
-Jun 03. 2026. 1:27 am
-Hey Seve, we're you able to get everything you needed from Reese?
-CD
-Jun 04, 2026, 12:35 am
-0/220
-Write your text message content here.
-V
-[Sirhc]: **Steven's last message to you:**
-"Hey Seve, were you able to get everything you needed from Reese?"
+[Agent Green Thumb]: Side note, we just got the unlock from Kevin to loop in notion the way I need it to be done. Can command center build that out for me?
+[Sirhc]: **Yes — command center can absolutely build out your Notion integration.**
 
-**Status:** Waiting on his reply about the Reese call.
+**What I'll need:**
+- What data flows from your CRM/app into Notion? (deals, leads, tasks, comps, etc.)
+- How do you want it organized? (by deal, by lead type, by phase, etc.)
+- Real-time sync or batch updates?
+- Any custom fields or calculations?
 
-**Your next move:**
-- Wait for Steven's response (he might still be processing)
-- If no reply by end of day, light follow-up: *"Hey — just checking in. Did you connect with Reese? Let me know how it goes."*
-- Once you hear back, assess his buy box and add to warm leads with full intake notes
+**Command center will handle the technical build.** I'll stay sharp on your deal/lead side and pull from Notion when you need quick intel.
 
-**Log this:** Steven (Land Buyer via Reese) — Pending intake after Reese call.
+**Drop those specs to command center and they'll get it rolling.**
+[Agent Green Thumb]: Kk. Did you get good notes from the mastermind? Can you drop a recap and how we can implement and improve?
+[Sirhc]: **I still don't have the mastermind notes — they haven't been shared with me yet.**
 
-Want me to remind you to follow up if he doesn't respond by EOD?
-[Agent Green Thumb]: He connected and just needs to submit the app and doce. Give me a follow up reply.
-[Sirhc]: **Reply to send:**
+**I need you to either:**
+- Paste the notes here
+- Share the link/doc
+- Give me the key takeaways verbally
 
-"Perfect — glad you connected with Reese. Once you get that app and docs submitted, we can start looking at what fits your timeline. I've got some solid land opportunities we should talk through. Let me know when those are in and we'll move fast."
+**Once I have them, I'll give you:**
+- What's actionable for your biz right now
+- How to layer it into your deals/leads
+- Quick wins vs. long-term systems
+- What fits your garden realtor + land investor niche
 
----
+**Get those notes to me and I'll build the recap.**
+[Agent Green Thumb]: I was recording voices and dropping them here earlier. You can see all that.
+[Sirhc]: **I don't have access to voice recordings or earlier conversation threads.**
 
-**Log it:** Steven Moreno (Land Buyer) — App/docs pending. Once submitted, pull full intake and match to active/pipeline land deals.
+**Each conversation with me starts fresh** — I only see what's in *this* current thread.
 
-Want me to flag a reminder to check in 48 hours if docs don't land?
-[Agent Green Thumb]: 个
-Seve Moreno
-tomorrow if vou want to call him then, or I can give him your info and he can give you a ring.
-CD
-Jun 03, 2026,12:50 am
-Ok sounds good. Ill call tomorrow then Thanks.
-SM
-Jun 03, 2026, 12:58 am
-You're welcome. I can let Laura know you might be calling her sometime around then as well I'lI be here if you need anything in the meantime.
-CD
-Jun 03. 2026. 1:27 am
-Hey Seve, we're you able to get everything you needed from Reese?
-CD
-Jun 04, 2026, 12:35 am
-Yes i need to fill everything out
-SM
-Jun 04. 2026.1:05 am
-0/220
-Write your text message content here.
-e
-[Sirhc]: **Steven just replied: "Yes i need to fill everything out"**
+**To get me those mastermind notes:**
+- Paste them here as text
+- Share key bullet points
+- Give me the summary you recorded
 
-**Send back:**
+**Then I'll recap and build the implementation plan.**
 
-"Got it. Take your time with those forms — no rush. Once they're done, shoot them over to Reese and copy me. I'll have some land deals lined up for you by then. Easy process."
+What's the easiest way for you to get those to me right now?
+[Agent Green Thumb]: Well thats what was happening earlier. Im guessing a sync will get that to command center to learn and build out?
+[Sirhc]: **You're right — that's the play.**
 
----
+**Command center needs to pull those voice notes/earlier conversation threads and sync them into my context.** Once they do, I'll have the full mastermind recap and can build implementation strategy immediately.
 
-**Log it:** Steven Moreno — App/docs in progress. ETA TBD. Follow up in 3-5 days if not submitted.
+**Hit up command center:** "Sync earlier voice notes and mastermind recap so Sirhc has full context for implementation planning."
 
-Keep the door open, no pressure. He's moving.
-[Agent Green Thumb]: No - marks and I only have 220 spaces
-[Sirhc]: **220 characters max — got it.**
+They'll get it locked in and I'll be ready to go.
+[Agent Green Thumb]: They were voice to text and logged in this chat above.
+[Sirhc]: **I'm looking at this chat thread from the top — I only see the conversation starting with Steven Moreno's message about Reese.**
 
-**Send:**
+**The voice-to-text notes aren't showing up in my view.** Could be a sync lag or they're in a different thread.
 
-"Perfect. Get those filled out when you can and send to Reese. I'll have some land deals ready for you. Let me know once they're in."
+**Quick fix:**
+- Copy/paste those mastermind notes here directly, or
+- Send command center a message: "Pull the voice-to-text mastermind notes from earlier in Chris's chat and sync to Sirhc's context"
 
----
-
-That's 139 characters. Keeps it light, moves him forward, and sets expectation.
-[Agent Green Thumb]: Keep it a simple acknowledgement
-[Sirhc]: **Send:**
-
-"Sounds good. Get those to Reese when you can."
+Once I see them, I'm ready to build the recap and implementation plan.
