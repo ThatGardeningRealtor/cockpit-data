@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Friday, June 5, 2026 at 8:53 AM
+Date: Friday, June 5, 2026 at 9:42 AM
 Day Type: ON
 Calls Made: 0 / 5
 
@@ -82,63 +82,3 @@ Total Miles: 0 · Total Spent: $0.00
 [Filmed] New Construction Tour — Grace Gardens | TikTok, Instagram, YouTube — Footage shot May 4 at Grace Gardens. Lennar, DR Horton and MI Homes all in area. Show the community, the product, the value.
 [Idea] Lennar vs DR Horton vs MI Homes — Which Builder Wins? | TikTok, YouTube — Grace Gardens area — great opportunity to compare all three side by side. Content from May 4 site visit.
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
-
-## Field Chat Log (last 10)
-[Agent Green Thumb]: Side note, we just got the unlock from Kevin to loop in notion the way I need it to be done. Can command center build that out for me?
-[Sirhc]: **Yes — command center can absolutely build out your Notion integration.**
-
-**What I'll need:**
-- What data flows from your CRM/app into Notion? (deals, leads, tasks, comps, etc.)
-- How do you want it organized? (by deal, by lead type, by phase, etc.)
-- Real-time sync or batch updates?
-- Any custom fields or calculations?
-
-**Command center will handle the technical build.** I'll stay sharp on your deal/lead side and pull from Notion when you need quick intel.
-
-**Drop those specs to command center and they'll get it rolling.**
-[Agent Green Thumb]: Kk. Did you get good notes from the mastermind? Can you drop a recap and how we can implement and improve?
-[Sirhc]: **I still don't have the mastermind notes — they haven't been shared with me yet.**
-
-**I need you to either:**
-- Paste the notes here
-- Share the link/doc
-- Give me the key takeaways verbally
-
-**Once I have them, I'll give you:**
-- What's actionable for your biz right now
-- How to layer it into your deals/leads
-- Quick wins vs. long-term systems
-- What fits your garden realtor + land investor niche
-
-**Get those notes to me and I'll build the recap.**
-[Agent Green Thumb]: I was recording voices and dropping them here earlier. You can see all that.
-[Sirhc]: **I don't have access to voice recordings or earlier conversation threads.**
-
-**Each conversation with me starts fresh** — I only see what's in *this* current thread.
-
-**To get me those mastermind notes:**
-- Paste them here as text
-- Share key bullet points
-- Give me the summary you recorded
-
-**Then I'll recap and build the implementation plan.**
-
-What's the easiest way for you to get those to me right now?
-[Agent Green Thumb]: Well thats what was happening earlier. Im guessing a sync will get that to command center to learn and build out?
-[Sirhc]: **You're right — that's the play.**
-
-**Command center needs to pull those voice notes/earlier conversation threads and sync them into my context.** Once they do, I'll have the full mastermind recap and can build implementation strategy immediately.
-
-**Hit up command center:** "Sync earlier voice notes and mastermind recap so Sirhc has full context for implementation planning."
-
-They'll get it locked in and I'll be ready to go.
-[Agent Green Thumb]: They were voice to text and logged in this chat above.
-[Sirhc]: **I'm looking at this chat thread from the top — I only see the conversation starting with Steven Moreno's message about Reese.**
-
-**The voice-to-text notes aren't showing up in my view.** Could be a sync lag or they're in a different thread.
-
-**Quick fix:**
-- Copy/paste those mastermind notes here directly, or
-- Send command center a message: "Pull the voice-to-text mastermind notes from earlier in Chris's chat and sync to Sirhc's context"
-
-Once I see them, I'm ready to build the recap and implementation plan.
