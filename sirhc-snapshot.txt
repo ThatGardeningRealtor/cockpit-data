@@ -1,46 +1,41 @@
 [SIRHC — APP SNAPSHOT]
-Date: Friday, June 5, 2026 at 9:42 AM
-Day Type: ON
+Date: Saturday, June 6, 2026 at 5:13 PM
+Day Type: IN
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
-[    ] Pamela Moore — VA Buyer Call — Military retirement + disability income. $1,700/mo rent. VA loan eligible, zero down. Has been flagged since Apr 30. Do not let slip.
-[    ] Milagros Stringer — New Construction Buyer Registration — Mom of Brandon. Looking for new construction Grace Gardens / Lennar area. Must register as buyer agent on FIRST builder visit. Critical. Budget $50K down, target ~$1,000/mo payment.
-[    ] 10023 Mill Path — Second-Look Buyers Follow-up — Second-look buyers are favorite property. Pre-inspection report offered. Showing rescheduled to May 30. Decisions expected in 1-2 weeks.
-[    ] 181 CR 7751 — Utility Setup & Listing Submission — Electric reconnected. Flooring this week. Water meter pending 1-2 days. Cameras installed. Submit listing agreement to Jerry Sadler and Ray Stidham (Priority Bank).
-[    ] Tilden 20ac — EMD & Amendment Confirmation — Contract at $113K. Earnest money not yet received. TXR 1903 amendment sent to buyer agent Javier. Chicago Title (Alyssa Castillo) handling escrow.
+[    ] Call Pamela Moore TODAY — Military retirement buyer, $1,700/mo rent, motivated. Last follow-up Apr 29. Overdue as of May 14. Call or text, check in warm, confirm VA lender connection.
+[    ] Confirm 181 CR 7751 Utilities Status — Electric reconnected from pole to meter. Need to confirm water meter setup status. Get transformer number for Medina Electric application. Property cleanup nearly complete, utility setup critical for listing.
+[    ] Confirm 10023 Mill Path Tomorrow Showing — Rescheduled showing to May 30 at 2pm (time TBD). Second-look buyers love the property and floorplan. Pre-inspection report offered. Get time confirmation from showing agent.
+[    ] Pull CMA for Kurt Lehr — Neighbor interested in selling property or getting comps on nearby listing. Pull full CMA for his area, set up listing timeline discussion, follow up on 9815 Conbes details.
+[    ] Brandon Moran & Milagros Buyer Setup — Brandon's mom Milagros needs new construction home. Budget $50K down, target ~$1,000/mo payment. Not locked to Grace Gardens. Buyer rep signed May 7. MI Homes option from Frank still pending review. Get Milagros signed docs back, prepare builder options across all communities.
 
 --- ACTIVE DEALS ---
-3504 Painted Riv | — | Stage: 1 | Off-market flip. Purchase $199K, rehab $65K, ARV $340K, projected profit $42K-$62K. May 1 close target. CMA: 31 comps, $207K avg, $266K est value.
-  Log (Apr 18): Investor sent deal via homesteadvested.com link. Used as basis for property analysis tool.
-10023 Mill Path | — | Stage: 3 | 3BR/2.5BA, 1,886 sqft, 2011 build, Laura Heights PUD. Listed $259,900 May 14. June deadline (relocating NC). Multiple showings. Second-look buyers are hottest lead.
-  Log (May 29): Second-look buyers came back for second showing. Their favorite property. Walk-in closet noted as slightly small. Pre-inspection report offered.
-  Log (May 22): Texted Jose and Katy about investor cash offer at $176,300. 4th showing scheduled May 23 at 1:30pm.
-  Log (May 14): MLS live. Sign and lockbox dropped. First showing 9:15am. Cultural concern about street direction noted.
-485 W FM 462 | — | Stage: 1 | 3BR/2BA, 1,809 sqft, 4.05 acres. Payoff $255,578 (Feb 2026, ~$257K today). Thin market CMA. Recommended list price $295K. Divorce situation. Met May 15.
-  Log (May 15): Met at property 10am. Payoff confirmed $255,578 as of Feb 2026. CMA pulled: thin market, 3 comps in 10 miles. Built listing presentation with net sheet.
-  Log (Apr 24): Prior VA loan clients. Going through divorce. Need to finish renovation and sell. Colton looking for contractor work at 181 CR 7751.
-Tilden 20ac | — | Stage: 3 | 20 acres hunting property (19.71 in A-735, 0.29 in A-756). Contract at $113,000 with Espinoza buyers. Waiting on EMD and signed TXR 1903 amendment from buyer agent Javier.
-  Log (May 29): Espinoza buyers under contract at $113K. TXR 1903 amendment sent to Javier. EMD not yet received. Alyssa Castillo at Chicago Title handling escrow.
-  Log (May 12): Steve signed amendment. MLS updated to $117,500. Exclusions locked: Conex contents, camper, deer feeders.
-181 CR 7751 | — | Stage: 1 | Bank-owned REO. Cleanup nearly complete. Electric reconnected. Flooring this week. Water meter pending. Matt Toney (HouzzPro) contractor. Drywall, paint, flooring in progress.
-  Log (Jun 2): Visited property. Installed 3 cameras, fully covered. Electricians reconnected from pole to meter. Drywall complete, second round paint finishing. Flooring starts tomorrow. Baseboards after flooring. Water meter 1-2 days.
-  Log (May 28): Drywall crew actively patching. Sent photos to Kelly. Kelly got mileage approved. Police reports still stalled.
+3504 Painted Riv | — | Stage: 1 | Off-market flip analysis. Purchase $199K, rehab $65K, ARV $340K, profit $42K-$62K. CMA pulled, 31 comps, estimated value $266K. Building branded analysis template.
+  Log (Apr 18): Investor sent deal via Homestead Vested link, used as basis for analysis tool
+485 W FM 462 | — | Stage: 1 | 3BR/2BA, 1,809 sqft, 4.05 acres, Pearsall ISD. Payoff $257K estimated. Sellers need $285K-$290K minimum. Recommended list price $295,000.
+  Log (May 15): Met at property, pulled CMA, confirmed payoff $255,578, built net sheet
+10023 Mill Path | — | Stage: 2 | 3BR/2.5BA, 1,886 sqft, 2011, Laura Heights PUD. Listed May 14 at $259,900. Second-look buyers interested, pre-inspection report offered. Sellers relocating to NC second week of June.
+  Log (May 29): Second-look buyers came back, this is their favorite property, pre-inspection offered
+  Log (May 22): Investor cash offer at $176,300 discussed
+  Log (May 14): MLS live, sign and lockbox dropped, neighborhood canvassed
+Tilden 20 Acres | — | Stage: 2 | 20 acres, hunting property. Under contract with Espinoza buyers at $113,000. Waiting on earnest money deposit and signed TXR 1903 amendment from buyer's agent Javier.
+  Log (May 29): New buyers Espinoza, amendment sent to buyer agent Javier for execution
+181 CR 7751 | — | Stage: 1 | Priority Bank foreclosure. Cleanup nearly complete. Electricians reconnected from pole to meter. Drywall complete, flooring starting. Water meter pending setup.
+  Log (Jun 2): Electricians reconnected, drywall complete, flooring starts this week, water meter pending
+  Log (May 28): Drywall crew actively patching, sent photos to Kelly
 
 --- LEADS ---
-Sallie Mae F. | Community Contact | Stage: — | Last Contact: — | Next: Follow up personally. Ask permission to share her story on social media.
-Isaac — Investor | Investor Buyer | Stage: — | Last Contact: — | Next: Full Sage intake call. Understand buy box, budget, timeline, strategy (flip vs hold).
-Miss Pat Neighbor — Son | Potential Listing | Stage: — | Last Contact: — | Next: Get more info from Miss Pat (son name, contact info). Reach out with garden angle first, realtor second. Be sensitive to recent loss.
-Bryce & Wife | VA Buyer | Stage: — | Last Contact: — | Next: Get Bryce contact info. Confirm wife VA eligibility (branch, service status). Connect with VA-approved lender.
-Jerome Gardner | Buyer (Fixer Property) | Stage: — | Last Contact: — | Next: Follow up with Jerome. Get full details on buyer and property. Understand financing and work scope.
-Brandon Moran | Referral Partner | Stage: — | Last Contact: — | Next: New construction buyer (Milagros) is the hot play. Must register as buyer agent on first builder visit. Confirm visit timing Wed or Thu with Brandon and mom.
-  Log (May 11): Reached out to builders for inventory. Rate buydowns are key angle. Milagros buyer rep sent but not yet signed.
-Mike & Alice Howell | Buyer | Stage: — | Last Contact: — | Next: If 301 W Saxet Corpus deal falls through, revisit new construction search. Confirm Zach pre-approval status.
-  Log (Jun 1): Out of 301 W Saxet Corpus deal. Too much for them. Still actively searching.
-Pamela Moore | VA Buyer | Stage: — | Last Contact: — | Next: Call or text today. Has been overdue since Apr 30. Connect with VA-approved lender when she responds. Qualify timeline, budget, target area.
-  Log (May 14): Flagged to call today. Do not let this slip again. VA buyer, motivated, hot lead.
-  Log (Apr 29): Spoke today. Sick grandkid, not right time to push. Warm conversation. Follow up tomorrow.
-Kurt Lehr | Prospect | Stage: — | Last Contact: — | Next: Pull CMA for Kurt area. Follow up with listing agent on 9815 Conbes details. Report back to Kurt on market situation.
+Sallie Mae F. | Community Connection | Stage: — | Last Contact: — | Next: Follow up personally, ask permission for story share
+Mike & Alice Howell | Buyer | Stage: — | Last Contact: — | Next: Revisit new construction search, identify builder options, confirm pre-approval status
+  Log (Jun 1): Out of 301 W Saxet Corpus deal, still actively searching
+Kurt Lehr | Prospect | Stage: — | Last Contact: — | Next: Pull CMA for Kurt area, follow up on 9815 Conbes listing details
+  Log (May 14): Flagged as priority - pull CMA and setup listing timeline
+Pamela Moore | Buyer | Stage: — | Last Contact: — | Next: Call or text today - check in, confirm VA lender connection, qualify timeline and budget
+  Log (May 14): Overdue for call - do not let this slip, VA buyer with strong motivation
+  Log (Apr 29): Spoke today, sick grandkid, warm conversation, follow up needed
+Bryce (VA Buyer) | Buyer | Stage: — | Last Contact: — | Next: Get contact info, confirm wife VA eligibility, connect with VA lender
+  Log (May 11): Met on-site at Priority Bank property, wife active military, looking to buy
 
 --- TASKS ---
 [DONE] Call lien holder — Coughran Rd [Urgent] — Fernando signed lien release Apr 21. Deal closed and funded Apr 27.
@@ -82,3 +77,63 @@ Total Miles: 0 · Total Spent: $0.00
 [Filmed] New Construction Tour — Grace Gardens | TikTok, Instagram, YouTube — Footage shot May 4 at Grace Gardens. Lennar, DR Horton and MI Homes all in area. Show the community, the product, the value.
 [Idea] Lennar vs DR Horton vs MI Homes — Which Builder Wins? | TikTok, YouTube — Grace Gardens area — great opportunity to compare all three side by side. Content from May 4 site visit.
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
+
+## Field Chat Log (last 10)
+[Agent Green Thumb]: Side note, we just got the unlock from Kevin to loop in notion the way I need it to be done. Can command center build that out for me?
+[Sirhc]: **Yes — command center can absolutely build out your Notion integration.**
+
+**What I'll need:**
+- What data flows from your CRM/app into Notion? (deals, leads, tasks, comps, etc.)
+- How do you want it organized? (by deal, by lead type, by phase, etc.)
+- Real-time sync or batch updates?
+- Any custom fields or calculations?
+
+**Command center will handle the technical build.** I'll stay sharp on your deal/lead side and pull from Notion when you need quick intel.
+
+**Drop those specs to command center and they'll get it rolling.**
+[Agent Green Thumb]: Kk. Did you get good notes from the mastermind? Can you drop a recap and how we can implement and improve?
+[Sirhc]: **I still don't have the mastermind notes — they haven't been shared with me yet.**
+
+**I need you to either:**
+- Paste the notes here
+- Share the link/doc
+- Give me the key takeaways verbally
+
+**Once I have them, I'll give you:**
+- What's actionable for your biz right now
+- How to layer it into your deals/leads
+- Quick wins vs. long-term systems
+- What fits your garden realtor + land investor niche
+
+**Get those notes to me and I'll build the recap.**
+[Agent Green Thumb]: I was recording voices and dropping them here earlier. You can see all that.
+[Sirhc]: **I don't have access to voice recordings or earlier conversation threads.**
+
+**Each conversation with me starts fresh** — I only see what's in *this* current thread.
+
+**To get me those mastermind notes:**
+- Paste them here as text
+- Share key bullet points
+- Give me the summary you recorded
+
+**Then I'll recap and build the implementation plan.**
+
+What's the easiest way for you to get those to me right now?
+[Agent Green Thumb]: Well thats what was happening earlier. Im guessing a sync will get that to command center to learn and build out?
+[Sirhc]: **You're right — that's the play.**
+
+**Command center needs to pull those voice notes/earlier conversation threads and sync them into my context.** Once they do, I'll have the full mastermind recap and can build implementation strategy immediately.
+
+**Hit up command center:** "Sync earlier voice notes and mastermind recap so Sirhc has full context for implementation planning."
+
+They'll get it locked in and I'll be ready to go.
+[Agent Green Thumb]: They were voice to text and logged in this chat above.
+[Sirhc]: **I'm looking at this chat thread from the top — I only see the conversation starting with Steven Moreno's message about Reese.**
+
+**The voice-to-text notes aren't showing up in my view.** Could be a sync lag or they're in a different thread.
+
+**Quick fix:**
+- Copy/paste those mastermind notes here directly, or
+- Send command center a message: "Pull the voice-to-text mastermind notes from earlier in Chris's chat and sync to Sirhc's context"
+
+Once I see them, I'm ready to build the recap and implementation plan.
