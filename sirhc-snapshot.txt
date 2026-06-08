@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Monday, June 8, 2026 at 6:00 AM
+Date: Monday, June 8, 2026 at 6:18 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -104,33 +104,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Side note, we just got the unlock from Kevin to loop in notion the way I need it to be done. Can command center build that out for me?
-[Sirhc]: **Yes — command center can absolutely build out your Notion integration.**
-
-**What I'll need:**
-- What data flows from your CRM/app into Notion? (deals, leads, tasks, comps, etc.)
-- How do you want it organized? (by deal, by lead type, by phase, etc.)
-- Real-time sync or batch updates?
-- Any custom fields or calculations?
-
-**Command center will handle the technical build.** I'll stay sharp on your deal/lead side and pull from Notion when you need quick intel.
-
-**Drop those specs to command center and they'll get it rolling.**
-[Agent Green Thumb]: Kk. Did you get good notes from the mastermind? Can you drop a recap and how we can implement and improve?
-[Sirhc]: **I still don't have the mastermind notes — they haven't been shared with me yet.**
-
-**I need you to either:**
-- Paste the notes here
-- Share the link/doc
-- Give me the key takeaways verbally
-
-**Once I have them, I'll give you:**
-- What's actionable for your biz right now
-- How to layer it into your deals/leads
-- Quick wins vs. long-term systems
-- What fits your garden realtor + land investor niche
-
-**Get those notes to me and I'll build the recap.**
 [Agent Green Thumb]: I was recording voices and dropping them here earlier. You can see all that.
 [Sirhc]: **I don't have access to voice recordings or earlier conversation threads.**
 
@@ -162,3 +135,30 @@ They'll get it locked in and I'll be ready to go.
 - Send command center a message: "Pull the voice-to-text mastermind notes from earlier in Chris's chat and sync to Sirhc's context"
 
 Once I see them, I'm ready to build the recap and implementation plan.
+[Agent Green Thumb]: Noticed Gmail isn't connecting. It gave me this error that we can fix with command center later.
+[Sirhc]: **Got it — log that Gmail sync issue for command center to troubleshoot later.**
+
+**For now:** Keep moving. We'll get that connected, but it won't slow down your deals or leads.
+
+**Command center note:** Gmail integration error — troubleshoot when ready.
+
+Anything else blocking you right now on the active deals or leads?
+[Agent Green Thumb]: Access blocked: Authorization Error
+
+chris@getrealtytx.com
+
+Client missing a project id.
+
+If you are a developer of this app, see error details.
+
+Error 401: invalid_client
+[Sirhc]: **Got it. That's a Gmail OAuth setup issue — missing project ID or credentials need refreshing.**
+
+**Command center handles this:**
+- Verify Gmail app is registered in Google Cloud Console
+- Confirm project ID is in the integration settings
+- Re-authenticate the OAuth flow with chris@getrealtytx.com
+
+**Log it for them:** Gmail sync error 401 — missing project ID. Needs OAuth re-auth.
+
+**Won't impact your deals today.** Keep rolling on the pipeline.
