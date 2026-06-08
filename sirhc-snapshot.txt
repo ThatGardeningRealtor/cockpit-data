@@ -1,5 +1,5 @@
 [SIRHC — APP SNAPSHOT]
-Date: Monday, June 8, 2026 at 8:11 AM
+Date: Monday, June 8, 2026 at 9:05 AM
 Day Type: IN
 Calls Made: 0 / 5
 
@@ -14,9 +14,9 @@ Calls Made: 0 / 5
 3504 Painted Riv | — | Stage: 1 | Off-market flip. Purchase $199K, rehab $65K, ARV $340K, profit $42-62K. Template build in progress.
   Log (Apr 18): Used as basis for property analysis tool build
 10023 Mill Path | — | Stage: 2 | 3BR/2.5BA, 1,886 sqft. Listed $259,900 May 14. Second-look buyers are hot lead. June deadline for sellers relocation.
+  Log (Jun 8 09:04): Garage code 072011 arrow
   Log (Jun 2): Multiple showings, second-look buyers coming back as favorite property
   Log (May 22): Investor cash offer discussed at $176,300, texted sellers keeping conversation open
-  Log (May 14): MLS live, first showing, neighborhood canvassed
 485 W FM 462 | — | Stage: 1 | 3BR/2BA, 1,809 sqft, 4.05 acres. Payoff $257K (May 2026). Thin market, 3 comps. Recommended list $295K. Divorce situation.
   Log (May 15): Met at property, pulled CMA, confirmed payoff $255,578, built net sheet
 181 CR 7751 | — | Stage: 1 | Bank-owned REO. Cleanup underway with HouzzPro/Matt Toney. Electric reconnected, flooring this week, water meter pending. Listing agreement still to be submitted.
@@ -80,19 +80,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: I was recording voices and dropping them here earlier. You can see all that.
-[Sirhc]: **I don't have access to voice recordings or earlier conversation threads.**
-
-**Each conversation with me starts fresh** — I only see what's in *this* current thread.
-
-**To get me those mastermind notes:**
-- Paste them here as text
-- Share key bullet points
-- Give me the summary you recorded
-
-**Then I'll recap and build the implementation plan.**
-
-What's the easiest way for you to get those to me right now?
 [Agent Green Thumb]: Well thats what was happening earlier. Im guessing a sync will get that to command center to learn and build out?
 [Sirhc]: **You're right — that's the play.**
 
@@ -138,3 +125,9 @@ Error 401: invalid_client
 **Log it for them:** Gmail sync error 401 — missing project ID. Needs OAuth re-auth.
 
 **Won't impact your deals today.** Keep rolling on the pipeline.
+[Agent Green Thumb]: Do you happen to remember the gate code for the mill path property
+[Sirhc]: **Not in my context — I don't have property access codes stored.**
+
+**Call Jose Arango or Katherine Nowell** (704-451-1808) — they'll have it.
+
+Or check your showing notes/MLS listing if you've been there before.
