@@ -1,6 +1,6 @@
 [SIRHC — APP SNAPSHOT]
-Date: Monday, June 8, 2026 at 9:50 AM
-Day Type: IN
+Date: Wednesday, June 10, 2026 at 8:36 PM
+Day Type: ON
 Calls Made: 0 / 5
 
 --- PRIORITIES ---
@@ -80,14 +80,6 @@ Total Miles: 0 · Total Spent: $0.00
 [Idea] New Construction Investor Strategy — Buy Now Rent Then Move In | Instagram, Facebook — Inspired by Brandon Moran opportunity. Grace Gardens Lennar. Strong angle for out-of-state buyers too.
 
 ## Field Chat Log (last 10)
-[Agent Green Thumb]: Well thats what was happening earlier. Im guessing a sync will get that to command center to learn and build out?
-[Sirhc]: **You're right — that's the play.**
-
-**Command center needs to pull those voice notes/earlier conversation threads and sync them into my context.** Once they do, I'll have the full mastermind recap and can build implementation strategy immediately.
-
-**Hit up command center:** "Sync earlier voice notes and mastermind recap so Sirhc has full context for implementation planning."
-
-They'll get it locked in and I'll be ready to go.
 [Agent Green Thumb]: They were voice to text and logged in this chat above.
 [Sirhc]: **I'm looking at this chat thread from the top — I only see the conversation starting with Steven Moreno's message about Reese.**
 
@@ -131,3 +123,17 @@ Error 401: invalid_client
 **Call Jose Arango or Katherine Nowell** (704-451-1808) — they'll have it.
 
 Or check your showing notes/MLS listing if you've been there before.
+[Agent Green Thumb]: Is there anything else we can do while we're on this side of town at 10023 millipath
+[Sirhc]: **10023 Mill Path is in active showings mode right now.**
+
+**Next actions on that deal:**
+- Confirm the May 30 showing time
+- Follow up with second-look buyers
+- Monitor for backup offers
+
+**If you're there now:**
+- Take fresh photos/video if the property looks sharp
+- Note any changes since last showing
+- Grab buyer feedback if you run into them
+
+**Any of that apply, or just doing a drive-by check?**
